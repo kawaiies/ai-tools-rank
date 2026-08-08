@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-08-08 16:04:51",
+ "fetched_at": "2026-08-08 08:18:54",
  "count": 400,
  "models": [
   {
@@ -578,8 +578,8 @@
    "id": "z-ai/glm-5.2",
    "name": "glm-5.2",
    "vendor": "z-ai",
-   "prompt_price": 2.66e-07,
-   "completion_price": 8.36e-07,
+   "prompt_price": 2.52e-07,
+   "completion_price": 7.92e-07,
    "context": 1048576,
    "modality": "text->text",
    "created": 1781631930,
