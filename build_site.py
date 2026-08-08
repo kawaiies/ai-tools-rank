@@ -43,6 +43,8 @@ def build():
         hot_disp = hot_item["display"] if hot_item else ""
         rows.append({
             "rank": i, "id": m["id"], "name": m["name"], "vendor": m["vendor"],
+            "url": f"https://openrouter.ai/{m['id']}",
+            "vendor_url": f"https://openrouter.ai/{m['vendor']}",
             "prompt": fmt_price(m["prompt_price"]), "completion": fmt_price(m["completion_price"]),
             "prompt_raw": m["prompt_price"], "completion_raw": m["completion_price"],
             "context": fmt_context(m["context"]), "context_raw": m["context"],
@@ -80,7 +82,11 @@ def build():
   .rank {{ color:#64748b; width:48px; }}
   .top3 .rank {{ color:#fbbf24; font-weight:700; }}
   .name {{ font-weight:600; color:#f8fafc; }}
+  .name a {{ color:#f8fafc; text-decoration:none; }}
+  .name a:hover {{ color:#38bdf8; text-decoration:underline; }}
   .vendor {{ color:#38bdf8; font-size:12px; }}
+  .vendor a {{ color:#38bdf8; text-decoration:none; }}
+  .vendor a:hover {{ text-decoration:underline; }}
   .free {{ display:inline-block; background:#059669; color:#fff; font-size:11px; padding:2px 8px; border-radius:99px; }}
   .desc {{ color:#94a3b8; font-size:12px; max-width:300px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }}
   footer {{ text-align:center; color:#475569; font-size:12px; padding:24px 0 8px; }}
@@ -127,7 +133,7 @@ function render() {{
   else if (curSort === 'vendor') list = [...list].sort((a,b) => a.vendor.localeCompare(b.vendor));
   tbody.innerHTML = list.map((m,i) => `<tr class="${{i<3?'top3':''}}">
     <td class="rank">${{i+1}}</td>
-    <td><div class="name">${{m.name}}</div><div class="vendor">${{m.vendor}}</div>${{m.free?'<span class="free">免费</span>':''}}</td>
+    <td><div class="name"><a href="${{m.url}}" target="_blank" rel="noopener">${{m.name}}</a></div><div class="vendor"><a href="${{m.vendor_url}}" target="_blank" rel="noopener">${{m.vendor}}</a></div>${{m.free?'<span class="free">免费</span>':''}}</td>
     <td>${{m.hot_disp || '—'}}</td>
     <td>${{m.prompt}}</td><td>${{m.completion}}</td><td>${{m.context}}</td>
     <td class="desc" title="${{esc(m.desc)}}">${{m.desc}}</td>
