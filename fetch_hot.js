@@ -1,12 +1,14 @@
 // 抓取 OpenRouter Top Weekly 热度（稳定版：初始渲染 + 有限滚动）
-let puppeteer;
-try { puppeteer = require('puppeteer'); } catch (e) { puppeteer = require('puppeteer-core'); }
+let puppeteer, CHROME;
+try {
+  puppeteer = require('puppeteer');            // Actions 全量安装（含 chromium）
+  CHROME = process.env.CHROME_PATH || puppeteer.executablePath();
+} catch (e) {
+  puppeteer = require('puppeteer-core');       // 本机：连系统 Chrome
+  CHROME = process.env.CHROME_PATH || 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe';
+}
 const fs = require('fs');
 const path = require('path');
-
-let CHROME;
-try { CHROME = process.env.CHROME_PATH || puppeteer.executablePath(); }
-catch (e) { CHROME = process.env.CHROME_PATH || 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'; }
 const OUT = path.join(__dirname, 'data', 'hot.json');
 
 async function main() {
