@@ -1,0 +1,75 @@
+{
+ "fetched_at": "2026-08-08T08:15:30.199Z",
+ "items": [
+  {
+   "name": "DeepSeek: DeepSeek V4 Flash 0731",
+   "tokens7d": 7850000000000,
+   "display": "7.85T tokens"
+  },
+  {
+   "name": "Tencent: Hy3",
+   "tokens7d": 6830000000000,
+   "display": "6.83T tokens"
+  },
+  {
+   "name": "DeepSeek: DeepSeek V4 Flash 0423",
+   "tokens7d": 6380000000000,
+   "display": "6.38T tokens"
+  },
+  {
+   "name": "Xiaomi: MiMo-V2.5",
+   "tokens7d": 5510000000000,
+   "display": "5.51T tokens"
+  },
+  {
+   "name": "OpenAI: GPT-5.6 Luna",
+   "tokens7d": 4630000000000,
+   "display": "4.63T tokens"
+  },
+  {
+   "name": "Z.ai: GLM 5.2",
+   "tokens7d": 3300000000000,
+   "display": "3.3T tokens"
+  },
+  {
+   "name": "DeepSeek: DeepSeek V4 Pro",
+   "tokens7d": 2630000000000,
+   "display": "2.63T tokens"
+  },
+  {
+   "name": "NVIDIA: Nemotron 3 Ultra (free)",
+   "tokens7d": 2500000000000,
+   "display": "2.5T tokens"
+  },
+  {
+   "name": "Google: Gemini 3.6 Flash",
+   "tokens7d": 2360000000000,
+   "display": "2.36T tokens"
+  },
+  {
+   "name": "Poolside: Laguna S 2.1 (free)",
+   "tokens7d": 1910000000000,
+   "display": "1.91T tokens"
+  },
+  {
+   "name": "MiniMax: MiniMax M3",
+   "tokens7d": 1800000000000,
+   "display": "1.8T tokens"
+  },
+  {
+   "name": "MoonshotAI: Kimi K3",
+   "tokens7d": 1420000000000,
+   "display": "1.42T tokens"
+  },
+  {
+   "name": "StepFun: Step 3.7 Flash",
+   "tokens7d": 1350000000000,
+   "display": "1.35T tokens"
+  },
+  {
+   "name": "Claude Opus 5",
+   "tokens7d": 1220000000000,
+   "display": "1.22T tokens"
+  }
+ ]
+}
