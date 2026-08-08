@@ -1,30 +1,30 @@
 {
- "fetched_at": "2026-08-08T08:19:03.958Z",
+ "fetched_at": "2026-08-08T08:25:53.788Z",
  "items": [
   {
    "name": "DeepSeek: DeepSeek V4 Flash 0731",
-   "tokens7d": 7830000000000,
-   "display": "7.83T tokens"
+   "tokens7d": 7850000000000,
+   "display": "7.85T tokens"
   },
   {
    "name": "Tencent: Hy3",
-   "tokens7d": 6790000000000,
-   "display": "6.79T tokens"
+   "tokens7d": 6830000000000,
+   "display": "6.83T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4 Flash 0423",
-   "tokens7d": 6360000000000,
-   "display": "6.36T tokens"
+   "tokens7d": 6380000000000,
+   "display": "6.38T tokens"
   },
   {
    "name": "Xiaomi: MiMo-V2.5",
-   "tokens7d": 5500000000000,
-   "display": "5.5T tokens"
+   "tokens7d": 5510000000000,
+   "display": "5.51T tokens"
   },
   {
    "name": "OpenAI: GPT-5.6 Luna",
-   "tokens7d": 4620000000000,
-   "display": "4.62T tokens"
+   "tokens7d": 4630000000000,
+   "display": "4.63T tokens"
   },
   {
    "name": "Z.ai: GLM 5.2",
@@ -33,8 +33,8 @@
   },
   {
    "name": "DeepSeek: DeepSeek V4 Pro",
-   "tokens7d": 2620000000000,
-   "display": "2.62T tokens"
+   "tokens7d": 2630000000000,
+   "display": "2.63T tokens"
   },
   {
    "name": "NVIDIA: Nemotron 3 Ultra (free)",
@@ -53,8 +53,8 @@
   },
   {
    "name": "MiniMax: MiniMax M3",
-   "tokens7d": 1790000000000,
-   "display": "1.79T tokens"
+   "tokens7d": 1800000000000,
+   "display": "1.8T tokens"
   },
   {
    "name": "MoonshotAI: Kimi K3",
@@ -68,8 +68,8 @@
   },
   {
    "name": "Claude Opus 5",
-   "tokens7d": 1210000000000,
-   "display": "1.21T tokens"
+   "tokens7d": 1220000000000,
+   "display": "1.22T tokens"
   }
  ]
 }
