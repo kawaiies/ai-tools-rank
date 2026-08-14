@@ -1,75 +1,75 @@
 {
- "fetched_at": "2026-08-13T03:59:33.088Z",
+ "fetched_at": "2026-08-14T03:55:33.037Z",
  "items": [
   {
-   "name": "DeepSeek: DeepSeek V4 Flash 0731",
-   "tokens7d": 10700000000000,
-   "display": "10.7T tokens"
+   "name": "8% off",
+   "tokens7d": 10900000000000,
+   "display": "10.9T tokens"
   },
   {
-   "name": "Tencent: Hy3",
-   "tokens7d": 10400000000000,
-   "display": "10.4T tokens"
+   "name": "DeepSeek: DeepSeek V4 Flash 0731",
+   "tokens7d": 10900000000000,
+   "display": "10.9T tokens"
+  },
+  {
+   "name": "50% off",
+   "tokens7d": 5280000000000,
+   "display": "5.28T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4 Flash 0423",
-   "tokens7d": 5380000000000,
-   "display": "5.38T tokens"
-  },
-  {
-   "name": "OpenAI: GPT-5.6 Luna",
-   "tokens7d": 5220000000000,
-   "display": "5.22T tokens"
+   "tokens7d": 5180000000000,
+   "display": "5.18T tokens"
   },
   {
    "name": "Xiaomi: MiMo-V2.5",
-   "tokens7d": 4700000000000,
-   "display": "4.7T tokens"
+   "tokens7d": 4349999999999.9995,
+   "display": "4.35T tokens"
   },
   {
    "name": "Z.ai: GLM 5.2",
-   "tokens7d": 3730000000000,
-   "display": "3.73T tokens"
+   "tokens7d": 3760000000000,
+   "display": "3.76T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4 Pro",
-   "tokens7d": 2720000000000,
-   "display": "2.72T tokens"
+   "tokens7d": 2800000000000,
+   "display": "2.8T tokens"
   },
   {
    "name": "NVIDIA: Nemotron 3 Ultra (free)",
-   "tokens7d": 2180000000000.0002,
-   "display": "2.18T tokens"
+   "tokens7d": 1990000000000,
+   "display": "1.99T tokens"
   },
   {
    "name": "Google: Gemini 3.6 Flash",
-   "tokens7d": 2150000000000,
-   "display": "2.15T tokens"
+   "tokens7d": 1810000000000,
+   "display": "1.81T tokens"
   },
   {
    "name": "Poolside: Laguna S 2.1 (free)",
-   "tokens7d": 1740000000000,
-   "display": "1.74T tokens"
-  },
-  {
-   "name": "MiniMax: MiniMax M3",
-   "tokens7d": 1640000000000,
-   "display": "1.64T tokens"
+   "tokens7d": 1710000000000,
+   "display": "1.71T tokens"
   },
   {
    "name": "Claude Opus 5",
+   "tokens7d": 1620000000000,
+   "display": "1.62T tokens"
+  },
+  {
+   "name": "MiniMax: MiniMax M3",
    "tokens7d": 1600000000000,
    "display": "1.6T tokens"
   },
   {
    "name": "MoonshotAI: Kimi K3",
-   "tokens7d": 1470000000000,
-   "display": "1.47T tokens"
+   "tokens7d": 1480000000000,
+   "display": "1.48T tokens"
   },
   {
    "name": "StepFun: Step 3.7 Flash",
-   "tokens7d": 1180000000000,
-   "display": "1.18T tokens"
+   "tokens7d": 1140000000000,
+   "display": "1.14T tokens"
   }
  ]
 }
