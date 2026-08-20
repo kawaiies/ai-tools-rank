@@ -1,75 +1,75 @@
 {
- "fetched_at": "2026-08-19T02:52:35.788Z",
+ "fetched_at": "2026-08-20T02:49:22.312Z",
  "items": [
   {
-   "name": "15% off",
+   "name": "DeepSeek: DeepSeek V4 Flash 0731",
    "tokens7d": 11400000000000,
    "display": "11.4T tokens"
   },
   {
    "name": "10% off",
-   "tokens7d": 10100000000000,
-   "display": "10.1T tokens"
-  },
-  {
-   "name": "OpenAI: GPT-5.6 Luna",
-   "tokens7d": 5920000000000,
-   "display": "5.92T tokens"
+   "tokens7d": 9650000000000,
+   "display": "9.65T tokens"
   },
   {
    "name": "15% off",
-   "tokens7d": 5580000000000,
-   "display": "5.58T tokens"
+   "tokens7d": 6280000000000,
+   "display": "6.28T tokens"
+  },
+  {
+   "name": "OpenAI: GPT-5.6 Luna",
+   "tokens7d": 5810000000000,
+   "display": "5.81T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4 Flash 0423",
-   "tokens7d": 4860000000000,
-   "display": "4.86T tokens"
+   "tokens7d": 4970000000000,
+   "display": "4.97T tokens"
   },
   {
    "name": "Z.ai: GLM 5.2",
-   "tokens7d": 4389999999999.9995,
-   "display": "4.39T tokens"
-  },
-  {
-   "name": "Google: Gemini 3.6 Flash",
-   "tokens7d": 2760000000000,
-   "display": "2.76T tokens"
+   "tokens7d": 4410000000000,
+   "display": "4.41T tokens"
   },
   {
    "name": "NVIDIA: Nemotron 3 Ultra (free)",
-   "tokens7d": 2730000000000,
-   "display": "2.73T tokens"
+   "tokens7d": 3230000000000,
+   "display": "3.23T tokens"
   },
   {
    "name": "Claude Opus 5",
-   "tokens7d": 2700000000000,
-   "display": "2.7T tokens"
+   "tokens7d": 2600000000000,
+   "display": "2.6T tokens"
   },
   {
-   "name": "60% off",
-   "tokens7d": 2590000000000,
-   "display": "2.59T tokens"
+   "name": "Google: Gemini 3.6 Flash",
+   "tokens7d": 2440000000000,
+   "display": "2.44T tokens"
+  },
+  {
+   "name": "70% off",
+   "tokens7d": 2360000000000,
+   "display": "2.36T tokens"
   },
   {
    "name": "MiniMax: MiniMax M3",
-   "tokens7d": 1720000000000,
-   "display": "1.72T tokens"
+   "tokens7d": 1780000000000,
+   "display": "1.78T tokens"
   },
   {
    "name": "Poolside: Laguna S 2.1 (free)",
-   "tokens7d": 1700000000000,
-   "display": "1.7T tokens"
+   "tokens7d": 1740000000000,
+   "display": "1.74T tokens"
   },
   {
    "name": "MoonshotAI: Kimi K3",
-   "tokens7d": 1340000000000,
-   "display": "1.34T tokens"
+   "tokens7d": 1330000000000,
+   "display": "1.33T tokens"
   },
   {
-   "name": "Anthropic: Claude Sonnet 5",
-   "tokens7d": 1100000000000,
-   "display": "1.1T tokens"
+   "name": "75% off",
+   "tokens7d": 1130000000000,
+   "display": "1.13T tokens"
   }
  ]
 }
