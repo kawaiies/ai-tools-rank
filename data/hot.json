@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-08-22T02:46:36.816Z",
+ "fetched_at": "2026-08-23T02:54:36.772Z",
  "items": [
   {
    "name": "DeepSeek: DeepSeek V4 Flash 0731",
@@ -7,69 +7,69 @@
    "display": "11.8T tokens"
   },
   {
-   "name": "5% off",
-   "tokens7d": 9010000000000,
-   "display": "9.01T tokens"
-  },
-  {
    "name": "15% off",
-   "tokens7d": 8300000000000.001,
-   "display": "8.3T tokens"
+   "tokens7d": 9240000000000,
+   "display": "9.24T tokens"
   },
   {
-   "name": "OpenAI: GPT-5.6 Luna",
-   "tokens7d": 5450000000000,
-   "display": "5.45T tokens"
-  },
-  {
-   "name": "DeepSeek: DeepSeek V4 Flash 0423",
-   "tokens7d": 5270000000000,
-   "display": "5.27T tokens"
-  },
-  {
-   "name": "NVIDIA: Nemotron 3 Ultra (free)",
-   "tokens7d": 4139999999999.9995,
-   "display": "4.14T tokens"
-  },
-  {
-   "name": "76% off",
-   "tokens7d": 3840000000000,
-   "display": "3.84T tokens"
-  },
-  {
-   "name": "Claude Opus 5",
-   "tokens7d": 2480000000000,
-   "display": "2.48T tokens"
+   "name": "5% off",
+   "tokens7d": 8640000000000.001,
+   "display": "8.64T tokens"
   },
   {
    "name": "Ox Alpha",
-   "tokens7d": 2360000000000,
-   "display": "2.36T tokens"
+   "tokens7d": 7070000000000,
+   "display": "7.07T tokens"
   },
   {
-   "name": "69% off",
-   "tokens7d": 1980000000000,
-   "display": "1.98T tokens"
+   "name": "62% off",
+   "tokens7d": 5360000000000,
+   "display": "5.36T tokens"
+  },
+  {
+   "name": "OpenAI: GPT-5.6 Luna",
+   "tokens7d": 5210000000000,
+   "display": "5.21T tokens"
+  },
+  {
+   "name": "NVIDIA: Nemotron 3 Ultra (free)",
+   "tokens7d": 4500000000000,
+   "display": "4.5T tokens"
+  },
+  {
+   "name": "76% off",
+   "tokens7d": 3630000000000,
+   "display": "3.63T tokens"
+  },
+  {
+   "name": "Claude Opus 5",
+   "tokens7d": 2100000000000,
+   "display": "2.1T tokens"
+  },
+  {
+   "name": "76% off",
+   "tokens7d": 1900000000000,
+   "display": "1.9T tokens"
   },
   {
    "name": "MiniMax: MiniMax M3",
-   "tokens7d": 1780000000000,
-   "display": "1.78T tokens"
+   "tokens7d": 1750000000000,
+   "display": "1.75T tokens"
   },
   {
    "name": "Poolside: Laguna S 2.1 (free)",
-   "tokens7d": 1720000000000,
-   "display": "1.72T tokens"
-  },
-  {
-   "name": "Google: Gemini 3.6 Flash",
-   "tokens7d": 1590000000000,
-   "display": "1.59T tokens"
+   "tokens7d": 1670000000000,
+   "display": "1.67T tokens"
   },
   {
    "name": "75% off",
-   "tokens7d": 1510000000000,
-   "display": "1.51T tokens"
+   "tokens7d": 1610000000000,
+   "display": "1.61T tokens"
+  },
+  {
+   "name": "Google: Gemini 3.6 Flash",
+   "tokens7d": 1480000000000,
+   "display": "1.48T tokens"
   }
  ]
 }
