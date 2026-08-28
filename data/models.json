@@ -1,7 +1,29 @@
 {
- "fetched_at": "2026-08-27 12:08:22",
- "count": 417,
+ "fetched_at": "2026-08-28 13:31:22",
+ "count": 387,
  "models": [
+  {
+   "id": "tencent/hy4-preview",
+   "name": "hy4-preview",
+   "vendor": "tencent",
+   "prompt_price": 8.34e-07,
+   "completion_price": 2.501e-06,
+   "context": 1048576,
+   "modality": "text->text",
+   "created": 1787897375,
+   "description": "Tencent: Hy4 preview is a mixture-of-experts model from Tencent, with 49B active parameters out of 770B total. It is designed for coding agents, complex tool-use workflows, and productivity tasks that"
+  },
+  {
+   "id": "inclusionai/ling-3.0-flash-fin:free",
+   "name": "ling-3.0-flash-fin:free",
+   "vendor": "inclusionai",
+   "prompt_price": 0.0,
+   "completion_price": 0.0,
+   "context": 262144,
+   "modality": "text->text",
+   "created": 1787846290,
+   "description": "Ling 3.0 Flash Fin is a finance-focused mixture-of-experts model from InclusionAI, built on Ling 3.0 Flash with 5.1B active parameters out of 124B total. It is designed for real-world investment..."
+  },
   {
    "id": "qwen/qwen3.8-flash",
    "name": "qwen3.8-flash",
@@ -182,8 +204,8 @@
    "id": "deepseek/deepseek-v4-pro-0813",
    "name": "deepseek-v4-pro-0813",
    "vendor": "deepseek",
-   "prompt_price": 1.122e-06,
-   "completion_price": 3.366e-06,
+   "prompt_price": 6.6e-07,
+   "completion_price": 1.98e-06,
    "context": 1048576,
    "modality": "text->text",
    "created": 1786549364,
@@ -215,8 +237,8 @@
    "id": "nvidia/nemotron-3.5-lightning",
    "name": "nemotron-3.5-lightning",
    "vendor": "nvidia",
-   "prompt_price": 8e-08,
-   "completion_price": 2e-07,
+   "prompt_price": 1e-07,
+   "completion_price": 2.5e-07,
    "context": 262144,
    "modality": "text->text",
    "created": 1786452751,
@@ -303,8 +325,8 @@
    "id": "deepseek/deepseek-v4-flash-0731",
    "name": "deepseek-v4-flash-0731",
    "vendor": "deepseek",
-   "prompt_price": 6e-08,
-   "completion_price": 1.2e-07,
+   "prompt_price": 7e-08,
+   "completion_price": 1.4e-07,
    "context": 1310720,
    "modality": "text->text",
    "created": 1785478908,
@@ -547,7 +569,7 @@
    "vendor": "kwaipilot",
    "prompt_price": 7.4e-07,
    "completion_price": 2.96e-06,
-   "context": 256000,
+   "context": 262144,
    "modality": "text->text",
    "created": 1783714589,
    "description": "KAT-Coder-Pro V2.5 is a flagship-level Agentic Coding model that can directly hand over an entire issue or an entire business workflow to it, allowing it to autonomously locate and make..."
@@ -558,17 +580,6 @@
    "vendor": "openai",
    "prompt_price": 2e-07,
    "completion_price": 1.2e-06,
-   "context": 1050000,
-   "modality": "text+image+file->text",
-   "created": 1783590867,
-   "description": "GPT-5.6 Luna Pro is the same underlying model as [GPT-5.6 Luna](https://openrouter.ai/openai/gpt-5.6-luna), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks.\n\nLe"
-  },
-  {
-   "id": "openai/gpt-5.6-luna-pro:batch",
-   "name": "gpt-5.6-luna-pro:batch",
-   "vendor": "openai",
-   "prompt_price": 1e-07,
-   "completion_price": 6e-07,
    "context": 1050000,
    "modality": "text+image+file->text",
    "created": 1783590867,
@@ -586,33 +597,11 @@
    "description": "GPT-5.6 Luna is a fast, cost-efficient model in OpenAI's GPT-5.6 series. It is suited for high-volume, latency-sensitive tasks such as chat, classification, and lightweight agentic workflows, providin"
   },
   {
-   "id": "openai/gpt-5.6-luna:batch",
-   "name": "gpt-5.6-luna:batch",
-   "vendor": "openai",
-   "prompt_price": 1e-07,
-   "completion_price": 6e-07,
-   "context": 1050000,
-   "modality": "text+image+file->text",
-   "created": 1783590864,
-   "description": "GPT-5.6 Luna is a fast, cost-efficient model in OpenAI's GPT-5.6 series. It is suited for high-volume, latency-sensitive tasks such as chat, classification, and lightweight agentic workflows, providin"
-  },
-  {
    "id": "openai/gpt-5.6-terra-pro",
    "name": "gpt-5.6-terra-pro",
    "vendor": "openai",
    "prompt_price": 2e-06,
    "completion_price": 1.2e-05,
-   "context": 1050000,
-   "modality": "text+image+file->text",
-   "created": 1783590861,
-   "description": "GPT-5.6 Terra Pro is the same underlying model as [GPT-5.6 Terra](https://openrouter.ai/openai/gpt-5.6-terra), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks.\n"
-  },
-  {
-   "id": "openai/gpt-5.6-terra-pro:batch",
-   "name": "gpt-5.6-terra-pro:batch",
-   "vendor": "openai",
-   "prompt_price": 1e-06,
-   "completion_price": 6e-06,
    "context": 1050000,
    "modality": "text+image+file->text",
    "created": 1783590861,
@@ -630,17 +619,6 @@
    "description": "GPT-5.6 Terra is a balanced model in OpenAI's GPT-5.6 series, positioned between the flagship Sol tier and the cost-efficient Luna tier. It is suited for everyday coding, reasoning, and agentic..."
   },
   {
-   "id": "openai/gpt-5.6-terra:batch",
-   "name": "gpt-5.6-terra:batch",
-   "vendor": "openai",
-   "prompt_price": 1e-06,
-   "completion_price": 6e-06,
-   "context": 1050000,
-   "modality": "text+image+file->text",
-   "created": 1783590857,
-   "description": "GPT-5.6 Terra is a balanced model in OpenAI's GPT-5.6 series, positioned between the flagship Sol tier and the cost-efficient Luna tier. It is suited for everyday coding, reasoning, and agentic..."
-  },
-  {
    "id": "openai/gpt-5.6-sol-pro",
    "name": "gpt-5.6-sol-pro",
    "vendor": "openai",
@@ -652,33 +630,11 @@
    "description": "GPT-5.6 Sol Pro is the same underlying model as [GPT-5.6 Sol](https://openrouter.ai/openai/gpt-5.6-sol), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks.\n\nLearn"
   },
   {
-   "id": "openai/gpt-5.6-sol-pro:batch",
-   "name": "gpt-5.6-sol-pro:batch",
-   "vendor": "openai",
-   "prompt_price": 1e-06,
-   "completion_price": 5e-06,
-   "context": 1050000,
-   "modality": "text+image+file->text",
-   "created": 1783590854,
-   "description": "GPT-5.6 Sol Pro is the same underlying model as [GPT-5.6 Sol](https://openrouter.ai/openai/gpt-5.6-sol), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks.\n\nLearn"
-  },
-  {
    "id": "openai/gpt-5.6-sol",
    "name": "gpt-5.6-sol",
    "vendor": "openai",
    "prompt_price": 2e-06,
    "completion_price": 1e-05,
-   "context": 1050000,
-   "modality": "text+image+file->text",
-   "created": 1783590850,
-   "description": "GPT-5.6 Sol is the flagship model in OpenAI's GPT-5.6 series. It is suited for complex reasoning, coding, and agentic workflows, and is particularly strong at command-line and multi-step coding tasks."
-  },
-  {
-   "id": "openai/gpt-5.6-sol:batch",
-   "name": "gpt-5.6-sol:batch",
-   "vendor": "openai",
-   "prompt_price": 1e-06,
-   "completion_price": 5e-06,
    "context": 1050000,
    "modality": "text+image+file->text",
    "created": 1783590850,
@@ -894,17 +850,6 @@
    "description": "MoonshotAI: Kimi K2.7 Code is a coding-focused model in Moonshot AI's Kimi K2 family, built to complete end-to-end programming tasks reliably over long contexts. It uses a native multimodal mixture-of"
   },
   {
-   "id": "moonshotai/kimi-k2.7-code:batch",
-   "name": "kimi-k2.7-code:batch",
-   "vendor": "moonshotai",
-   "prompt_price": 9.5e-07,
-   "completion_price": 4e-06,
-   "context": 262144,
-   "modality": "text+image->text",
-   "created": 1781266361,
-   "description": "MoonshotAI: Kimi K2.7 Code is a coding-focused model in Moonshot AI's Kimi K2 family, built to complete end-to-end programming tasks reliably over long contexts. It uses a native multimodal mixture-of"
-  },
-  {
    "id": "~anthropic/claude-fable-latest",
    "name": "claude-fable-latest",
    "vendor": "~anthropic",
@@ -963,9 +908,9 @@
    "id": "nvidia/nemotron-3-ultra-550b-a55b",
    "name": "nemotron-3-ultra-550b-a55b",
    "vendor": "nvidia",
-   "prompt_price": 6e-07,
-   "completion_price": 3.6e-06,
-   "context": 512288,
+   "prompt_price": 5e-07,
+   "completion_price": 2.2e-06,
+   "context": 262144,
    "modality": "text->text",
    "created": 1780551208,
    "description": "NVIDIA Nemotron 3 Ultra is an open frontier-reasoning and orchestration model from NVIDIA, with 55B active parameters out of 550B total (MoE). Built on a hybrid Transformer-Mamba mixture-of-experts ar"
@@ -1213,6 +1158,17 @@
    "description": "Mistral Medium 3.5 is a dense 128B instruction-following model from Mistral AI. It supports text and image inputs with text output, and is designed for agentic workflows, coding, and complex..."
   },
   {
+   "id": "mistralai/mistral-medium-3-5:batch",
+   "name": "mistral-medium-3-5:batch",
+   "vendor": "mistralai",
+   "prompt_price": 7.5e-07,
+   "completion_price": 3.75e-06,
+   "context": 262144,
+   "modality": "text+image+file->text",
+   "created": 1777570439,
+   "description": "Mistral Medium 3.5 is a dense 128B instruction-following model from Mistral AI. It supports text and image inputs with text output, and is designed for agentic workflows, coding, and complex..."
+  },
+  {
    "id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
    "name": "nemotron-3-nano-omni-30b-a3b-reasoning:free",
    "vendor": "nvidia",
@@ -1367,33 +1323,11 @@
    "description": "GPT-5.5 Pro is OpenAI’s high-capability model optimized for deep reasoning and accuracy on complex, high-stakes workloads. It features a 1M+ token context window (922K input, 128K output) with support"
   },
   {
-   "id": "openai/gpt-5.5-pro:batch",
-   "name": "gpt-5.5-pro:batch",
-   "vendor": "openai",
-   "prompt_price": 1.5e-05,
-   "completion_price": 9e-05,
-   "context": 1050000,
-   "modality": "text+image+file->text",
-   "created": 1777051896,
-   "description": "GPT-5.5 Pro is OpenAI’s high-capability model optimized for deep reasoning and accuracy on complex, high-stakes workloads. It features a 1M+ token context window (922K input, 128K output) with support"
-  },
-  {
    "id": "openai/gpt-5.5",
    "name": "gpt-5.5",
    "vendor": "openai",
    "prompt_price": 5e-06,
    "completion_price": 3e-05,
-   "context": 1050000,
-   "modality": "text+image+file->text",
-   "created": 1777051893,
-   "description": "GPT-5.5 is OpenAI’s frontier model designed for complex professional workloads, building on GPT-5.4 with stronger reasoning, higher reliability, and improved token efficiency on hard tasks. It feature"
-  },
-  {
-   "id": "openai/gpt-5.5:batch",
-   "name": "gpt-5.5:batch",
-   "vendor": "openai",
-   "prompt_price": 2.5e-06,
-   "completion_price": 1.5e-05,
    "context": 1050000,
    "modality": "text+image+file->text",
    "created": 1777051893,
@@ -1414,8 +1348,8 @@
    "id": "deepseek/deepseek-v4-flash",
    "name": "deepseek-v4-flash",
    "vendor": "deepseek",
-   "prompt_price": 7.952e-08,
-   "completion_price": 1.5904e-07,
+   "prompt_price": 8.708e-08,
+   "completion_price": 1.7416e-07,
    "context": 1048576,
    "modality": "text->text",
    "created": 1777000666,
@@ -1708,17 +1642,6 @@
    "description": "GPT-5.4 nano is the most lightweight and cost-efficient variant of the GPT-5.4 family, optimized for speed-critical and high-volume tasks. It supports text and image inputs and is designed for low-lat"
   },
   {
-   "id": "openai/gpt-5.4-nano:batch",
-   "name": "gpt-5.4-nano:batch",
-   "vendor": "openai",
-   "prompt_price": 1e-07,
-   "completion_price": 6.25e-07,
-   "context": 400000,
-   "modality": "text+image+file->text",
-   "created": 1773748187,
-   "description": "GPT-5.4 nano is the most lightweight and cost-efficient variant of the GPT-5.4 family, optimized for speed-critical and high-volume tasks. It supports text and image inputs and is designed for low-lat"
-  },
-  {
    "id": "openai/gpt-5.4-mini",
    "name": "gpt-5.4-mini",
    "vendor": "openai",
@@ -1730,19 +1653,19 @@
    "description": "GPT-5.4 mini brings the core capabilities of GPT-5.4 to a faster, more efficient model optimized for high-throughput workloads. It supports text and image inputs with strong performance across reasoni"
   },
   {
-   "id": "openai/gpt-5.4-mini:batch",
-   "name": "gpt-5.4-mini:batch",
-   "vendor": "openai",
-   "prompt_price": 3.75e-07,
-   "completion_price": 2.25e-06,
-   "context": 400000,
-   "modality": "text+image+file->text",
-   "created": 1773748178,
-   "description": "GPT-5.4 mini brings the core capabilities of GPT-5.4 to a faster, more efficient model optimized for high-throughput workloads. It supports text and image inputs with strong performance across reasoni"
-  },
-  {
    "id": "mistralai/mistral-small-2603",
    "name": "mistral-small-2603",
+   "vendor": "mistralai",
+   "prompt_price": 1.5e-07,
+   "completion_price": 6e-07,
+   "context": 262144,
+   "modality": "text+image->text",
+   "created": 1773695685,
+   "description": "Mistral Small 4 is the next major release in the Mistral Small family, unifying the capabilities of several flagship Mistral models into a single system. It combines strong reasoning from..."
+  },
+  {
+   "id": "mistralai/mistral-small-2603:batch",
+   "name": "mistral-small-2603:batch",
    "vendor": "mistralai",
    "prompt_price": 1.5e-07,
    "completion_price": 6e-07,
@@ -1818,33 +1741,11 @@
    "description": "GPT-5.4 Pro is OpenAI's most advanced model, building on GPT-5.4's unified architecture with enhanced reasoning capabilities for complex, high-stakes tasks. It features a 1M+ token context window (922"
   },
   {
-   "id": "openai/gpt-5.4-pro:batch",
-   "name": "gpt-5.4-pro:batch",
-   "vendor": "openai",
-   "prompt_price": 1.5e-05,
-   "completion_price": 9e-05,
-   "context": 1050000,
-   "modality": "text+image+file->text",
-   "created": 1772734366,
-   "description": "GPT-5.4 Pro is OpenAI's most advanced model, building on GPT-5.4's unified architecture with enhanced reasoning capabilities for complex, high-stakes tasks. It features a 1M+ token context window (922"
-  },
-  {
    "id": "openai/gpt-5.4",
    "name": "gpt-5.4",
    "vendor": "openai",
    "prompt_price": 2.5e-06,
    "completion_price": 1.5e-05,
-   "context": 1050000,
-   "modality": "text+image+file->text",
-   "created": 1772734352,
-   "description": "GPT-5.4 is OpenAI’s latest frontier model, unifying the Codex and GPT lines into a single system. It features a 1M+ token context window (922K input, 128K output) with support for..."
-  },
-  {
-   "id": "openai/gpt-5.4:batch",
-   "name": "gpt-5.4:batch",
-   "vendor": "openai",
-   "prompt_price": 1.25e-06,
-   "completion_price": 7.5e-06,
    "context": 1050000,
    "modality": "text+image+file->text",
    "created": 1772734352,
@@ -1920,8 +1821,8 @@
    "id": "qwen/qwen3.5-122b-a10b",
    "name": "qwen3.5-122b-a10b",
    "vendor": "qwen",
-   "prompt_price": 2.6e-07,
-   "completion_price": 2.08e-06,
+   "prompt_price": 2.9e-07,
+   "completion_price": 2.4e-06,
    "context": 262144,
    "modality": "text+image+video->text",
    "created": 1772053789,
@@ -2313,33 +2214,11 @@
    "description": "GPT-5.2 Pro is OpenAI’s most advanced model, offering major improvements in agentic coding and long context performance over GPT-5 Pro. It is optimized for complex tasks that require step-by-step reas"
   },
   {
-   "id": "openai/gpt-5.2-pro:batch",
-   "name": "gpt-5.2-pro:batch",
-   "vendor": "openai",
-   "prompt_price": 1.05e-05,
-   "completion_price": 8.4e-05,
-   "context": 400000,
-   "modality": "text+image+file->text",
-   "created": 1765389780,
-   "description": "GPT-5.2 Pro is OpenAI’s most advanced model, offering major improvements in agentic coding and long context performance over GPT-5 Pro. It is optimized for complex tasks that require step-by-step reas"
-  },
-  {
    "id": "openai/gpt-5.2",
    "name": "gpt-5.2",
    "vendor": "openai",
    "prompt_price": 1.75e-06,
    "completion_price": 1.4e-05,
-   "context": 400000,
-   "modality": "text+image+file->text",
-   "created": 1765389775,
-   "description": "GPT-5.2 is the latest frontier-grade model in the GPT-5 series, offering stronger agentic and long context perfomance compared to GPT-5.1. It uses adaptive reasoning to allocate computation dynamicall"
-  },
-  {
-   "id": "openai/gpt-5.2:batch",
-   "name": "gpt-5.2:batch",
-   "vendor": "openai",
-   "prompt_price": 8.75e-07,
-   "completion_price": 7e-06,
    "context": 400000,
    "modality": "text+image+file->text",
    "created": 1765389775,
@@ -2434,6 +2313,17 @@
    "description": "A balanced model in the Ministral 3 family, Ministral 3 8B is a powerful, efficient tiny language model with vision capabilities."
   },
   {
+   "id": "mistralai/ministral-8b-2512:batch",
+   "name": "ministral-8b-2512:batch",
+   "vendor": "mistralai",
+   "prompt_price": 1.5e-07,
+   "completion_price": 1.5e-07,
+   "context": 262144,
+   "modality": "text+image->text",
+   "created": 1764681654,
+   "description": "A balanced model in the Ministral 3 family, Ministral 3 8B is a powerful, efficient tiny language model with vision capabilities."
+  },
+  {
    "id": "mistralai/ministral-3b-2512",
    "name": "ministral-3b-2512",
    "vendor": "mistralai",
@@ -2456,11 +2346,22 @@
    "description": "Mistral Large 3 2512 is Mistral’s most capable model to date, featuring a sparse mixture-of-experts architecture with 41B active parameters (675B total), and released under the Apache 2.0 license."
   },
   {
+   "id": "mistralai/mistral-large-2512:batch",
+   "name": "mistral-large-2512:batch",
+   "vendor": "mistralai",
+   "prompt_price": 5e-07,
+   "completion_price": 1.5e-06,
+   "context": 262144,
+   "modality": "text+image+file->text",
+   "created": 1764624472,
+   "description": "Mistral Large 3 2512 is Mistral’s most capable model to date, featuring a sparse mixture-of-experts architecture with 41B active parameters (675B total), and released under the Apache 2.0 license."
+  },
+  {
    "id": "deepseek/deepseek-v3.2",
    "name": "deepseek-v3.2",
    "vendor": "deepseek",
-   "prompt_price": 2.6e-07,
-   "completion_price": 3.8e-07,
+   "prompt_price": 2.69e-07,
+   "completion_price": 4e-07,
    "context": 163840,
    "modality": "text->text",
    "created": 1764594642,
@@ -2516,17 +2417,6 @@
    "vendor": "openai",
    "prompt_price": 1.25e-06,
    "completion_price": 1e-05,
-   "context": 400000,
-   "modality": "text+image+file->text",
-   "created": 1763060305,
-   "description": "GPT-5.1 is the latest frontier-grade model in the GPT-5 series, offering stronger general-purpose reasoning, improved instruction adherence, and a more natural conversational style compared to GPT-5. "
-  },
-  {
-   "id": "openai/gpt-5.1:batch",
-   "name": "gpt-5.1:batch",
-   "vendor": "openai",
-   "prompt_price": 6.25e-07,
-   "completion_price": 5e-06,
    "context": 400000,
    "modality": "text+image+file->text",
    "created": 1763060305,
@@ -2753,17 +2643,6 @@
    "description": "GPT-5 Pro is OpenAI’s most advanced model, offering major improvements in reasoning, code quality, and user experience. It is optimized for complex tasks that require step-by-step reasoning, instructi"
   },
   {
-   "id": "openai/gpt-5-pro:batch",
-   "name": "gpt-5-pro:batch",
-   "vendor": "openai",
-   "prompt_price": 7.5e-06,
-   "completion_price": 6e-05,
-   "context": 400000,
-   "modality": "text+image+file->text",
-   "created": 1759776663,
-   "description": "GPT-5 Pro is OpenAI’s most advanced model, offering major improvements in reasoning, code quality, and user experience. It is optimized for complex tasks that require step-by-step reasoning, instructi"
-  },
-  {
    "id": "z-ai/glm-4.6",
    "name": "glm-4.6",
    "vendor": "z-ai",
@@ -2872,17 +2751,6 @@
    "modality": "text->text",
    "created": 1758662707,
    "description": "Qwen3 Coder Plus is Alibaba's proprietary version of the Open Source Qwen3 Coder 480B A35B. It is a powerful coding agent model specializing in autonomous programming via tool calling and..."
-  },
-  {
-   "id": "openai/gpt-5-codex:batch",
-   "name": "gpt-5-codex:batch",
-   "vendor": "openai",
-   "prompt_price": 6.25e-07,
-   "completion_price": 5e-06,
-   "context": 400000,
-   "modality": "text+image->text",
-   "created": 1758643403,
-   "description": "GPT-5-Codex is a specialized version of GPT-5 optimized for software engineering and coding workflows. It is designed for both interactive development sessions and long, independent execution of compl"
   },
   {
    "id": "deepseek/deepseek-v3.1-terminus",
@@ -3006,6 +2874,17 @@
    "description": "Mistral Medium 3.1 is an updated version of Mistral Medium 3, which is a high-performance enterprise-grade language model designed to deliver frontier-level capabilities at significantly reduced opera"
   },
   {
+   "id": "mistralai/mistral-medium-3.1:batch",
+   "name": "mistral-medium-3.1:batch",
+   "vendor": "mistralai",
+   "prompt_price": 4e-07,
+   "completion_price": 2e-06,
+   "context": 131072,
+   "modality": "text+image+file->text",
+   "created": 1755095639,
+   "description": "Mistral Medium 3.1 is an updated version of Mistral Medium 3, which is a high-performance enterprise-grade language model designed to deliver frontier-level capabilities at significantly reduced opera"
+  },
+  {
    "id": "z-ai/glm-4.5v",
    "name": "glm-4.5v",
    "vendor": "z-ai",
@@ -3028,17 +2907,6 @@
    "description": "GPT-5 is OpenAI’s most advanced model, offering major improvements in reasoning, code quality, and user experience. It is optimized for complex tasks that require step-by-step reasoning, instruction f"
   },
   {
-   "id": "openai/gpt-5:batch",
-   "name": "gpt-5:batch",
-   "vendor": "openai",
-   "prompt_price": 6.25e-07,
-   "completion_price": 5e-06,
-   "context": 400000,
-   "modality": "text+image+file->text",
-   "created": 1754587413,
-   "description": "GPT-5 is OpenAI’s most advanced model, offering major improvements in reasoning, code quality, and user experience. It is optimized for complex tasks that require step-by-step reasoning, instruction f"
-  },
-  {
    "id": "openai/gpt-5-mini",
    "name": "gpt-5-mini",
    "vendor": "openai",
@@ -3050,33 +2918,11 @@
    "description": "GPT-5 Mini is a compact version of GPT-5, designed to handle lighter-weight reasoning tasks. It provides the same instruction-following and safety-tuning benefits as GPT-5, but with reduced latency an"
   },
   {
-   "id": "openai/gpt-5-mini:batch",
-   "name": "gpt-5-mini:batch",
-   "vendor": "openai",
-   "prompt_price": 1.25e-07,
-   "completion_price": 1e-06,
-   "context": 400000,
-   "modality": "text+image+file->text",
-   "created": 1754587407,
-   "description": "GPT-5 Mini is a compact version of GPT-5, designed to handle lighter-weight reasoning tasks. It provides the same instruction-following and safety-tuning benefits as GPT-5, but with reduced latency an"
-  },
-  {
    "id": "openai/gpt-5-nano",
    "name": "gpt-5-nano",
    "vendor": "openai",
    "prompt_price": 5e-08,
    "completion_price": 4e-07,
-   "context": 400000,
-   "modality": "text+image+file->text",
-   "created": 1754587402,
-   "description": "GPT-5-Nano is the smallest and fastest variant in the GPT-5 system, optimized for developer tools, rapid interactions, and ultra-low latency environments. While limited in reasoning depth compared to "
-  },
-  {
-   "id": "openai/gpt-5-nano:batch",
-   "name": "gpt-5-nano:batch",
-   "vendor": "openai",
-   "prompt_price": 2.5e-08,
-   "completion_price": 2e-07,
    "context": 400000,
    "modality": "text+image+file->text",
    "created": 1754587402,
@@ -3129,6 +2975,17 @@
   {
    "id": "mistralai/codestral-2508",
    "name": "codestral-2508",
+   "vendor": "mistralai",
+   "prompt_price": 3e-07,
+   "completion_price": 9e-07,
+   "context": 256000,
+   "modality": "text+file->text",
+   "created": 1754079630,
+   "description": "Mistral's cutting-edge language model for coding released end of July 2025. Codestral specializes in low-latency, high-frequency tasks such as fill-in-the-middle (FIM), code correction and test genera"
+  },
+  {
+   "id": "mistralai/codestral-2508:batch",
+   "name": "codestral-2508:batch",
    "vendor": "mistralai",
    "prompt_price": 3e-07,
    "completion_price": 9e-07,
@@ -3391,17 +3248,6 @@
    "description": "The o-series of models are trained with reinforcement learning to think before they answer and perform complex reasoning. The o3-pro model uses more compute to think harder and provide consistently..."
   },
   {
-   "id": "openai/o3-pro:batch",
-   "name": "o3-pro:batch",
-   "vendor": "openai",
-   "prompt_price": 1e-05,
-   "completion_price": 4e-05,
-   "context": 200000,
-   "modality": "text+image+file->text",
-   "created": 1749598352,
-   "description": "The o-series of models are trained with reinforcement learning to think before they answer and perform complex reasoning. The o3-pro model uses more compute to think harder and provide consistently..."
-  },
-  {
    "id": "google/gemini-2.5-pro-preview",
    "name": "gemini-2.5-pro-preview",
    "vendor": "google",
@@ -3556,33 +3402,11 @@
    "description": "OpenAI o4-mini-high is the same model as [o4-mini](/openai/o4-mini) with reasoning_effort set to high. OpenAI o4-mini is a compact reasoning model in the o-series, optimized for fast, cost-efficient p"
   },
   {
-   "id": "openai/o4-mini-high:batch",
-   "name": "o4-mini-high:batch",
-   "vendor": "openai",
-   "prompt_price": 5.5e-07,
-   "completion_price": 2.2e-06,
-   "context": 200000,
-   "modality": "text+image+file->text",
-   "created": 1744824212,
-   "description": "OpenAI o4-mini-high is the same model as [o4-mini](/openai/o4-mini) with reasoning_effort set to high. OpenAI o4-mini is a compact reasoning model in the o-series, optimized for fast, cost-efficient p"
-  },
-  {
    "id": "openai/o3",
    "name": "o3",
    "vendor": "openai",
    "prompt_price": 2e-06,
    "completion_price": 8e-06,
-   "context": 200000,
-   "modality": "text+image+file->text",
-   "created": 1744823457,
-   "description": "o3 is a well-rounded and powerful model across domains. It sets a new standard for math, science, coding, and visual reasoning tasks. It also excels at technical writing and instruction-following...."
-  },
-  {
-   "id": "openai/o3:batch",
-   "name": "o3:batch",
-   "vendor": "openai",
-   "prompt_price": 1e-06,
-   "completion_price": 4e-06,
    "context": 200000,
    "modality": "text+image+file->text",
    "created": 1744823457,
@@ -3600,33 +3424,11 @@
    "description": "OpenAI o4-mini is a compact reasoning model in the o-series, optimized for fast, cost-efficient performance while retaining strong multimodal and agentic capabilities. It supports tool use and demonst"
   },
   {
-   "id": "openai/o4-mini:batch",
-   "name": "o4-mini:batch",
-   "vendor": "openai",
-   "prompt_price": 5.5e-07,
-   "completion_price": 2.2e-06,
-   "context": 200000,
-   "modality": "text+image+file->text",
-   "created": 1744820942,
-   "description": "OpenAI o4-mini is a compact reasoning model in the o-series, optimized for fast, cost-efficient performance while retaining strong multimodal and agentic capabilities. It supports tool use and demonst"
-  },
-  {
    "id": "openai/gpt-4.1",
    "name": "gpt-4.1",
    "vendor": "openai",
    "prompt_price": 2e-06,
    "completion_price": 8e-06,
-   "context": 1047576,
-   "modality": "text+image+file->text",
-   "created": 1744651385,
-   "description": "GPT-4.1 is a flagship large language model optimized for advanced instruction following, real-world software engineering, and long-context reasoning. It supports a 1 million token context window and o"
-  },
-  {
-   "id": "openai/gpt-4.1:batch",
-   "name": "gpt-4.1:batch",
-   "vendor": "openai",
-   "prompt_price": 1e-06,
-   "completion_price": 4e-06,
    "context": 1047576,
    "modality": "text+image+file->text",
    "created": 1744651385,
@@ -3644,33 +3446,11 @@
    "description": "GPT-4.1 Mini is a mid-sized model delivering performance competitive with GPT-4o at substantially lower latency and cost. It retains a 1 million token context window and scores 45.1% on hard..."
   },
   {
-   "id": "openai/gpt-4.1-mini:batch",
-   "name": "gpt-4.1-mini:batch",
-   "vendor": "openai",
-   "prompt_price": 2e-07,
-   "completion_price": 8e-07,
-   "context": 1047576,
-   "modality": "text+image+file->text",
-   "created": 1744651381,
-   "description": "GPT-4.1 Mini is a mid-sized model delivering performance competitive with GPT-4o at substantially lower latency and cost. It retains a 1 million token context window and scores 45.1% on hard..."
-  },
-  {
    "id": "openai/gpt-4.1-nano",
    "name": "gpt-4.1-nano",
    "vendor": "openai",
    "prompt_price": 1e-07,
    "completion_price": 4e-07,
-   "context": 1047576,
-   "modality": "text+image+file->text",
-   "created": 1744651369,
-   "description": "For tasks that demand low latency, GPT‑4.1 nano is the fastest and cheapest model in the GPT-4.1 series. It delivers exceptional performance at a small size with its 1 million..."
-  },
-  {
-   "id": "openai/gpt-4.1-nano:batch",
-   "name": "gpt-4.1-nano:batch",
-   "vendor": "openai",
-   "prompt_price": 5e-08,
-   "completion_price": 2e-07,
    "context": 1047576,
    "modality": "text+image+file->text",
    "created": 1744651369,
@@ -3715,17 +3495,6 @@
    "vendor": "openai",
    "prompt_price": 0.00015,
    "completion_price": 0.0006,
-   "context": 200000,
-   "modality": "text+image+file->text",
-   "created": 1742423211,
-   "description": "The o1 series of models are trained with reinforcement learning to think before they answer and perform complex reasoning. The o1-pro model uses more compute to think harder and provide..."
-  },
-  {
-   "id": "openai/o1-pro:batch",
-   "name": "o1-pro:batch",
-   "vendor": "openai",
-   "prompt_price": 7.5e-05,
-   "completion_price": 0.0003,
    "context": 200000,
    "modality": "text+image+file->text",
    "created": 1742423211,
@@ -3792,7 +3561,7 @@
    "vendor": "google",
    "prompt_price": 8e-08,
    "completion_price": 4.5e-07,
-   "context": 262144,
+   "context": 131072,
    "modality": "text+image->text",
    "created": 1741756359,
    "description": "Gemma 3 introduces multimodality, supporting vision-language input and text outputs. It handles context windows up to 128k tokens, understands over 140 languages, and offers improved math, reasoning, "
@@ -3864,17 +3633,6 @@
    "description": "OpenAI o3-mini-high is the same model as [o3-mini](/openai/o3-mini) with reasoning_effort set to high. o3-mini is a cost-efficient language model optimized for STEM reasoning tasks, particularly excel"
   },
   {
-   "id": "openai/o3-mini-high:batch",
-   "name": "o3-mini-high:batch",
-   "vendor": "openai",
-   "prompt_price": 5.5e-07,
-   "completion_price": 2.2e-06,
-   "context": 200000,
-   "modality": "text+file->text",
-   "created": 1739372611,
-   "description": "OpenAI o3-mini-high is the same model as [o3-mini](/openai/o3-mini) with reasoning_effort set to high. o3-mini is a cost-efficient language model optimized for STEM reasoning tasks, particularly excel"
-  },
-  {
    "id": "aion-labs/aion-rp-llama-3.1-8b",
    "name": "aion-rp-llama-3.1-8b",
    "vendor": "aion-labs",
@@ -3913,17 +3671,6 @@
    "vendor": "openai",
    "prompt_price": 1.1e-06,
    "completion_price": 4.4e-06,
-   "context": 200000,
-   "modality": "text+file->text",
-   "created": 1738351721,
-   "description": "OpenAI o3-mini is a cost-efficient language model optimized for STEM reasoning tasks, particularly excelling in science, mathematics, and coding. This model supports the `reasoning_effort` parameter, "
-  },
-  {
-   "id": "openai/o3-mini:batch",
-   "name": "o3-mini:batch",
-   "vendor": "openai",
-   "prompt_price": 5.5e-07,
-   "completion_price": 2.2e-06,
    "context": 200000,
    "modality": "text+file->text",
    "created": 1738351721,
@@ -4023,17 +3770,6 @@
    "vendor": "openai",
    "prompt_price": 1.5e-05,
    "completion_price": 6e-05,
-   "context": 200000,
-   "modality": "text+image+file->text",
-   "created": 1734459999,
-   "description": "The latest and strongest model family from OpenAI, o1 is designed to spend more time thinking before responding. The o1 model series is trained with large-scale reinforcement learning to reason..."
-  },
-  {
-   "id": "openai/o1:batch",
-   "name": "o1:batch",
-   "vendor": "openai",
-   "prompt_price": 7.5e-06,
-   "completion_price": 3e-05,
    "context": 200000,
    "modality": "text+image+file->text",
    "created": 1734459999,
@@ -4150,17 +3886,6 @@
    "description": "This is a series of models designed to replicate the prose quality of the Claude 3 models, specifically Sonnet(https://openrouter.ai/anthropic/claude-3.5-sonnet) and Opus(https://openrouter.ai/anthrop"
   },
   {
-   "id": "mistralai/ministral-8b",
-   "name": "ministral-8b",
-   "vendor": "mistralai",
-   "prompt_price": 1.1e-07,
-   "completion_price": 1.1e-07,
-   "context": 128000,
-   "modality": "text->text",
-   "created": 1729123200,
-   "description": "Ministral 8B is an 8B parameter model featuring a unique interleaved sliding-window attention pattern for faster, memory-efficient inference. Designed for edge use cases, it supports up to 128k contex"
-  },
-  {
    "id": "qwen/qwen-2.5-7b-instruct",
    "name": "qwen-2.5-7b-instruct",
    "vendor": "qwen",
@@ -4170,17 +3895,6 @@
    "modality": "text->text",
    "created": 1729036800,
    "description": "Qwen2.5 7B is the latest series of Qwen large language models. Qwen2.5 brings the following improvements upon Qwen2: - Significantly more knowledge and has greatly improved capabilities in coding and."
-  },
-  {
-   "id": "thedrummer/rocinante-12b",
-   "name": "rocinante-12b",
-   "vendor": "thedrummer",
-   "prompt_price": 2.5e-07,
-   "completion_price": 5e-07,
-   "context": 65536,
-   "modality": "text->text",
-   "created": 1727654400,
-   "description": "Rocinante 12B is designed for engaging storytelling and rich prose. Early testers have reported: - Expanded vocabulary with unique and expressive word choices - Enhanced creativity for vivid narrative"
   },
   {
    "id": "meta-llama/llama-3.2-1b-instruct",
@@ -4348,17 +4062,6 @@
    "description": "GPT-4o mini is OpenAI's newest model after [GPT-4 Omni](/models/openai/gpt-4o), supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more a"
   },
   {
-   "id": "openai/gpt-4o-mini:batch",
-   "name": "gpt-4o-mini:batch",
-   "vendor": "openai",
-   "prompt_price": 7.5e-08,
-   "completion_price": 3e-07,
-   "context": 128000,
-   "modality": "text+image+file->text",
-   "created": 1721260800,
-   "description": "GPT-4o mini is OpenAI's newest model after [GPT-4 Omni](/models/openai/gpt-4o), supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more a"
-  },
-  {
    "id": "google/gemma-2-27b-it",
    "name": "gemma-2-27b-it",
    "vendor": "google",
@@ -4392,17 +4095,6 @@
    "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of [GPT-4 Turbo](/models/openai/gpt-4-turbo) while bei"
   },
   {
-   "id": "openai/gpt-4o:batch",
-   "name": "gpt-4o:batch",
-   "vendor": "openai",
-   "prompt_price": 1.25e-06,
-   "completion_price": 5e-06,
-   "context": 128000,
-   "modality": "text+image+file->text",
-   "created": 1715558400,
-   "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of [GPT-4 Turbo](/models/openai/gpt-4-turbo) while bei"
-  },
-  {
    "id": "mistralai/mixtral-8x22b-instruct",
    "name": "mixtral-8x22b-instruct",
    "vendor": "mistralai",
@@ -4430,17 +4122,6 @@
    "vendor": "openai",
    "prompt_price": 1e-05,
    "completion_price": 3e-05,
-   "context": 128000,
-   "modality": "text+image->text",
-   "created": 1712620800,
-   "description": "The latest GPT-4 Turbo model with vision capabilities. Vision requests can now use JSON mode and function calling.\n\nTraining data: up to December 2023."
-  },
-  {
-   "id": "openai/gpt-4-turbo:batch",
-   "name": "gpt-4-turbo:batch",
-   "vendor": "openai",
-   "prompt_price": 5e-06,
-   "completion_price": 1.5e-05,
    "context": 128000,
    "modality": "text+image->text",
    "created": 1712620800,
@@ -4499,7 +4180,7 @@
    "context": 2000000,
    "modality": "text+image+file+audio+video->text+image",
    "created": 1699401600,
-   "description": "Your prompt will be processed by a meta-model and routed to one of dozens of models (see below), optimizing for the best possible output. To see which model was used,..."
+   "description": "The Auto Router automatically selects the best model for your prompt, powered by the wisdom of the market. It routes you based on what the OpenRouter community collectively spends on..."
   },
   {
    "id": "openai/gpt-3.5-turbo-instruct",
@@ -4562,17 +4243,6 @@
    "vendor": "openai",
    "prompt_price": 5e-07,
    "completion_price": 1.5e-06,
-   "context": 16385,
-   "modality": "text->text",
-   "created": 1685232000,
-   "description": "GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural language or code, and is optimized for chat and traditional completion tasks.\n\nTraining data up to Sep 2021."
-  },
-  {
-   "id": "openai/gpt-3.5-turbo:batch",
-   "name": "gpt-3.5-turbo:batch",
-   "vendor": "openai",
-   "prompt_price": 2.5e-07,
-   "completion_price": 7.5e-07,
    "context": 16385,
    "modality": "text->text",
    "created": 1685232000,
