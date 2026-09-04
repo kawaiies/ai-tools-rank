@@ -1,15 +1,20 @@
 {
- "fetched_at": "2026-09-03T06:39:39.246Z",
+ "fetched_at": "2026-09-04T06:44:13.660Z",
  "items": [
   {
-   "name": "OpenAI: GPT-5.6 Luna",
-   "tokens7d": 11900000000000,
-   "display": "11.9T tokens"
+   "name": "50% off",
+   "tokens7d": 12400000000000,
+   "display": "12.4T tokens"
   },
   {
-   "name": "50% off",
-   "tokens7d": 11900000000000,
-   "display": "11.9T tokens"
+   "name": "Tencent: Hy4 preview",
+   "tokens7d": 12200000000000,
+   "display": "12.2T tokens"
+  },
+  {
+   "name": "OpenAI: GPT-5.6 Luna",
+   "tokens7d": 12100000000000,
+   "display": "12.1T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4 Flash 0731",
@@ -17,19 +22,14 @@
    "display": "11.8T tokens"
   },
   {
-   "name": "Tencent: Hy4 preview",
-   "tokens7d": 8930000000000,
-   "display": "8.93T tokens"
-  },
-  {
-   "name": "15% off",
-   "tokens7d": 6170000000000,
-   "display": "6.17T tokens"
-  },
-  {
    "name": "10% off",
-   "tokens7d": 5870000000000,
-   "display": "5.87T tokens"
+   "tokens7d": 5470000000000,
+   "display": "5.47T tokens"
+  },
+  {
+   "name": "MiniMax: MiniMax M3 (free)",
+   "tokens7d": 5400000000000,
+   "display": "5.4T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4 Flash 0423",
@@ -37,39 +37,39 @@
    "display": "5.35T tokens"
   },
   {
-   "name": "MiniMax: MiniMax M3 (free)",
-   "tokens7d": 4790000000000,
-   "display": "4.79T tokens"
-  },
-  {
-   "name": "NVIDIA: Nemotron 3 Ultra (free)",
+   "name": "15% off",
    "tokens7d": 4550000000000,
    "display": "4.55T tokens"
   },
   {
+   "name": "NVIDIA: Nemotron 3 Ultra (free)",
+   "tokens7d": 4240000000000,
+   "display": "4.24T tokens"
+  },
+  {
    "name": "50% off",
-   "tokens7d": 2980000000000,
-   "display": "2.98T tokens"
+   "tokens7d": 2680000000000,
+   "display": "2.68T tokens"
+  },
+  {
+   "name": "Z.ai: GLM 5.3",
+   "tokens7d": 2400000000000,
+   "display": "2.4T tokens"
   },
   {
    "name": "35% off",
-   "tokens7d": 2320000000000,
-   "display": "2.32T tokens"
-  },
-  {
-   "name": "21% off",
-   "tokens7d": 2080000000000,
-   "display": "2.08T tokens"
-  },
-  {
-   "name": "50% off",
-   "tokens7d": 1850000000000,
-   "display": "1.85T tokens"
+   "tokens7d": 2300000000000,
+   "display": "2.3T tokens"
   },
   {
    "name": "MoonshotAI: Kimi K3",
-   "tokens7d": 1800000000000,
-   "display": "1.8T tokens"
+   "tokens7d": 1880000000000,
+   "display": "1.88T tokens"
+  },
+  {
+   "name": "50% off",
+   "tokens7d": 1880000000000,
+   "display": "1.88T tokens"
   }
  ]
 }
