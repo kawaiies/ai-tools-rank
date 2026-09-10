@@ -1,7 +1,18 @@
 {
- "fetched_at": "2026-09-09 06:52:42",
- "count": 431,
+ "fetched_at": "2026-09-10 06:49:05",
+ "count": 436,
  "models": [
+  {
+   "id": "deepseek/deepseek-v4.1-flash",
+   "name": "deepseek-v4.1-flash",
+   "vendor": "deepseek",
+   "prompt_price": 3e-07,
+   "completion_price": 1.2e-06,
+   "context": 1048576,
+   "modality": "text+image->text",
+   "created": 1789021285,
+   "description": "DeepSeek V4.1 Flash is a sparse mixture-of-experts model from DeepSeek, and the cost-efficient tier of the V4.1 family. DeepSeek reports that it exceeds V4 Pro on performance, speed, and task..."
+  },
   {
    "id": "inception/mercury-2.5",
    "name": "mercury-2.5",
@@ -20,7 +31,7 @@
    "prompt_price": 0.0,
    "completion_price": 0.0,
    "context": 262144,
-   "modality": "text->text",
+   "modality": "text+image->text",
    "created": 1788890061,
    "description": "Nex-N2.5 is an agentic model built to turn goals into working, verified outcomes. Its core strength is agentic coding within a visual feedback loop: it can explore codebases, implement multi-file..."
   },
@@ -314,8 +325,8 @@
    "id": "~z-ai/glm-latest",
    "name": "glm-latest",
    "vendor": "~z-ai",
-   "prompt_price": 1.113e-06,
-   "completion_price": 3.498e-06,
+   "prompt_price": 1.092e-06,
+   "completion_price": 3.432e-06,
    "context": 1310720,
    "modality": "text->text",
    "created": 1787151053,
@@ -446,8 +457,8 @@
    "id": "deepseek/deepseek-v4-pro-0813",
    "name": "deepseek-v4-pro-0813",
    "vendor": "deepseek",
-   "prompt_price": 5.7948e-07,
-   "completion_price": 1.73844e-06,
+   "prompt_price": 1.0494e-06,
+   "completion_price": 3.1482e-06,
    "context": 1048576,
    "modality": "text->text",
    "created": 1786549364,
@@ -1983,6 +1994,17 @@
    "description": "Mistral Small 4 is the next major release in the Mistral Small family, unifying the capabilities of several flagship Mistral models into a single system. It combines strong reasoning from..."
   },
   {
+   "id": "mistralai/mistral-small-2603:batch",
+   "name": "mistral-small-2603:batch",
+   "vendor": "mistralai",
+   "prompt_price": 7.5e-08,
+   "completion_price": 3e-07,
+   "context": 262144,
+   "modality": "text+image->text",
+   "created": 1773695685,
+   "description": "Mistral Small 4 is the next major release in the Mistral Small family, unifying the capabilities of several flagship Mistral models into a single system. It combines strong reasoning from..."
+  },
+  {
    "id": "z-ai/glm-5-turbo",
    "name": "glm-5-turbo",
    "vendor": "z-ai",
@@ -2162,8 +2184,8 @@
    "id": "qwen/qwen3.5-122b-a10b",
    "name": "qwen3.5-122b-a10b",
    "vendor": "qwen",
-   "prompt_price": 2.9e-07,
-   "completion_price": 2.4e-06,
+   "prompt_price": 2.6e-07,
+   "completion_price": 2.08e-06,
    "context": 262144,
    "modality": "text+image+video->text",
    "created": 1772053789,
@@ -2283,8 +2305,8 @@
    "id": "minimax/minimax-m2.5",
    "name": "minimax-m2.5",
    "vendor": "minimax",
-   "prompt_price": 2.7e-07,
-   "completion_price": 1.08e-06,
+   "prompt_price": 3e-07,
+   "completion_price": 1.2e-06,
    "context": 204800,
    "modality": "text->text",
    "created": 1770908502,
@@ -2676,6 +2698,17 @@
    "description": "A balanced model in the Ministral 3 family, Ministral 3 8B is a powerful, efficient tiny language model with vision capabilities."
   },
   {
+   "id": "mistralai/ministral-8b-2512:batch",
+   "name": "ministral-8b-2512:batch",
+   "vendor": "mistralai",
+   "prompt_price": 7.5e-08,
+   "completion_price": 7.5e-08,
+   "context": 262144,
+   "modality": "text+image->text",
+   "created": 1764681654,
+   "description": "A balanced model in the Ministral 3 family, Ministral 3 8B is a powerful, efficient tiny language model with vision capabilities."
+  },
+  {
    "id": "mistralai/ministral-3b-2512",
    "name": "ministral-3b-2512",
    "vendor": "mistralai",
@@ -2692,6 +2725,17 @@
    "vendor": "mistralai",
    "prompt_price": 5e-07,
    "completion_price": 1.5e-06,
+   "context": 262144,
+   "modality": "text+image+file->text",
+   "created": 1764624472,
+   "description": "Mistral Large 3 2512 is Mistral’s most capable model to date, featuring a sparse mixture-of-experts architecture with 41B active parameters (675B total), and released under the Apache 2.0 license."
+  },
+  {
+   "id": "mistralai/mistral-large-2512:batch",
+   "name": "mistral-large-2512:batch",
+   "vendor": "mistralai",
+   "prompt_price": 2.5e-07,
+   "completion_price": 7.5e-07,
    "context": 262144,
    "modality": "text+image+file->text",
    "created": 1764624472,
@@ -3182,17 +3226,6 @@
    "description": "Qwen3-30B-A3B-Thinking-2507 is a 30B parameter Mixture-of-Experts reasoning model optimized for complex tasks requiring extended multi-step thinking. The model is designed specifically for “thinking m"
   },
   {
-   "id": "nousresearch/hermes-4-70b",
-   "name": "hermes-4-70b",
-   "vendor": "nousresearch",
-   "prompt_price": 1.3e-07,
-   "completion_price": 4e-07,
-   "context": 131072,
-   "modality": "text->text",
-   "created": 1756236182,
-   "description": "Hermes 4 70B is a hybrid reasoning model from Nous Research, built on Meta-Llama-3.1-70B. It introduces the same hybrid mode as the larger 405B release, allowing the model to either..."
-  },
-  {
    "id": "nousresearch/hermes-4-405b",
    "name": "hermes-4-405b",
    "vendor": "nousresearch",
@@ -3220,6 +3253,17 @@
    "vendor": "mistralai",
    "prompt_price": 4e-07,
    "completion_price": 2e-06,
+   "context": 131072,
+   "modality": "text+image+file->text",
+   "created": 1755095639,
+   "description": "Mistral Medium 3.1 is an updated version of Mistral Medium 3, which is a high-performance enterprise-grade language model designed to deliver frontier-level capabilities at significantly reduced opera"
+  },
+  {
+   "id": "mistralai/mistral-medium-3.1:batch",
+   "name": "mistral-medium-3.1:batch",
+   "vendor": "mistralai",
+   "prompt_price": 2e-07,
+   "completion_price": 1e-06,
    "context": 131072,
    "modality": "text+image+file->text",
    "created": 1755095639,
@@ -3380,6 +3424,17 @@
    "description": "Mistral's cutting-edge language model for coding released end of July 2025. Codestral specializes in low-latency, high-frequency tasks such as fill-in-the-middle (FIM), code correction and test genera"
   },
   {
+   "id": "mistralai/codestral-2508:batch",
+   "name": "codestral-2508:batch",
+   "vendor": "mistralai",
+   "prompt_price": 1.5e-07,
+   "completion_price": 4.5e-07,
+   "context": 256000,
+   "modality": "text+file->text",
+   "created": 1754079630,
+   "description": "Mistral's cutting-edge language model for coding released end of July 2025. Codestral specializes in low-latency, high-frequency tasks such as fill-in-the-middle (FIM), code correction and test genera"
+  },
+  {
    "id": "qwen/qwen3-coder-30b-a3b-instruct",
    "name": "qwen3-coder-30b-a3b-instruct",
    "vendor": "qwen",
@@ -3394,8 +3449,8 @@
    "id": "qwen/qwen3-30b-a3b-instruct-2507",
    "name": "qwen3-30b-a3b-instruct-2507",
    "vendor": "qwen",
-   "prompt_price": 4.815e-08,
-   "completion_price": 1.9305e-07,
+   "prompt_price": 9e-08,
+   "completion_price": 3e-07,
    "context": 262144,
    "modality": "text->text",
    "created": 1753806965,
@@ -4186,8 +4241,8 @@
    "id": "deepseek/deepseek-chat",
    "name": "deepseek-chat",
    "vendor": "deepseek",
-   "prompt_price": 3.2e-07,
-   "completion_price": 8.9e-07,
+   "prompt_price": 2.574e-07,
+   "completion_price": 1.0287e-06,
    "context": 163840,
    "modality": "text->text",
    "created": 1735241320,
