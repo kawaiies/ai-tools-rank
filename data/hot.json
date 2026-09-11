@@ -1,20 +1,15 @@
 {
- "fetched_at": "2026-09-10T06:49:18.356Z",
+ "fetched_at": "2026-09-11T06:48:42.934Z",
  "items": [
   {
    "name": "Tencent: Hy4 preview",
-   "tokens7d": 20700000000000,
-   "display": "20.7T tokens"
+   "tokens7d": 19500000000000,
+   "display": "19.5T tokens"
   },
   {
    "name": "OpenAI: GPT-5.6 Luna",
-   "tokens7d": 13200000000000,
-   "display": "13.2T tokens"
-  },
-  {
-   "name": "50% off",
-   "tokens7d": 12800000000000,
-   "display": "12.8T tokens"
+   "tokens7d": 14500000000000,
+   "display": "14.5T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4 Flash 0731",
@@ -22,54 +17,54 @@
    "display": "12.7T tokens"
   },
   {
-   "name": "DeepSeek: DeepSeek V4 Flash 0423",
-   "tokens7d": 4980000000000,
-   "display": "4.98T tokens"
+   "name": "50% off",
+   "tokens7d": 12700000000000,
+   "display": "12.7T tokens"
   },
   {
    "name": "15% off",
-   "tokens7d": 4520000000000,
-   "display": "4.52T tokens"
+   "tokens7d": 5450000000000,
+   "display": "5.45T tokens"
   },
   {
-   "name": "Tencent: Hy3",
-   "tokens7d": 3790000000000,
-   "display": "3.79T tokens"
+   "name": "DeepSeek: DeepSeek V4 Flash 0423",
+   "tokens7d": 4900000000000,
+   "display": "4.9T tokens"
   },
   {
    "name": "NVIDIA: Nemotron 3 Ultra (free)",
-   "tokens7d": 3780000000000,
-   "display": "3.78T tokens"
-  },
-  {
-   "name": "22% off",
-   "tokens7d": 3350000000000,
-   "display": "3.35T tokens"
+   "tokens7d": 3760000000000,
+   "display": "3.76T tokens"
   },
   {
    "name": "50% off",
-   "tokens7d": 2610000000000,
-   "display": "2.61T tokens"
+   "tokens7d": 3620000000000,
+   "display": "3.62T tokens"
+  },
+  {
+   "name": "10% off",
+   "tokens7d": 3150000000000,
+   "display": "3.15T tokens"
+  },
+  {
+   "name": "50% off",
+   "tokens7d": 2660000000000,
+   "display": "2.66T tokens"
   },
   {
    "name": "35% off",
-   "tokens7d": 2450000000000,
-   "display": "2.45T tokens"
+   "tokens7d": 2290000000000,
+   "display": "2.29T tokens"
   },
   {
    "name": "MoonshotAI: Kimi K3",
-   "tokens7d": 1930000000000,
-   "display": "1.93T tokens"
+   "tokens7d": 1770000000000,
+   "display": "1.77T tokens"
   },
   {
    "name": "50% off",
-   "tokens7d": 1900000000000,
-   "display": "1.9T tokens"
-  },
-  {
-   "name": "Claude Opus 5",
-   "tokens7d": 1850000000000,
-   "display": "1.85T tokens"
+   "tokens7d": 1770000000000,
+   "display": "1.77T tokens"
   }
  ]
 }
