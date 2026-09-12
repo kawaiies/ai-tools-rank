@@ -1,70 +1,70 @@
 {
- "fetched_at": "2026-09-11T06:48:42.934Z",
+ "fetched_at": "2026-09-12T06:40:58.270Z",
  "items": [
   {
    "name": "Tencent: Hy4 preview",
-   "tokens7d": 19500000000000,
-   "display": "19.5T tokens"
+   "tokens7d": 18100000000000,
+   "display": "18.1T tokens"
   },
   {
    "name": "OpenAI: GPT-5.6 Luna",
-   "tokens7d": 14500000000000,
-   "display": "14.5T tokens"
+   "tokens7d": 15400000000000,
+   "display": "15.4T tokens"
+  },
+  {
+   "name": "50% off",
+   "tokens7d": 12400000000000,
+   "display": "12.4T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4 Flash 0731",
-   "tokens7d": 12700000000000,
-   "display": "12.7T tokens"
-  },
-  {
-   "name": "50% off",
-   "tokens7d": 12700000000000,
-   "display": "12.7T tokens"
+   "tokens7d": 12400000000000,
+   "display": "12.4T tokens"
   },
   {
    "name": "15% off",
-   "tokens7d": 5450000000000,
-   "display": "5.45T tokens"
+   "tokens7d": 6310000000000,
+   "display": "6.31T tokens"
   },
   {
-   "name": "DeepSeek: DeepSeek V4 Flash 0423",
-   "tokens7d": 4900000000000,
-   "display": "4.9T tokens"
+   "name": "52% off",
+   "tokens7d": 4750000000000,
+   "display": "4.75T tokens"
   },
   {
    "name": "NVIDIA: Nemotron 3 Ultra (free)",
-   "tokens7d": 3760000000000,
-   "display": "3.76T tokens"
+   "tokens7d": 3740000000000,
+   "display": "3.74T tokens"
   },
   {
    "name": "50% off",
-   "tokens7d": 3620000000000,
-   "display": "3.62T tokens"
+   "tokens7d": 3690000000000,
+   "display": "3.69T tokens"
   },
   {
-   "name": "10% off",
-   "tokens7d": 3150000000000,
-   "display": "3.15T tokens"
-  },
-  {
-   "name": "50% off",
-   "tokens7d": 2660000000000,
-   "display": "2.66T tokens"
-  },
-  {
-   "name": "35% off",
-   "tokens7d": 2290000000000,
-   "display": "2.29T tokens"
-  },
-  {
-   "name": "MoonshotAI: Kimi K3",
-   "tokens7d": 1770000000000,
-   "display": "1.77T tokens"
+   "name": "Z.ai: GLM 5.3",
+   "tokens7d": 2860000000000,
+   "display": "2.86T tokens"
   },
   {
    "name": "50% off",
-   "tokens7d": 1770000000000,
-   "display": "1.77T tokens"
+   "tokens7d": 2610000000000,
+   "display": "2.61T tokens"
+  },
+  {
+   "name": "DeepSeek: DeepSeek V4.1 Flash",
+   "tokens7d": 2580000000000,
+   "display": "2.58T tokens"
+  },
+  {
+   "name": "66% off",
+   "tokens7d": 2080000000000,
+   "display": "2.08T tokens"
+  },
+  {
+   "name": "70% off",
+   "tokens7d": 1740000000000,
+   "display": "1.74T tokens"
   }
  ]
 }
