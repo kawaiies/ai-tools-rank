@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-12 06:40:43",
+ "fetched_at": "2026-09-13 06:57:51",
  "count": 445,
  "models": [
   {
@@ -33,7 +33,7 @@
    "context": 1050000,
    "modality": "text+image+file->text",
    "created": 1789130932,
-   "description": "This model always redirects to the latest model in the OpenAI GPT Astra family."
+   "description": "This model always redirects to the latest model in the GPT Astra family."
   },
   {
    "id": "~openai/gpt-sol-latest",
@@ -44,7 +44,7 @@
    "context": 1050000,
    "modality": "text+image+file->text",
    "created": 1789130928,
-   "description": "This model always redirects to the latest model in the OpenAI GPT Sol family."
+   "description": "This model always redirects to the latest model in the GPT Sol family."
   },
   {
    "id": "~openai/gpt-terra-latest",
@@ -55,7 +55,7 @@
    "context": 1050000,
    "modality": "text+image+file->text",
    "created": 1789130925,
-   "description": "This model always redirects to the latest model in the OpenAI GPT Terra family."
+   "description": "This model always redirects to the latest model in the GPT Terra family."
   },
   {
    "id": "~openai/gpt-luna-latest",
@@ -66,7 +66,7 @@
    "context": 1050000,
    "modality": "text+image+file->text",
    "created": 1789130922,
-   "description": "This model always redirects to the latest model in the OpenAI GPT Luna family."
+   "description": "This model always redirects to the latest model in the GPT Luna family."
   },
   {
    "id": "sakana/fugu-ultra-v2",
@@ -435,8 +435,8 @@
    "id": "~z-ai/glm-latest",
    "name": "glm-latest",
    "vendor": "~z-ai",
-   "prompt_price": 8.727e-07,
-   "completion_price": 3.36e-06,
+   "prompt_price": 9.36e-07,
+   "completion_price": 3.168e-06,
    "context": 1310720,
    "modality": "text->text",
    "created": 1787151053,
@@ -457,8 +457,8 @@
    "id": "z-ai/glm-5.3",
    "name": "glm-5.3",
    "vendor": "z-ai",
-   "prompt_price": 1.4e-06,
-   "completion_price": 4.4e-06,
+   "prompt_price": 1.092e-06,
+   "completion_price": 3.432e-06,
    "context": 1310720,
    "modality": "text->text",
    "created": 1787086655,
@@ -655,8 +655,8 @@
    "id": "meta/muse-glimmer-30b",
    "name": "muse-glimmer-30b",
    "vendor": "meta",
-   "prompt_price": 3e-07,
-   "completion_price": 1.1e-06,
+   "prompt_price": 3.5e-07,
+   "completion_price": 1.5e-06,
    "context": 131072,
    "modality": "text+image->text",
    "created": 1786302394,
@@ -688,8 +688,8 @@
    "id": "~deepseek/deepseek-v4-flash-latest",
    "name": "deepseek-v4-flash-latest",
    "vendor": "~deepseek",
-   "prompt_price": 4e-08,
-   "completion_price": 8e-08,
+   "prompt_price": 3.52e-08,
+   "completion_price": 1.056e-07,
    "context": 1310720,
    "modality": "text->text",
    "created": 1785606009,
@@ -919,8 +919,8 @@
    "id": "moonshotai/kimi-k3",
    "name": "kimi-k3",
    "vendor": "moonshotai",
-   "prompt_price": 2.30272875e-06,
-   "completion_price": 1.1550195e-05,
+   "prompt_price": 2.648138063e-06,
+   "completion_price": 1.328272425e-05,
    "context": 1048576,
    "modality": "text+image+video->text",
    "created": 1784215858,
@@ -1584,7 +1584,7 @@
    "context": 200000,
    "modality": "text+image+file->text",
    "created": 1777318492,
-   "description": "This model always redirects to the latest model in the Anthropic Claude Haiku family."
+   "description": "This model always redirects to the latest model in the Claude Haiku family."
   },
   {
    "id": "~openai/gpt-mini-latest",
@@ -1595,7 +1595,7 @@
    "context": 400000,
    "modality": "text+image+file->text",
    "created": 1777318471,
-   "description": "This model always redirects to the latest model in the OpenAI GPT Mini family."
+   "description": "This model always redirects to the latest model in the GPT Mini family."
   },
   {
    "id": "~google/gemini-pro-latest",
@@ -1606,18 +1606,18 @@
    "context": 1048576,
    "modality": "text+image+file+audio+video->text",
    "created": 1777318451,
-   "description": "This model always redirects to the latest model in the Google Gemini Pro family."
+   "description": "This model always redirects to the latest model in the Gemini Pro family."
   },
   {
    "id": "~moonshotai/kimi-latest",
    "name": "kimi-latest",
    "vendor": "~moonshotai",
-   "prompt_price": 2.30272875e-06,
-   "completion_price": 1.1550195e-05,
+   "prompt_price": 2.1e-06,
+   "completion_price": 1.095e-05,
    "context": 1048576,
    "modality": "text+image+video->text",
    "created": 1777318428,
-   "description": "This model always redirects to the latest model in the MoonshotAI Kimi family."
+   "description": "This model always redirects to the latest model in the Kimi family."
   },
   {
    "id": "~google/gemini-flash-latest",
@@ -1628,7 +1628,7 @@
    "context": 1048576,
    "modality": "text+image+file+audio+video->text",
    "created": 1777318398,
-   "description": "This model always redirects to the latest model in the Google Gemini Flash family."
+   "description": "This model always redirects to the latest model in the Gemini Flash family."
   },
   {
    "id": "~anthropic/claude-sonnet-latest",
@@ -1639,7 +1639,7 @@
    "context": 1000000,
    "modality": "text+image+file->text",
    "created": 1777318368,
-   "description": "This model always redirects to the latest model in the Anthropic Claude Sonnet family."
+   "description": "This model always redirects to the latest model in the Claude Sonnet family."
   },
   {
    "id": "qwen/qwen3.5-plus-20260420",
@@ -1744,8 +1744,8 @@
    "id": "deepseek/deepseek-v4-pro",
    "name": "deepseek-v4-pro",
    "vendor": "deepseek",
-   "prompt_price": 8.19366e-07,
-   "completion_price": 1.638732e-06,
+   "prompt_price": 1.6e-06,
+   "completion_price": 3.2e-06,
    "context": 1048576,
    "modality": "text->text",
    "created": 1777000679,
@@ -1755,8 +1755,8 @@
    "id": "deepseek/deepseek-v4-flash",
    "name": "deepseek-v4-flash",
    "vendor": "deepseek",
-   "prompt_price": 6.678e-08,
-   "completion_price": 1.3356e-07,
+   "prompt_price": 4.956e-08,
+   "completion_price": 9.912e-08,
    "context": 1048576,
    "modality": "text->text",
    "created": 1777000666,
@@ -1876,8 +1876,8 @@
    "id": "google/gemma-4-26b-a4b-it",
    "name": "gemma-4-26b-a4b-it",
    "vendor": "google",
-   "prompt_price": 4.2e-08,
-   "completion_price": 2.2e-07,
+   "prompt_price": 9e-08,
+   "completion_price": 3e-07,
    "context": 262144,
    "modality": "text+image+video->text",
    "created": 1775227989,
@@ -2404,8 +2404,8 @@
    "id": "minimax/minimax-m2.5",
    "name": "minimax-m2.5",
    "vendor": "minimax",
-   "prompt_price": 3e-07,
-   "completion_price": 1.2e-06,
+   "prompt_price": 2.7e-07,
+   "completion_price": 1.08e-06,
    "context": 204800,
    "modality": "text->text",
    "created": 1770908502,
@@ -3548,8 +3548,8 @@
    "id": "qwen/qwen3-30b-a3b-instruct-2507",
    "name": "qwen3-30b-a3b-instruct-2507",
    "vendor": "qwen",
-   "prompt_price": 9e-08,
-   "completion_price": 3e-07,
+   "prompt_price": 4.815e-08,
+   "completion_price": 1.9305e-07,
    "context": 262144,
    "modality": "text->text",
    "created": 1753806965,
@@ -4604,8 +4604,8 @@
    "id": "meta-llama/llama-3.1-70b-instruct",
    "name": "llama-3.1-70b-instruct",
    "vendor": "meta-llama",
-   "prompt_price": 7.2e-07,
-   "completion_price": 7.2e-07,
+   "prompt_price": 4e-07,
+   "completion_price": 4e-07,
    "context": 131072,
    "modality": "text->text",
    "created": 1721692800,
