@@ -1,70 +1,70 @@
 {
- "fetched_at": "2026-09-16T06:58:54.955Z",
+ "fetched_at": "2026-09-17T06:54:18.768Z",
  "items": [
   {
    "name": "OpenAI: GPT-5.6 Luna",
-   "tokens7d": 17700000000000,
-   "display": "17.7T tokens"
+   "tokens7d": 17500000000000,
+   "display": "17.5T tokens"
   },
   {
    "name": "Tencent: Hy4 preview",
-   "tokens7d": 14200000000000,
-   "display": "14.2T tokens"
+   "tokens7d": 12500000000000,
+   "display": "12.5T tokens"
   },
   {
    "name": "50% off",
-   "tokens7d": 11900000000000,
-   "display": "11.9T tokens"
+   "tokens7d": 11700000000000,
+   "display": "11.7T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4 Flash 0731",
-   "tokens7d": 11900000000000,
-   "display": "11.9T tokens"
+   "tokens7d": 11500000000000,
+   "display": "11.5T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4.1 Flash",
-   "tokens7d": 8580000000000,
-   "display": "8.58T tokens"
+   "tokens7d": 10700000000000,
+   "display": "10.7T tokens"
   },
   {
    "name": "15% off",
-   "tokens7d": 8260000000000,
-   "display": "8.26T tokens"
+   "tokens7d": 8070000000000,
+   "display": "8.07T tokens"
   },
   {
    "name": "25% off",
-   "tokens7d": 4620000000000,
-   "display": "4.62T tokens"
+   "tokens7d": 4760000000000,
+   "display": "4.76T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4 Flash 0423",
-   "tokens7d": 4450000000000,
-   "display": "4.45T tokens"
+   "tokens7d": 4340000000000,
+   "display": "4.34T tokens"
   },
   {
    "name": "NVIDIA: Nemotron 3 Ultra (free)",
-   "tokens7d": 3650000000000,
-   "display": "3.65T tokens"
-  },
-  {
-   "name": "50% off",
-   "tokens7d": 2510000000000,
-   "display": "2.51T tokens"
+   "tokens7d": 3520000000000,
+   "display": "3.52T tokens"
   },
   {
    "name": "25% off",
-   "tokens7d": 2400000000000,
-   "display": "2.4T tokens"
+   "tokens7d": 2590000000000,
+   "display": "2.59T tokens"
   },
   {
    "name": "50% off",
-   "tokens7d": 1830000000000,
-   "display": "1.83T tokens"
+   "tokens7d": 2240000000000,
+   "display": "2.24T tokens"
+  },
+  {
+   "name": "50% off",
+   "tokens7d": 1950000000000,
+   "display": "1.95T tokens"
   },
   {
    "name": "70% off",
-   "tokens7d": 1750000000000,
-   "display": "1.75T tokens"
+   "tokens7d": 1710000000000,
+   "display": "1.71T tokens"
   }
  ]
 }
