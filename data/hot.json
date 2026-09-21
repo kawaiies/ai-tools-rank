@@ -1,70 +1,70 @@
 {
- "fetched_at": "2026-09-20T07:14:45.560Z",
+ "fetched_at": "2026-09-21T07:24:24.689Z",
  "items": [
   {
-   "name": "DeepSeek: DeepSeek V4.1 Flash",
-   "tokens7d": 15300000000000,
-   "display": "15.3T tokens"
+   "name": "60% off",
+   "tokens7d": 16399999999999.998,
+   "display": "16.4T tokens"
   },
   {
    "name": "50% off",
-   "tokens7d": 13700000000000,
-   "display": "13.7T tokens"
-  },
-  {
-   "name": "OpenAI: GPT-5.6 Luna",
-   "tokens7d": 12700000000000,
-   "display": "12.7T tokens"
+   "tokens7d": 14800000000000,
+   "display": "14.8T tokens"
   },
   {
    "name": "Tencent: Hy4 preview",
-   "tokens7d": 12700000000000,
-   "display": "12.7T tokens"
+   "tokens7d": 13300000000000,
+   "display": "13.3T tokens"
+  },
+  {
+   "name": "OpenAI: GPT-5.6 Luna",
+   "tokens7d": 10000000000000,
+   "display": "10T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4 Flash 0731",
-   "tokens7d": 10100000000000,
-   "display": "10.1T tokens"
+   "tokens7d": 9750000000000,
+   "display": "9.75T tokens"
   },
   {
    "name": "15% off",
-   "tokens7d": 7410000000000,
-   "display": "7.41T tokens"
+   "tokens7d": 7340000000000,
+   "display": "7.34T tokens"
   },
   {
    "name": "Tencent: Hy3",
-   "tokens7d": 4970000000000,
-   "display": "4.97T tokens"
+   "tokens7d": 5020000000000,
+   "display": "5.02T tokens"
   },
   {
    "name": "NVIDIA: Nemotron 3 Ultra (free)",
-   "tokens7d": 4410000000000,
-   "display": "4.41T tokens"
+   "tokens7d": 4730000000000,
+   "display": "4.73T tokens"
   },
   {
-   "name": "74% off",
-   "tokens7d": 3970000000000,
-   "display": "3.97T tokens"
+   "name": "DeepSeek: DeepSeek V4 Flash 0423",
+   "tokens7d": 3890000000000,
+   "display": "3.89T tokens"
   },
   {
-   "name": "40% off",
-   "tokens7d": 3040000000000,
-   "display": "3.04T tokens"
-  },
-  {
-   "name": "50% off",
-   "tokens7d": 2200000000000,
-   "display": "2.2T tokens"
+   "name": "35% off",
+   "tokens7d": 3080000000000,
+   "display": "3.08T tokens"
   },
   {
    "name": "50% off",
-   "tokens7d": 2120000000000,
-   "display": "2.12T tokens"
+   "tokens7d": 2280000000000,
+   "display": "2.28T tokens"
+  },
+  {
+   "name": "50% off",
+   "tokens7d": 2160000000000.0002,
+   "display": "2.16T tokens"
   },
   {
    "name": "OpenAI: GPT-6 Astra",
-   "tokens7d": 1750000000000,
-   "display": "1.75T tokens"
+   "tokens7d": 1780000000000,
+   "display": "1.78T tokens"
   }
  ]
 }
