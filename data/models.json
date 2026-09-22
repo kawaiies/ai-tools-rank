@@ -1,7 +1,51 @@
 {
- "fetched_at": "2026-09-21 07:24:14",
- "count": 446,
+ "fetched_at": "2026-09-22 07:01:34",
+ "count": 445,
  "models": [
+  {
+   "id": "xiaomi/mimo-v2.6-pro-ultraspeed",
+   "name": "mimo-v2.6-pro-ultraspeed",
+   "vendor": "xiaomi",
+   "prompt_price": 4.35e-06,
+   "completion_price": 8.7e-06,
+   "context": 1048576,
+   "modality": "text+image+audio+video->text",
+   "created": 1790021267,
+   "description": "MiMo-V2.6-Pro-UltraSpeed is the fast speed edition of Xiaomi's flagship foundation model, MiMo-V2.6-Pro. Built from the same 1T MiMo-V2.6-Pro checkpoint, it matches the original model in quality while"
+  },
+  {
+   "id": "xiaomi/mimo-v2.6-flash",
+   "name": "mimo-v2.6-flash",
+   "vendor": "xiaomi",
+   "prompt_price": 1.4e-07,
+   "completion_price": 2.8e-07,
+   "context": 1048576,
+   "modality": "text+image+audio+video->text",
+   "created": 1790021264,
+   "description": "MiMo-V2.6-Flash is an open-source foundation model developed by Xiaomi. Built on a Mixture-of-Experts architecture with 309B total parameters and 15B activated per token, it employs a hybrid attention"
+  },
+  {
+   "id": "xiaomi/mimo-v2.6-pro",
+   "name": "mimo-v2.6-pro",
+   "vendor": "xiaomi",
+   "prompt_price": 4.35e-07,
+   "completion_price": 8.7e-07,
+   "context": 1048576,
+   "modality": "text+image+audio+video->text",
+   "created": 1790021259,
+   "description": "MiMo-V2.6-Pro is the flagship foundation model developed by Xiaomi. Built at a scale of over 1T parameters, it is designed to push the ceiling of capability for the most demanding..."
+  },
+  {
+   "id": "x-ai/grok-4.7",
+   "name": "grok-4.7",
+   "vendor": "x-ai",
+   "prompt_price": 1.6e-06,
+   "completion_price": 4.8e-06,
+   "context": 500000,
+   "modality": "text+image+file->text",
+   "created": 1790007541,
+   "description": "Grok 4.7 is SpaceXAI's flagship model for coding, agentic tasks, and knowledge work, succeeding Grok 4.6. It is particularly strong at long-running software engineering tasks, verifying its own work, "
+  },
   {
    "id": "prism-ml/ternary-bonsai-2-27b",
    "name": "ternary-bonsai-2-27b",
@@ -39,8 +83,8 @@
    "id": "~deepseek/deepseek-pro-latest",
    "name": "deepseek-pro-latest",
    "vendor": "~deepseek",
-   "prompt_price": 7e-07,
-   "completion_price": 2.88e-06,
+   "prompt_price": 6.38616e-07,
+   "completion_price": 1.915848e-06,
    "context": 1048576,
    "modality": "text->text",
    "created": 1789399174,
@@ -190,6 +234,17 @@
    "description": "Mercury 2.5 is the fastest reasoning LLM, and the latest diffusion LLM (dLLM) from Inception. Instead of generating tokens sequentially, Mercury 2.5 produces and refines multiple tokens in parallel, a"
   },
   {
+   "id": "nex-agi/nex-n2.5-mini",
+   "name": "nex-n2.5-mini",
+   "vendor": "nex-agi",
+   "prompt_price": 2.5e-08,
+   "completion_price": 1e-07,
+   "context": 262144,
+   "modality": "text+image->text",
+   "created": 1788890061,
+   "description": "Nex-N2.5 is an agentic model built to turn goals into working, verified outcomes. Its core strength is agentic coding within a visual feedback loop: it can explore codebases, implement multi-file..."
+  },
+  {
    "id": "nex-agi/nex-n2.5-mini:free",
    "name": "nex-n2.5-mini:free",
    "vendor": "nex-agi",
@@ -198,6 +253,17 @@
    "context": 262144,
    "modality": "text+image->text",
    "created": 1788890061,
+   "description": "Nex-N2.5 is an agentic model built to turn goals into working, verified outcomes. Its core strength is agentic coding within a visual feedback loop: it can explore codebases, implement multi-file..."
+  },
+  {
+   "id": "nex-agi/nex-n2.5-pro",
+   "name": "nex-n2.5-pro",
+   "vendor": "nex-agi",
+   "prompt_price": 7.5e-08,
+   "completion_price": 2.5e-07,
+   "context": 262144,
+   "modality": "text+image->text",
+   "created": 1788890050,
    "description": "Nex-N2.5 is an agentic model built to turn goals into working, verified outcomes. Its core strength is agentic coding within a visual feedback loop: it can explore codebases, implement multi-file..."
   },
   {
@@ -347,8 +413,8 @@
    "id": "ibm-granite/granite-4.2-8b",
    "name": "granite-4.2-8b",
    "vendor": "ibm-granite",
-   "prompt_price": 1e-07,
-   "completion_price": 1.5e-07,
+   "prompt_price": 6e-08,
+   "completion_price": 2.5e-07,
    "context": 131072,
    "modality": "text->text",
    "created": 1788206780,
@@ -413,8 +479,8 @@
    "id": "z-ai/glm-5.3-flash",
    "name": "glm-5.3-flash",
    "vendor": "z-ai",
-   "prompt_price": 9e-08,
-   "completion_price": 3e-07,
+   "prompt_price": 1.5e-07,
+   "completion_price": 5e-07,
    "context": 1310720,
    "modality": "text+image+video->text",
    "created": 1787752741,
@@ -490,8 +556,8 @@
    "id": "~z-ai/glm-latest",
    "name": "glm-latest",
    "vendor": "~z-ai",
-   "prompt_price": 7.735e-07,
-   "completion_price": 2.431e-06,
+   "prompt_price": 6.545e-07,
+   "completion_price": 2.057e-06,
    "context": 1310720,
    "modality": "text->text",
    "created": 1787151053,
@@ -512,8 +578,8 @@
    "id": "z-ai/glm-5.3",
    "name": "glm-5.3",
    "vendor": "z-ai",
-   "prompt_price": 9.1e-07,
-   "completion_price": 2.86e-06,
+   "prompt_price": 8.4e-07,
+   "completion_price": 2.64e-06,
    "context": 1310720,
    "modality": "text->text",
    "created": 1787086655,
@@ -534,8 +600,8 @@
    "id": "qwen/qwen3.8-27b",
    "name": "qwen3.8-27b",
    "vendor": "qwen",
-   "prompt_price": 2e-07,
-   "completion_price": 2.5e-06,
+   "prompt_price": 4.2e-07,
+   "completion_price": 3e-06,
    "context": 1000000,
    "modality": "text+image+video->text",
    "created": 1786722910,
@@ -608,17 +674,6 @@
    "description": "Qwen3.8 2.4T A95B is an open-weight sparse mixture-of-experts model from Qwen and the open-weight variant of [Qwen3.8 Max](/qwen/qwen3.8-max), with 95 billion active parameters out of 2.4 trillion tot"
   },
   {
-   "id": "qwen/qwen3.8-2.4t-a95b:batch",
-   "name": "qwen3.8-2.4t-a95b:batch",
-   "vendor": "qwen",
-   "prompt_price": 2e-06,
-   "completion_price": 6e-06,
-   "context": 1010000,
-   "modality": "text->text",
-   "created": 1786551702,
-   "description": "Qwen3.8 2.4T A95B is an open-weight sparse mixture-of-experts model from Qwen and the open-weight variant of [Qwen3.8 Max](/qwen/qwen3.8-max), with 95 billion active parameters out of 2.4 trillion tot"
-  },
-  {
    "id": "bytedance-seed/seed-2.0-code",
    "name": "seed-2.0-code",
    "vendor": "bytedance-seed",
@@ -660,7 +715,7 @@
    "context": 500000,
    "modality": "text+image+file->text",
    "created": 1786548957,
-   "description": "Grok 4.6 is SpaceXAI's smartest model with frontier performance on coding, knowledge work, and STEM."
+   "description": "Grok 4.6 is a model from SpaceXAI with frontier performance on coding, knowledge work, and STEM. It is succeeded by [Grok 4.7](/x-ai/grok-4.7)."
   },
   {
    "id": "liquid/lfm-2.5-2.6b:free",
@@ -754,8 +809,8 @@
    "id": "~deepseek/deepseek-v4-flash-latest",
    "name": "deepseek-v4-flash-latest",
    "vendor": "~deepseek",
-   "prompt_price": 4e-08,
-   "completion_price": 1.6e-07,
+   "prompt_price": 3e-08,
+   "completion_price": 1e-06,
    "context": 1310720,
    "modality": "text->text",
    "created": 1785606009,
@@ -766,7 +821,7 @@
    "name": "deepseek-v4-flash-0731",
    "vendor": "deepseek",
    "prompt_price": 4e-08,
-   "completion_price": 1.6e-07,
+   "completion_price": 6.4e-07,
    "context": 1310720,
    "modality": "text->text",
    "created": 1785478908,
@@ -938,17 +993,6 @@
    "description": "Inkling is an open-weight multimodal mixture-of-experts model from Thinking Machines Lab, with 41B active parameters out of 975B total. It is designed for general-purpose reasoning, coding, agentic an"
   },
   {
-   "id": "thinkingmachines/inkling:batch",
-   "name": "inkling:batch",
-   "vendor": "thinkingmachines",
-   "prompt_price": 1e-06,
-   "completion_price": 4.05e-06,
-   "context": 524288,
-   "modality": "text+image+audio->text",
-   "created": 1784325956,
-   "description": "Inkling is an open-weight multimodal mixture-of-experts model from Thinking Machines Lab, with 41B active parameters out of 975B total. It is designed for general-purpose reasoning, coding, agentic an"
-  },
-  {
    "id": "thinkingmachines/inkling:free",
    "name": "inkling:free",
    "vendor": "thinkingmachines",
@@ -973,17 +1017,6 @@
   {
    "id": "moonshotai/kimi-k3",
    "name": "kimi-k3",
-   "vendor": "moonshotai",
-   "prompt_price": 1.7e-06,
-   "completion_price": 8.5e-06,
-   "context": 1048576,
-   "modality": "text+image+video->text",
-   "created": 1784215858,
-   "description": "Kimi K3 is a 2.8T parameter open-weight multimodal reasoning model from Moonshot AI. It is suited for complex coding, knowledge work, and long-horizon agentic workflows, and is particularly strong at."
-  },
-  {
-   "id": "moonshotai/kimi-k3:batch",
-   "name": "kimi-k3:batch",
    "vendor": "moonshotai",
    "prompt_price": 3e-06,
    "completion_price": 1.5e-05,
@@ -1161,8 +1194,8 @@
    "id": "~x-ai/grok-latest",
    "name": "grok-latest",
    "vendor": "~x-ai",
-   "prompt_price": 2e-06,
-   "completion_price": 6e-06,
+   "prompt_price": 1.6e-06,
+   "completion_price": 4.8e-06,
    "context": 500000,
    "modality": "text+image+file->text",
    "created": 1783519360,
@@ -1455,17 +1488,6 @@
    "description": "MiniMax-M3 is a multimodal foundation model from MiniMax. It supports text, image, and video inputs with text output, a 1M-token context window, and is suited for long-horizon agentic work, coding,..."
   },
   {
-   "id": "minimax/minimax-m3:batch",
-   "name": "minimax-m3:batch",
-   "vendor": "minimax",
-   "prompt_price": 3e-07,
-   "completion_price": 1.2e-06,
-   "context": 524288,
-   "modality": "text+image+video->text",
-   "created": 1780245374,
-   "description": "MiniMax-M3 is a multimodal foundation model from MiniMax. It supports text, image, and video inputs with text output, a 1M-token context window, and is suited for long-horizon agentic work, coding,..."
-  },
-  {
    "id": "stepfun/step-3.7-flash",
    "name": "step-3.7-flash",
    "vendor": "stepfun",
@@ -1678,8 +1700,8 @@
    "id": "~moonshotai/kimi-latest",
    "name": "kimi-latest",
    "vendor": "~moonshotai",
-   "prompt_price": 1.7e-06,
-   "completion_price": 8.5e-06,
+   "prompt_price": 1.5e-06,
+   "completion_price": 7.5e-06,
    "context": 1048576,
    "modality": "text+image+video->text",
    "created": 1777318428,
@@ -2214,17 +2236,6 @@
    "description": "Qwen3.5-9B is a multimodal foundation model from the Qwen3.5 family, designed to deliver strong reasoning, coding, and visual understanding in an efficient 9B-parameter architecture. It uses a unified"
   },
   {
-   "id": "qwen/qwen3.5-9b:batch",
-   "name": "qwen3.5-9b:batch",
-   "vendor": "qwen",
-   "prompt_price": 1.7e-07,
-   "completion_price": 2.5e-07,
-   "context": 262144,
-   "modality": "text+image+video->text",
-   "created": 1773152396,
-   "description": "Qwen3.5-9B is a multimodal foundation model from the Qwen3.5 family, designed to deliver strong reasoning, coding, and visual understanding in an efficient 9B-parameter architecture. It uses a unified"
-  },
-  {
    "id": "openai/gpt-5.4-pro",
    "name": "gpt-5.4-pro",
    "vendor": "openai",
@@ -2701,8 +2712,8 @@
    "id": "nvidia/nemotron-3-nano-30b-a3b",
    "name": "nemotron-3-nano-30b-a3b",
    "vendor": "nvidia",
-   "prompt_price": 6e-08,
-   "completion_price": 2.4e-07,
+   "prompt_price": 5e-08,
+   "completion_price": 2e-07,
    "context": 262144,
    "modality": "text->text",
    "created": 1765731275,
@@ -3501,17 +3512,6 @@
    "description": "gpt-oss-120b is an open-weight, 117B-parameter Mixture-of-Experts (MoE) language model from OpenAI designed for high-reasoning, agentic, and general-purpose production use cases. It activates 5.1B par"
   },
   {
-   "id": "openai/gpt-oss-120b:batch",
-   "name": "gpt-oss-120b:batch",
-   "vendor": "openai",
-   "prompt_price": 1.5e-07,
-   "completion_price": 6e-07,
-   "context": 131072,
-   "modality": "text->text",
-   "created": 1754414231,
-   "description": "gpt-oss-120b is an open-weight, 117B-parameter Mixture-of-Experts (MoE) language model from OpenAI designed for high-reasoning, agentic, and general-purpose production use cases. It activates 5.1B par"
-  },
-  {
    "id": "openai/gpt-oss-20b",
    "name": "gpt-oss-20b",
    "vendor": "openai",
@@ -3842,23 +3842,12 @@
    "description": "May 28th update to the [original DeepSeek R1](/deepseek/deepseek-r1) Performance on par with [OpenAI o1](/openai/o1), but open-sourced and with fully open reasoning tokens. It's 671B parameters in siz"
   },
   {
-   "id": "anthropic/claude-opus-4",
-   "name": "claude-opus-4",
-   "vendor": "anthropic",
-   "prompt_price": 1.5e-05,
-   "completion_price": 7.5e-05,
-   "context": 200000,
-   "modality": "text+image+file->text",
-   "created": 1747931245,
-   "description": "Claude Opus 4 is benchmarked as the world’s best coding model, at time of release, bringing sustained performance on complex, long-running tasks and agent workflows. It sets new benchmarks in..."
-  },
-  {
    "id": "anthropic/claude-sonnet-4",
    "name": "claude-sonnet-4",
    "vendor": "anthropic",
    "prompt_price": 3e-06,
    "completion_price": 1.5e-05,
-   "context": 1000000,
+   "context": 200000,
    "modality": "text+image+file->text",
    "created": 1747930371,
    "description": "Claude Sonnet 4 significantly enhances the capabilities of its predecessor, Sonnet 3.7, excelling in both coding and reasoning tasks with improved precision and controllability. Achieving state-of-the"
@@ -4065,8 +4054,8 @@
    "id": "meta-llama/llama-4-maverick",
    "name": "llama-4-maverick",
    "vendor": "meta-llama",
-   "prompt_price": 2e-07,
-   "completion_price": 8e-07,
+   "prompt_price": 1.875e-07,
+   "completion_price": 6.525e-07,
    "context": 1048576,
    "modality": "text+image->text",
    "created": 1743881822,
@@ -4626,8 +4615,8 @@
    "id": "meta-llama/llama-3.1-70b-instruct",
    "name": "llama-3.1-70b-instruct",
    "vendor": "meta-llama",
-   "prompt_price": 7.2e-07,
-   "completion_price": 7.2e-07,
+   "prompt_price": 4e-07,
+   "completion_price": 4e-07,
    "context": 131072,
    "modality": "text->text",
    "created": 1721692800,
