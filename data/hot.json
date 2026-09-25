@@ -1,70 +1,70 @@
 {
- "fetched_at": "2026-09-24T06:55:30.879Z",
+ "fetched_at": "2026-09-25T06:50:05.905Z",
  "items": [
+  {
+   "name": "DeepSeek: DeepSeek V4.1 Flash",
+   "tokens7d": 19600000000000,
+   "display": "19.6T tokens"
+  },
   {
    "name": "50% off",
    "tokens7d": 19500000000000,
    "display": "19.5T tokens"
   },
   {
-   "name": "DeepSeek: DeepSeek V4.1 Flash",
-   "tokens7d": 19100000000000,
-   "display": "19.1T tokens"
-  },
-  {
    "name": "Tencent: Hy4 preview",
-   "tokens7d": 13500000000000,
-   "display": "13.5T tokens"
+   "tokens7d": 12600000000000,
+   "display": "12.6T tokens"
   },
   {
    "name": "OpenAI: GPT-5.6 Luna",
-   "tokens7d": 9010000000000,
-   "display": "9.01T tokens"
+   "tokens7d": 8940000000000,
+   "display": "8.94T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4 Flash 0731",
-   "tokens7d": 8810000000000,
-   "display": "8.81T tokens"
-  },
-  {
-   "name": "15% off",
-   "tokens7d": 5730000000000,
-   "display": "5.73T tokens"
+   "tokens7d": 8580000000000,
+   "display": "8.58T tokens"
   },
   {
    "name": "NVIDIA: Nemotron 3 Ultra (free)",
-   "tokens7d": 5140000000000,
-   "display": "5.14T tokens"
+   "tokens7d": 5210000000000,
+   "display": "5.21T tokens"
+  },
+  {
+   "name": "15% off",
+   "tokens7d": 4980000000000,
+   "display": "4.98T tokens"
+  },
+  {
+   "name": "Space Bunny Alpha",
+   "tokens7d": 3780000000000,
+   "display": "3.78T tokens"
   },
   {
    "name": "Tencent: Hy3",
-   "tokens7d": 4099999999999.9995,
-   "display": "4.1T tokens"
+   "tokens7d": 3640000000000,
+   "display": "3.64T tokens"
   },
   {
-   "name": "37% off",
-   "tokens7d": 3580000000000,
-   "display": "3.58T tokens"
+   "name": "DeepSeek: DeepSeek V4 Flash 0423",
+   "tokens7d": 3510000000000,
+   "display": "3.51T tokens"
   },
   {
-   "name": "38% off",
-   "tokens7d": 3230000000000,
-   "display": "3.23T tokens"
-  },
-  {
-   "name": "50% off",
-   "tokens7d": 2210000000000,
-   "display": "2.21T tokens"
+   "name": "60% off",
+   "tokens7d": 3340000000000,
+   "display": "3.34T tokens"
   },
   {
    "name": "50% off",
-   "tokens7d": 1960000000000,
-   "display": "1.96T tokens"
+   "tokens7d": 2200000000000,
+   "display": "2.2T tokens"
   },
   {
-   "name": "OpenAI: GPT-6 Astra",
-   "tokens7d": 1840000000000,
-   "display": "1.84T tokens"
+   "name": "Xiaomi: MiMo-V2.6-Flash",
+   "tokens7d": 2109999999999.9998,
+   "display": "2.11T tokens"
   }
  ]
 }
