@@ -1,75 +1,75 @@
 {
- "fetched_at": "2026-09-26T06:50:01.087Z",
+ "fetched_at": "2026-09-27T07:18:54.578Z",
  "items": [
   {
    "name": "DeepSeek: DeepSeek V4.1 Flash",
-   "tokens7d": 19900000000000,
-   "display": "19.9T tokens"
-  },
-  {
-   "name": "Z.ai: GLM 5.3 Flash",
-   "tokens7d": 19700000000000,
-   "display": "19.7T tokens"
-  },
-  {
-   "name": "Tencent: Hy4 preview",
-   "tokens7d": 11400000000000,
-   "display": "11.4T tokens"
-  },
-  {
-   "name": "OpenAI: GPT-5.6 Luna",
-   "tokens7d": 8840000000000,
-   "display": "8.84T tokens"
-  },
-  {
-   "name": "DeepSeek: DeepSeek V4 Flash 0731",
-   "tokens7d": 8500000000000,
-   "display": "8.5T tokens"
-  },
-  {
-   "name": "Space Bunny Alpha",
-   "tokens7d": 7040000000000,
-   "display": "7.04T tokens"
-  },
-  {
-   "name": "NVIDIA: Nemotron 3 Ultra (free)",
-   "tokens7d": 5390000000000,
-   "display": "5.39T tokens"
-  },
-  {
-   "name": "15% off",
-   "tokens7d": 4219999999999.9995,
-   "display": "4.22T tokens"
-  },
-  {
-   "name": "DeepSeek: DeepSeek V4 Flash 0423",
-   "tokens7d": 3480000000000,
-   "display": "3.48T tokens"
-  },
-  {
-   "name": "Xiaomi: MiMo-V2.6-Flash",
-   "tokens7d": 3410000000000,
-   "display": "3.41T tokens"
-  },
-  {
-   "name": "Tencent: Hy3",
-   "tokens7d": 3130000000000,
-   "display": "3.13T tokens"
-  },
-  {
-   "name": "66% off",
-   "tokens7d": 3110000000000,
-   "display": "3.11T tokens"
-  },
-  {
-   "name": "TypeSafe: Jev 1.13",
-   "tokens7d": 2310000000000,
-   "display": "2.31T tokens"
+   "tokens7d": 19400000000000,
+   "display": "19.4T tokens"
   },
   {
    "name": "50% off",
-   "tokens7d": 2270000000000,
-   "display": "2.27T tokens"
+   "tokens7d": 18100000000000,
+   "display": "18.1T tokens"
+  },
+  {
+   "name": "Tencent: Hy4 preview",
+   "tokens7d": 10900000000000,
+   "display": "10.9T tokens"
+  },
+  {
+   "name": "Space Bunny Alpha",
+   "tokens7d": 10900000000000,
+   "display": "10.9T tokens"
+  },
+  {
+   "name": "OpenAI: GPT-5.6 Luna",
+   "tokens7d": 8870000000000,
+   "display": "8.87T tokens"
+  },
+  {
+   "name": "DeepSeek: DeepSeek V4 Flash 0731",
+   "tokens7d": 8310000000000.001,
+   "display": "8.31T tokens"
+  },
+  {
+   "name": "NVIDIA: Nemotron 3 Ultra (free)",
+   "tokens7d": 5730000000000,
+   "display": "5.73T tokens"
+  },
+  {
+   "name": "Xiaomi: MiMo-V2.6-Flash",
+   "tokens7d": 4600000000000,
+   "display": "4.6T tokens"
+  },
+  {
+   "name": "15% off",
+   "tokens7d": 3540000000000,
+   "display": "3.54T tokens"
+  },
+  {
+   "name": "DeepSeek: DeepSeek V4 Flash 0423",
+   "tokens7d": 3470000000000,
+   "display": "3.47T tokens"
+  },
+  {
+   "name": "77% off",
+   "tokens7d": 2950000000000,
+   "display": "2.95T tokens"
+  },
+  {
+   "name": "Tencent: Hy3",
+   "tokens7d": 2900000000000,
+   "display": "2.9T tokens"
+  },
+  {
+   "name": "TypeSafe: Jev 1.13",
+   "tokens7d": 2530000000000,
+   "display": "2.53T tokens"
+  },
+  {
+   "name": "OpenAI: GPT-6 Luna",
+   "tokens7d": 2410000000000,
+   "display": "2.41T tokens"
   }
  ]
 }
