@@ -1,25 +1,25 @@
 {
- "fetched_at": "2026-09-27T07:18:54.578Z",
+ "fetched_at": "2026-09-28T07:55:38.047Z",
  "items": [
   {
    "name": "DeepSeek: DeepSeek V4.1 Flash",
-   "tokens7d": 19400000000000,
-   "display": "19.4T tokens"
+   "tokens7d": 20500000000000,
+   "display": "20.5T tokens"
   },
   {
    "name": "50% off",
-   "tokens7d": 18100000000000,
-   "display": "18.1T tokens"
-  },
-  {
-   "name": "Tencent: Hy4 preview",
-   "tokens7d": 10900000000000,
-   "display": "10.9T tokens"
+   "tokens7d": 16700000000000,
+   "display": "16.7T tokens"
   },
   {
    "name": "Space Bunny Alpha",
-   "tokens7d": 10900000000000,
-   "display": "10.9T tokens"
+   "tokens7d": 15100000000000,
+   "display": "15.1T tokens"
+  },
+  {
+   "name": "Tencent: Hy4 preview",
+   "tokens7d": 10200000000000,
+   "display": "10.2T tokens"
   },
   {
    "name": "OpenAI: GPT-5.6 Luna",
@@ -28,48 +28,48 @@
   },
   {
    "name": "DeepSeek: DeepSeek V4 Flash 0731",
-   "tokens7d": 8310000000000.001,
-   "display": "8.31T tokens"
+   "tokens7d": 8090000000000,
+   "display": "8.09T tokens"
   },
   {
    "name": "NVIDIA: Nemotron 3 Ultra (free)",
-   "tokens7d": 5730000000000,
-   "display": "5.73T tokens"
+   "tokens7d": 6000000000000,
+   "display": "6T tokens"
   },
   {
    "name": "Xiaomi: MiMo-V2.6-Flash",
-   "tokens7d": 4600000000000,
-   "display": "4.6T tokens"
-  },
-  {
-   "name": "15% off",
-   "tokens7d": 3540000000000,
-   "display": "3.54T tokens"
+   "tokens7d": 5940000000000,
+   "display": "5.94T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4 Flash 0423",
-   "tokens7d": 3470000000000,
-   "display": "3.47T tokens"
-  },
-  {
-   "name": "77% off",
-   "tokens7d": 2950000000000,
-   "display": "2.95T tokens"
-  },
-  {
-   "name": "Tencent: Hy3",
-   "tokens7d": 2900000000000,
-   "display": "2.9T tokens"
-  },
-  {
-   "name": "TypeSafe: Jev 1.13",
-   "tokens7d": 2530000000000,
-   "display": "2.53T tokens"
+   "tokens7d": 3460000000000,
+   "display": "3.46T tokens"
   },
   {
    "name": "OpenAI: GPT-6 Luna",
-   "tokens7d": 2410000000000,
-   "display": "2.41T tokens"
+   "tokens7d": 3070000000000,
+   "display": "3.07T tokens"
+  },
+  {
+   "name": "Z.ai: GLM 5.3",
+   "tokens7d": 2890000000000,
+   "display": "2.89T tokens"
+  },
+  {
+   "name": "15% off",
+   "tokens7d": 2830000000000,
+   "display": "2.83T tokens"
+  },
+  {
+   "name": "Tencent: Hy3",
+   "tokens7d": 2800000000000,
+   "display": "2.8T tokens"
+  },
+  {
+   "name": "TypeSafe: Jev 1.13",
+   "tokens7d": 2700000000000,
+   "display": "2.7T tokens"
   }
  ]
 }
