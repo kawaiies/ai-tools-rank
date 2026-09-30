@@ -1,7 +1,51 @@
 {
- "fetched_at": "2026-09-29 07:39:28",
- "count": 460,
+ "fetched_at": "2026-09-30 07:41:08",
+ "count": 464,
  "models": [
+  {
+   "id": "openai/gpt-6.1-sol-pro",
+   "name": "gpt-6.1-sol-pro",
+   "vendor": "openai",
+   "prompt_price": 2e-06,
+   "completion_price": 1e-05,
+   "context": 1050000,
+   "modality": "text+image+file->text",
+   "created": 1790702886,
+   "description": "GPT-6.1 Sol Pro is the same underlying model as [GPT-6.1 Sol](https://openrouter.ai/openai/gpt-6.1-sol), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks. **Cost"
+  },
+  {
+   "id": "openai/gpt-6.1-sol-pro:batch",
+   "name": "gpt-6.1-sol-pro:batch",
+   "vendor": "openai",
+   "prompt_price": 1e-06,
+   "completion_price": 5e-06,
+   "context": 1050000,
+   "modality": "text+image+file->text",
+   "created": 1790702886,
+   "description": "GPT-6.1 Sol Pro is the same underlying model as [GPT-6.1 Sol](https://openrouter.ai/openai/gpt-6.1-sol), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks. **Cost"
+  },
+  {
+   "id": "openai/gpt-6.1-sol",
+   "name": "gpt-6.1-sol",
+   "vendor": "openai",
+   "prompt_price": 2e-06,
+   "completion_price": 1e-05,
+   "context": 1050000,
+   "modality": "text+image+file->text",
+   "created": 1790702882,
+   "description": "GPT-6.1 Sol is an upgrade to GPT-6 Sol from OpenAI, positioned below the flagship GPT-6 Astra in the GPT-6 series. It is suited for agentic coding, computer use, document-heavy professional..."
+  },
+  {
+   "id": "openai/gpt-6.1-sol:batch",
+   "name": "gpt-6.1-sol:batch",
+   "vendor": "openai",
+   "prompt_price": 1e-06,
+   "completion_price": 5e-06,
+   "context": 1050000,
+   "modality": "text+image+file->text",
+   "created": 1790702882,
+   "description": "GPT-6.1 Sol is an upgrade to GPT-6 Sol from OpenAI, positioned below the flagship GPT-6 Astra in the GPT-6 series. It is suited for agentic coding, computer use, document-heavy professional..."
+  },
   {
    "id": "anthropic/claude-sonnet-5.5",
    "name": "claude-sonnet-5.5",
@@ -143,7 +187,7 @@
    "context": 1050000,
    "modality": "text+image+file->text",
    "created": 1790100791,
-   "description": "GPT-6 Luna Pro is the same underlying model as [GPT-6 Luna](https://openrouter.ai/openai/gpt-6-luna), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks.\n\nLearn mo"
+   "description": "GPT-6 Luna Pro is the same underlying model as [GPT-6 Luna](https://openrouter.ai/openai/gpt-6-luna), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks. **Cost no"
   },
   {
    "id": "openai/gpt-6-luna-pro:batch",
@@ -154,7 +198,7 @@
    "context": 1050000,
    "modality": "text+image+file->text",
    "created": 1790100791,
-   "description": "GPT-6 Luna Pro is the same underlying model as [GPT-6 Luna](https://openrouter.ai/openai/gpt-6-luna), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks.\n\nLearn mo"
+   "description": "GPT-6 Luna Pro is the same underlying model as [GPT-6 Luna](https://openrouter.ai/openai/gpt-6-luna), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks. **Cost no"
   },
   {
    "id": "openai/gpt-6-luna",
@@ -187,7 +231,7 @@
    "context": 1050000,
    "modality": "text+image+file->text",
    "created": 1790100781,
-   "description": "GPT-6 Sol Pro is the same underlying model as [GPT-6 Sol](https://openrouter.ai/openai/gpt-6-sol), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks.\n\nLearn more "
+   "description": "GPT-6 Sol Pro is the same underlying model as [GPT-6 Sol](https://openrouter.ai/openai/gpt-6-sol), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks. **Cost note:"
   },
   {
    "id": "openai/gpt-6-sol-pro:batch",
@@ -198,7 +242,7 @@
    "context": 1050000,
    "modality": "text+image+file->text",
    "created": 1790100781,
-   "description": "GPT-6 Sol Pro is the same underlying model as [GPT-6 Sol](https://openrouter.ai/openai/gpt-6-sol), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks.\n\nLearn more "
+   "description": "GPT-6 Sol Pro is the same underlying model as [GPT-6 Sol](https://openrouter.ai/openai/gpt-6-sol), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks. **Cost note:"
   },
   {
    "id": "openai/gpt-6-sol",
@@ -336,8 +380,8 @@
    "id": "~deepseek/deepseek-pro-latest",
    "name": "deepseek-pro-latest",
    "vendor": "~deepseek",
-   "prompt_price": 1.5808e-07,
-   "completion_price": 1.9584e-06,
+   "prompt_price": 1.6e-07,
+   "completion_price": 1.85024e-06,
    "context": 1048576,
    "modality": "text->text",
    "created": 1789399174,
@@ -539,7 +583,7 @@
    "context": 1050000,
    "modality": "text+image+file->text",
    "created": 1788552835,
-   "description": "GPT-6 Astra Pro is the same underlying model as [GPT-6 Astra](https://openrouter.ai/openai/gpt-6-astra), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks.\n\nLearn"
+   "description": "GPT-6 Astra Pro is the same underlying model as [GPT-6 Astra](https://openrouter.ai/openai/gpt-6-astra), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks. **Cost"
   },
   {
    "id": "openai/gpt-6-astra-pro:batch",
@@ -550,7 +594,7 @@
    "context": 1050000,
    "modality": "text+image+file->text",
    "created": 1788552835,
-   "description": "GPT-6 Astra Pro is the same underlying model as [GPT-6 Astra](https://openrouter.ai/openai/gpt-6-astra), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks.\n\nLearn"
+   "description": "GPT-6 Astra Pro is the same underlying model as [GPT-6 Astra](https://openrouter.ai/openai/gpt-6-astra), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks. **Cost"
   },
   {
    "id": "inclusionai/ling-3.0-flash-sante:free",
@@ -679,7 +723,7 @@
    "vendor": "~z-ai",
    "prompt_price": 2e-08,
    "completion_price": 3e-07,
-   "context": 1310720,
+   "context": 1048576,
    "modality": "text+image+video->text",
    "created": 1787817633,
    "description": "This model always redirects to the latest model in the GLM Flash family."
@@ -701,7 +745,7 @@
    "vendor": "z-ai",
    "prompt_price": 1.5e-07,
    "completion_price": 5e-07,
-   "context": 1310720,
+   "context": 1048576,
    "modality": "text+image+video->text",
    "created": 1787752741,
    "description": "GLM-5.3-Flash is a native multimodal model from Z.ai. It is suited for efficient coding and long-horizon agent tasks. Its hybrid sparse and linear attention architecture maintains accurate long-contex"
@@ -765,9 +809,9 @@
    "id": "~z-ai/glm-latest",
    "name": "glm-latest",
    "vendor": "~z-ai",
-   "prompt_price": 1.9e-07,
+   "prompt_price": 9e-08,
    "completion_price": 4e-06,
-   "context": 1310720,
+   "context": 1048576,
    "modality": "text->text",
    "created": 1787151053,
    "description": "This model always redirects to the latest GLM model from Z.ai."
@@ -789,7 +833,7 @@
    "vendor": "z-ai",
    "prompt_price": 1.4e-06,
    "completion_price": 4.4e-06,
-   "context": 1310720,
+   "context": 1048576,
    "modality": "text->text",
    "created": 1787086655,
    "description": "GLM-5.3 is a large-scale reasoning model from Z.ai, built for complex software engineering and long-horizon agent tasks. It supports text input and output with a 1M-token context window, and improves."
@@ -809,8 +853,8 @@
    "id": "qwen/qwen3.8-27b",
    "name": "qwen3.8-27b",
    "vendor": "qwen",
-   "prompt_price": 7.49e-08,
-   "completion_price": 4.4e-06,
+   "prompt_price": 4.2e-07,
+   "completion_price": 3e-06,
    "context": 1000000,
    "modality": "text+image+video->text",
    "created": 1786722910,
@@ -897,8 +941,8 @@
    "id": "deepseek/deepseek-v4-pro-0813",
    "name": "deepseek-v4-pro-0813",
    "vendor": "deepseek",
-   "prompt_price": 4e-07,
-   "completion_price": 4.2e-06,
+   "prompt_price": 1.32e-06,
+   "completion_price": 3.96e-06,
    "context": 1048576,
    "modality": "text->text",
    "created": 1786549364,
@@ -932,7 +976,7 @@
    "vendor": "nvidia",
    "prompt_price": 6e-08,
    "completion_price": 1.6e-07,
-   "context": 1000000,
+   "context": 262144,
    "modality": "text->text",
    "created": 1786452751,
    "description": "NVIDIA Nemotron 3.5 Lightning is an open mixture-of-experts model from NVIDIA, with 3B active parameters out of 30B total. It is suited for high-throughput agentic workloads and specialized tasks that"
@@ -974,8 +1018,8 @@
    "id": "meta/muse-glimmer-30b",
    "name": "muse-glimmer-30b",
    "vendor": "meta",
-   "prompt_price": 3e-07,
-   "completion_price": 1.2e-06,
+   "prompt_price": 3.5e-07,
+   "completion_price": 1.5e-06,
    "context": 131072,
    "modality": "text+image->text",
    "created": 1786302394,
@@ -996,9 +1040,9 @@
    "id": "~deepseek/deepseek-v4-flash-latest",
    "name": "deepseek-v4-flash-latest",
    "vendor": "~deepseek",
-   "prompt_price": 1.2e-08,
-   "completion_price": 1e-06,
-   "context": 1310720,
+   "prompt_price": 1e-08,
+   "completion_price": 1.28e-06,
+   "context": 1048576,
    "modality": "text->text",
    "created": 1785606009,
    "description": "This model always redirects to the latest model in the DeepSeek V4 Flash family."
@@ -1007,9 +1051,9 @@
    "id": "deepseek/deepseek-v4-flash-0731",
    "name": "deepseek-v4-flash-0731",
    "vendor": "deepseek",
-   "prompt_price": 1.8e-08,
-   "completion_price": 3.2e-07,
-   "context": 1310720,
+   "prompt_price": 1e-08,
+   "completion_price": 1.28e-06,
+   "context": 1048576,
    "modality": "text->text",
    "created": 1785478908,
    "description": "DeepSeek V4 Flash 0731 is a sparse mixture-of-experts model from DeepSeek, with 13B active parameters out of 284B total. This re-post-trained revision is suited for coding, reasoning, and agent workfl"
@@ -1243,7 +1287,7 @@
    "context": 1050000,
    "modality": "text+image+file->text",
    "created": 1783590867,
-   "description": "GPT-5.6 Luna Pro is the same underlying model as [GPT-5.6 Luna](https://openrouter.ai/openai/gpt-5.6-luna), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks.\n\nLe"
+   "description": "GPT-5.6 Luna Pro is the same underlying model as [GPT-5.6 Luna](https://openrouter.ai/openai/gpt-5.6-luna), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks. **C"
   },
   {
    "id": "openai/gpt-5.6-luna-pro:batch",
@@ -1254,7 +1298,7 @@
    "context": 1050000,
    "modality": "text+image+file->text",
    "created": 1783590867,
-   "description": "GPT-5.6 Luna Pro is the same underlying model as [GPT-5.6 Luna](https://openrouter.ai/openai/gpt-5.6-luna), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks.\n\nLe"
+   "description": "GPT-5.6 Luna Pro is the same underlying model as [GPT-5.6 Luna](https://openrouter.ai/openai/gpt-5.6-luna), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks. **C"
   },
   {
    "id": "openai/gpt-5.6-luna",
@@ -1287,7 +1331,7 @@
    "context": 1050000,
    "modality": "text+image+file->text",
    "created": 1783590861,
-   "description": "GPT-5.6 Terra Pro is the same underlying model as [GPT-5.6 Terra](https://openrouter.ai/openai/gpt-5.6-terra), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks.\n"
+   "description": "GPT-5.6 Terra Pro is the same underlying model as [GPT-5.6 Terra](https://openrouter.ai/openai/gpt-5.6-terra), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks. "
   },
   {
    "id": "openai/gpt-5.6-terra-pro:batch",
@@ -1298,7 +1342,7 @@
    "context": 1050000,
    "modality": "text+image+file->text",
    "created": 1783590861,
-   "description": "GPT-5.6 Terra Pro is the same underlying model as [GPT-5.6 Terra](https://openrouter.ai/openai/gpt-5.6-terra), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks.\n"
+   "description": "GPT-5.6 Terra Pro is the same underlying model as [GPT-5.6 Terra](https://openrouter.ai/openai/gpt-5.6-terra), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks. "
   },
   {
    "id": "openai/gpt-5.6-terra",
@@ -1331,7 +1375,7 @@
    "context": 1050000,
    "modality": "text+image+file->text",
    "created": 1783590854,
-   "description": "GPT-5.6 Sol Pro is the same underlying model as [GPT-5.6 Sol](https://openrouter.ai/openai/gpt-5.6-sol), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks.\n\nLearn"
+   "description": "GPT-5.6 Sol Pro is the same underlying model as [GPT-5.6 Sol](https://openrouter.ai/openai/gpt-5.6-sol), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks. **Cost"
   },
   {
    "id": "openai/gpt-5.6-sol-pro:batch",
@@ -1342,7 +1386,7 @@
    "context": 1050000,
    "modality": "text+image+file->text",
    "created": 1783590854,
-   "description": "GPT-5.6 Sol Pro is the same underlying model as [GPT-5.6 Sol](https://openrouter.ai/openai/gpt-5.6-sol), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks.\n\nLearn"
+   "description": "GPT-5.6 Sol Pro is the same underlying model as [GPT-5.6 Sol](https://openrouter.ai/openai/gpt-5.6-sol), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks. **Cost"
   },
   {
    "id": "openai/gpt-5.6-sol",
@@ -1524,8 +1568,8 @@
    "id": "z-ai/glm-5.2",
    "name": "glm-5.2",
    "vendor": "z-ai",
-   "prompt_price": 3.249e-07,
-   "completion_price": 4.4e-06,
+   "prompt_price": 2.5e-07,
+   "completion_price": 3.99e-06,
    "context": 1048576,
    "modality": "text->text",
    "created": 1781631930,
@@ -1546,8 +1590,8 @@
    "id": "moonshotai/kimi-k2.7-code",
    "name": "kimi-k2.7-code",
    "vendor": "moonshotai",
-   "prompt_price": 6.562e-07,
-   "completion_price": 3.3e-06,
+   "prompt_price": 6.712e-07,
+   "completion_price": 3.35e-06,
    "context": 262144,
    "modality": "text+image->text",
    "created": 1781266361,
@@ -1866,7 +1910,7 @@
    "name": "kimi-latest",
    "vendor": "~moonshotai",
    "prompt_price": 4e-07,
-   "completion_price": 1e-05,
+   "completion_price": 9e-06,
    "context": 1048576,
    "modality": "text+image+video->text",
    "created": 1777318428,
@@ -3669,8 +3713,8 @@
    "id": "openai/gpt-oss-120b",
    "name": "gpt-oss-120b",
    "vendor": "openai",
-   "prompt_price": 1.5e-07,
-   "completion_price": 6e-07,
+   "prompt_price": 3.7e-08,
+   "completion_price": 1.7e-07,
    "context": 131072,
    "modality": "text->text",
    "created": 1754414231,
