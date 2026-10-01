@@ -1,75 +1,75 @@
 {
- "fetched_at": "2026-09-30T07:41:18.936Z",
+ "fetched_at": "2026-10-01T07:59:16.891Z",
  "items": [
   {
-   "name": "Space Bunny Alpha",
-   "tokens7d": 25000000000000,
-   "display": "25T tokens"
+   "name": "Going away October 5, 2026",
+   "tokens7d": 29700000000000,
+   "display": "29.7T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4.1 Flash",
-   "tokens7d": 23000000000000,
-   "display": "23T tokens"
+   "tokens7d": 23600000000000,
+   "display": "23.6T tokens"
   },
   {
    "name": "Z.ai: GLM 5.3 Flash",
-   "tokens7d": 12000000000000,
-   "display": "12T tokens"
+   "tokens7d": 11000000000000,
+   "display": "11T tokens"
   },
   {
    "name": "Xiaomi: MiMo-V2.6-Flash",
-   "tokens7d": 8650000000000,
-   "display": "8.65T tokens"
-  },
-  {
-   "name": "Tencent: Hy4 preview",
-   "tokens7d": 8550000000000.001,
-   "display": "8.55T tokens"
+   "tokens7d": 9440000000000,
+   "display": "9.44T tokens"
   },
   {
    "name": "OpenAI: GPT-5.6 Luna",
-   "tokens7d": 8470000000000.001,
-   "display": "8.47T tokens"
+   "tokens7d": 7840000000000,
+   "display": "7.84T tokens"
+  },
+  {
+   "name": "Tencent: Hy4 preview",
+   "tokens7d": 7680000000000,
+   "display": "7.68T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4 Flash 0731",
-   "tokens7d": 7580000000000,
-   "display": "7.58T tokens"
+   "tokens7d": 7260000000000,
+   "display": "7.26T tokens"
   },
   {
    "name": "NVIDIA: Nemotron 3 Ultra (free)",
-   "tokens7d": 6060000000000,
-   "display": "6.06T tokens"
+   "tokens7d": 6270000000000,
+   "display": "6.27T tokens"
   },
   {
    "name": "OpenAI: GPT-6 Luna",
-   "tokens7d": 4630000000000,
-   "display": "4.63T tokens"
+   "tokens7d": 5380000000000,
+   "display": "5.38T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4 Flash 0423",
-   "tokens7d": 3370000000000,
-   "display": "3.37T tokens"
+   "tokens7d": 3320000000000,
+   "display": "3.32T tokens"
   },
   {
    "name": "TypeSafe: Jev 1.13",
-   "tokens7d": 2950000000000,
-   "display": "2.95T tokens"
+   "tokens7d": 3100000000000,
+   "display": "3.1T tokens"
   },
   {
    "name": "Z.ai: GLM 5.3",
-   "tokens7d": 2920000000000,
-   "display": "2.92T tokens"
+   "tokens7d": 2850000000000,
+   "display": "2.85T tokens"
   },
   {
    "name": "Tencent: Hy3",
-   "tokens7d": 2660000000000,
-   "display": "2.66T tokens"
+   "tokens7d": 2480000000000,
+   "display": "2.48T tokens"
   },
   {
    "name": "50% off",
-   "tokens7d": 2150000000000,
-   "display": "2.15T tokens"
+   "tokens7d": 2200000000000,
+   "display": "2.2T tokens"
   }
  ]
 }
