@@ -1,75 +1,75 @@
 {
- "fetched_at": "2026-10-10T07:53:40.303Z",
+ "fetched_at": "2026-10-11T08:00:15.738Z",
  "items": [
   {
-   "name": "DeepSeek: DeepSeek V4.1 Flash",
-   "tokens7d": 39200000000000,
-   "display": "39.2T tokens"
+   "name": "88% off",
+   "tokens7d": 40500000000000,
+   "display": "40.5T tokens"
   },
   {
    "name": "Z.ai: GLM 5.3 Flash",
+   "tokens7d": 12200000000000,
+   "display": "12.2T tokens"
+  },
+  {
+   "name": "Xiaomi: MiMo-V2.6-Flash",
    "tokens7d": 11800000000000,
    "display": "11.8T tokens"
   },
   {
-   "name": "Xiaomi: MiMo-V2.6-Flash",
-   "tokens7d": 11500000000000,
-   "display": "11.5T tokens"
-  },
-  {
    "name": "Tencent: Hy4 preview",
-   "tokens7d": 8500000000000,
-   "display": "8.5T tokens"
+   "tokens7d": 8699999999999.999,
+   "display": "8.7T tokens"
   },
   {
    "name": "OpenAI: GPT-6 Luna",
-   "tokens7d": 7240000000000,
-   "display": "7.24T tokens"
-  },
-  {
-   "name": "NVIDIA: Nemotron 3 Ultra (free)",
-   "tokens7d": 6700000000000,
-   "display": "6.7T tokens"
-  },
-  {
-   "name": "DeepSeek: DeepSeek V4 Flash 0731",
-   "tokens7d": 5370000000000,
-   "display": "5.37T tokens"
-  },
-  {
-   "name": "Anthropic: Claude Opus 5.5",
-   "tokens7d": 4550000000000,
-   "display": "4.55T tokens"
+   "tokens7d": 7370000000000,
+   "display": "7.37T tokens"
   },
   {
    "name": "StepFun: Step 5 Preview",
-   "tokens7d": 3980000000000,
-   "display": "3.98T tokens"
+   "tokens7d": 7090000000000,
+   "display": "7.09T tokens"
+  },
+  {
+   "name": "NVIDIA: Nemotron 3 Ultra (free)",
+   "tokens7d": 6990000000000,
+   "display": "6.99T tokens"
+  },
+  {
+   "name": "DeepSeek: DeepSeek V4 Flash 0731",
+   "tokens7d": 5230000000000,
+   "display": "5.23T tokens"
+  },
+  {
+   "name": "Anthropic: Claude Opus 5.5",
+   "tokens7d": 4930000000000,
+   "display": "4.93T tokens"
   },
   {
    "name": "Z.ai: GLM 5.3",
-   "tokens7d": 3550000000000,
-   "display": "3.55T tokens"
+   "tokens7d": 3660000000000,
+   "display": "3.66T tokens"
   },
   {
    "name": "TypeSafe: Jev 1.13",
-   "tokens7d": 3450000000000,
-   "display": "3.45T tokens"
+   "tokens7d": 3490000000000,
+   "display": "3.49T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4 Flash 0423",
-   "tokens7d": 3190000000000,
-   "display": "3.19T tokens"
+   "tokens7d": 3150000000000,
+   "display": "3.15T tokens"
   },
   {
    "name": "Tencent: Hy3",
-   "tokens7d": 2340000000000,
-   "display": "2.34T tokens"
+   "tokens7d": 2510000000000,
+   "display": "2.51T tokens"
   },
   {
-   "name": "50% off",
-   "tokens7d": 2140000000000.0002,
-   "display": "2.14T tokens"
+   "name": "Anthropic: Claude Sonnet 5.5",
+   "tokens7d": 2210000000000,
+   "display": "2.21T tokens"
   }
  ]
 }
