@@ -1,50 +1,50 @@
 {
- "fetched_at": "2026-10-19T07:06:09.980Z",
+ "fetched_at": "2026-10-20T06:50:46.006Z",
  "items": [
   {
    "name": "DeepSeek: DeepSeek V4.1 Flash",
-   "tokens7d": 33500000000000,
-   "display": "33.5T tokens"
+   "tokens7d": 30200000000000,
+   "display": "30.2T tokens"
   },
   {
    "name": "Z.ai: GLM 5.3 Flash",
-   "tokens7d": 12700000000000,
-   "display": "12.7T tokens"
-  },
-  {
-   "name": "StepFun: Step 5 Preview",
-   "tokens7d": 11500000000000,
-   "display": "11.5T tokens"
+   "tokens7d": 12300000000000,
+   "display": "12.3T tokens"
   },
   {
    "name": "Xiaomi: MiMo-V2.6-Flash",
-   "tokens7d": 10200000000000,
-   "display": "10.2T tokens"
+   "tokens7d": 9830000000000,
+   "display": "9.83T tokens"
+  },
+  {
+   "name": "DeepSeek: DeepSeek V4.1 Flash 1017",
+   "tokens7d": 8359999999999.999,
+   "display": "8.36T tokens"
+  },
+  {
+   "name": "StepFun: Step 5 Preview",
+   "tokens7d": 8340000000000,
+   "display": "8.34T tokens"
   },
   {
    "name": "Tencent: Hy4 preview",
-   "tokens7d": 8070000000000,
-   "display": "8.07T tokens"
+   "tokens7d": 8260000000000,
+   "display": "8.26T tokens"
   },
   {
    "name": "Anthropic: Claude Opus 5.5",
-   "tokens7d": 6430000000000,
-   "display": "6.43T tokens"
+   "tokens7d": 6750000000000,
+   "display": "6.75T tokens"
   },
   {
    "name": "OpenAI: GPT-6 Luna",
-   "tokens7d": 6390000000000,
-   "display": "6.39T tokens"
+   "tokens7d": 6450000000000,
+   "display": "6.45T tokens"
   },
   {
    "name": "Z.ai: GLM 5.3",
-   "tokens7d": 5380000000000,
-   "display": "5.38T tokens"
-  },
-  {
-   "name": "NVIDIA: Nemotron 3 Ultra (free)",
-   "tokens7d": 5210000000000,
-   "display": "5.21T tokens"
+   "tokens7d": 5460000000000,
+   "display": "5.46T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4 Flash 0731",
@@ -52,24 +52,24 @@
    "display": "4.85T tokens"
   },
   {
-   "name": "DeepSeek: DeepSeek V4.1 Flash 1017",
-   "tokens7d": 4600000000000,
-   "display": "4.6T tokens"
+   "name": "NVIDIA: Nemotron 3 Ultra (free)",
+   "tokens7d": 4820000000000,
+   "display": "4.82T tokens"
   },
   {
    "name": "Meta: Muse Spark 1.3 Contributor",
-   "tokens7d": 3400000000000,
-   "display": "3.4T tokens"
+   "tokens7d": 3380000000000,
+   "display": "3.38T tokens"
   },
   {
    "name": "Tencent: Hy3",
-   "tokens7d": 3330000000000,
-   "display": "3.33T tokens"
+   "tokens7d": 3320000000000,
+   "display": "3.32T tokens"
   },
   {
    "name": "TypeSafe: Jev 1.13",
-   "tokens7d": 3120000000000,
-   "display": "3.12T tokens"
+   "tokens7d": 3070000000000,
+   "display": "3.07T tokens"
   }
  ]
 }
