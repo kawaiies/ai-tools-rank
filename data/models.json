@@ -1,7 +1,18 @@
 {
- "fetched_at": "2026-10-28 07:42:31",
- "count": 464,
+ "fetched_at": "2026-10-29 07:46:50",
+ "count": 457,
  "models": [
+  {
+   "id": "particle-ai/particle-1",
+   "name": "particle-1",
+   "vendor": "particle-ai",
+   "prompt_price": 2.5e-07,
+   "completion_price": 1e-06,
+   "context": 1048576,
+   "modality": "text+image->text",
+   "created": 1793207893,
+   "description": "Particle-1 is a token-efficient agentic coding model from Particle AI, post-trained on DeepSeek V4.1 Flash. It is suited for software engineering work such as terminal workflows, codebase changes, and"
+  },
   {
    "id": "openai/gpt-6.1-terra-pro",
    "name": "gpt-6.1-terra-pro",
@@ -732,7 +743,7 @@
    "id": "~deepseek/deepseek-pro-latest",
    "name": "deepseek-pro-latest",
    "vendor": "~deepseek",
-   "prompt_price": 2.542e-07,
+   "prompt_price": 1.035e-07,
    "completion_price": 8e-06,
    "context": 1048576,
    "modality": "text->text",
@@ -743,8 +754,8 @@
    "id": "~deepseek/deepseek-flash-latest",
    "name": "deepseek-flash-latest",
    "vendor": "~deepseek",
-   "prompt_price": 1.38e-08,
-   "completion_price": 1.8e-06,
+   "prompt_price": 1.21e-08,
+   "completion_price": 1.31e-06,
    "context": 1048576,
    "modality": "text+image->text",
    "created": 1789399150,
@@ -853,8 +864,8 @@
    "id": "deepseek/deepseek-v4.1-flash",
    "name": "deepseek-v4.1-flash",
    "vendor": "deepseek",
-   "prompt_price": 1.4e-07,
-   "completion_price": 4.2e-07,
+   "prompt_price": 4.5e-08,
+   "completion_price": 5e-07,
    "context": 1048576,
    "modality": "text+image->text",
    "created": 1789021285,
@@ -1030,7 +1041,7 @@
    "name": "granite-4.2-8b",
    "vendor": "ibm-granite",
    "prompt_price": 6e-08,
-   "completion_price": 2.5e-07,
+   "completion_price": 1.5e-07,
    "context": 131072,
    "modality": "text->text",
    "created": 1788206780,
@@ -1051,8 +1062,8 @@
    "id": "~z-ai/glm-flash-latest",
    "name": "glm-flash-latest",
    "vendor": "~z-ai",
-   "prompt_price": 3.79e-08,
-   "completion_price": 7.98e-08,
+   "prompt_price": 4.57e-08,
+   "completion_price": 7.42e-08,
    "context": 1048576,
    "modality": "text+image+video->text",
    "created": 1787817633,
@@ -1073,8 +1084,8 @@
    "id": "z-ai/glm-5.3-flash",
    "name": "glm-5.3-flash",
    "vendor": "z-ai",
-   "prompt_price": 1.5e-07,
-   "completion_price": 5e-07,
+   "prompt_price": 4.57e-08,
+   "completion_price": 7.42e-08,
    "context": 1048576,
    "modality": "text+image+video->text",
    "created": 1787752741,
@@ -1568,8 +1579,8 @@
    "id": "moonshotai/kimi-k3",
    "name": "kimi-k3",
    "vendor": "moonshotai",
-   "prompt_price": 1.79e-07,
-   "completion_price": 2e-05,
+   "prompt_price": 1.92e-07,
+   "completion_price": 1.5e-05,
    "context": 1048576,
    "modality": "text+image+video->text",
    "created": 1784215858,
@@ -1887,7 +1898,7 @@
    "id": "z-ai/glm-5.2",
    "name": "glm-5.2",
    "vendor": "z-ai",
-   "prompt_price": 2.09e-08,
+   "prompt_price": 6e-09,
    "completion_price": 7e-06,
    "context": 1048576,
    "modality": "text->text",
@@ -2239,8 +2250,8 @@
    "id": "~moonshotai/kimi-latest",
    "name": "kimi-latest",
    "vendor": "~moonshotai",
-   "prompt_price": 1.79e-07,
-   "completion_price": 2e-05,
+   "prompt_price": 1.824e-07,
+   "completion_price": 9.3388e-06,
    "context": 1048576,
    "modality": "text+image+video->text",
    "created": 1777318428,
@@ -2371,8 +2382,8 @@
    "id": "deepseek/deepseek-v4-flash",
    "name": "deepseek-v4-flash",
    "vendor": "deepseek",
-   "prompt_price": 1.4e-07,
-   "completion_price": 2.8e-07,
+   "prompt_price": 9.1e-08,
+   "completion_price": 1.82e-07,
    "context": 1048576,
    "modality": "text->text",
    "created": 1777000666,
@@ -2692,7 +2703,7 @@
    "vendor": "nvidia",
    "prompt_price": 3e-07,
    "completion_price": 2.4e-06,
-   "context": 262144,
+   "context": 1048576,
    "modality": "text->text",
    "created": 1773245239,
    "description": "NVIDIA Nemotron 3 Super is a 120B-parameter open hybrid MoE model, activating just 12B parameters for maximum compute efficiency and accuracy in complex multi-agent applications. Built on a hybrid Mam"
@@ -3625,8 +3636,8 @@
    "id": "z-ai/glm-4.6",
    "name": "glm-4.6",
    "vendor": "z-ai",
-   "prompt_price": 5.5e-07,
-   "completion_price": 2.2e-06,
+   "prompt_price": 5e-07,
+   "completion_price": 2e-06,
    "context": 204800,
    "modality": "text->text",
    "created": 1759235576,
@@ -3719,17 +3730,6 @@
    "modality": "text->text",
    "created": 1758115536,
    "description": "Qwen3 Coder Flash is Alibaba's fast and cost efficient version of their proprietary Qwen3 Coder Plus. It is a powerful coding agent model specializing in autonomous programming via tool calling..."
-  },
-  {
-   "id": "qwen/qwen3-next-80b-a3b-thinking",
-   "name": "qwen3-next-80b-a3b-thinking",
-   "vendor": "qwen",
-   "prompt_price": 1.5e-07,
-   "completion_price": 1.2e-06,
-   "context": 262144,
-   "modality": "text->text",
-   "created": 1757612284,
-   "description": "Qwen3-Next-80B-A3B-Thinking is a reasoning-first chat model in the Qwen3-Next line that outputs structured “thinking” traces by default. It’s designed for hard multi-step problems; math proofs, code s"
   },
   {
    "id": "qwen/qwen3-next-80b-a3b-instruct",
@@ -4227,17 +4227,6 @@
    "description": "Qwen3-32B is a dense 32.8B parameter causal language model from the Qwen3 series, optimized for both complex reasoning and efficient dialogue. It supports seamless switching between a \"thinking\" mode "
   },
   {
-   "id": "openai/o4-mini-high",
-   "name": "o4-mini-high",
-   "vendor": "openai",
-   "prompt_price": 1.1e-06,
-   "completion_price": 4.4e-06,
-   "context": 200000,
-   "modality": "text+image+file->text",
-   "created": 1744824212,
-   "description": "OpenAI o4-mini-high is the same model as [o4-mini](/openai/o4-mini) with reasoning_effort set to high. OpenAI o4-mini is a compact reasoning model in the o-series, optimized for fast, cost-efficient p"
-  },
-  {
    "id": "openai/o3",
    "name": "o3",
    "vendor": "openai",
@@ -4258,17 +4247,6 @@
    "modality": "text+image+file->text",
    "created": 1744823457,
    "description": "o3 is a well-rounded and powerful model across domains. It sets a new standard for math, science, coding, and visual reasoning tasks. It also excels at technical writing and instruction-following...."
-  },
-  {
-   "id": "openai/o4-mini",
-   "name": "o4-mini",
-   "vendor": "openai",
-   "prompt_price": 1.1e-06,
-   "completion_price": 4.4e-06,
-   "context": 200000,
-   "modality": "text+image+file->text",
-   "created": 1744820942,
-   "description": "OpenAI o4-mini is a compact reasoning model in the o-series, optimized for fast, cost-efficient performance while retaining strong multimodal and agentic capabilities. It supports tool use and demonst"
   },
   {
    "id": "openai/o4-mini:batch",
@@ -4379,17 +4357,6 @@
    "modality": "text->text",
    "created": 1742824755,
    "description": "DeepSeek V3, a 685B-parameter, mixture-of-experts model, is the latest iteration of the flagship chat model family from the DeepSeek team. It succeeds the [DeepSeek V3](/deepseek/deepseek-chat-v3) mod"
-  },
-  {
-   "id": "openai/o1-pro",
-   "name": "o1-pro",
-   "vendor": "openai",
-   "prompt_price": 0.00015,
-   "completion_price": 0.0006,
-   "context": 200000,
-   "modality": "text+image+file->text",
-   "created": 1742423211,
-   "description": "The o1 series of models are trained with reinforcement learning to think before they answer and perform complex reasoning. The o1-pro model uses more compute to think harder and provide..."
   },
   {
    "id": "mistralai/mistral-small-3.1-24b-instruct",
@@ -4513,17 +4480,6 @@
    "description": "Mistral Saba is a 24B-parameter language model specifically designed for the Middle East and South Asia, delivering accurate and contextually relevant responses while maintaining efficient performance"
   },
   {
-   "id": "openai/o3-mini-high",
-   "name": "o3-mini-high",
-   "vendor": "openai",
-   "prompt_price": 1.1e-06,
-   "completion_price": 4.4e-06,
-   "context": 200000,
-   "modality": "text+file->text",
-   "created": 1739372611,
-   "description": "OpenAI o3-mini-high is the same model as [o3-mini](/openai/o3-mini) with reasoning_effort set to high. o3-mini is a cost-efficient language model optimized for STEM reasoning tasks, particularly excel"
-  },
-  {
    "id": "aion-labs/aion-rp-llama-3.1-8b",
    "name": "aion-rp-llama-3.1-8b",
    "vendor": "aion-labs",
@@ -4555,17 +4511,6 @@
    "modality": "text->text",
    "created": 1738409840,
    "description": "Qwen-Plus, based on the Qwen2.5 foundation model, is a 131K context model with a balanced performance, speed, and cost combination."
-  },
-  {
-   "id": "openai/o3-mini",
-   "name": "o3-mini",
-   "vendor": "openai",
-   "prompt_price": 1.1e-06,
-   "completion_price": 4.4e-06,
-   "context": 200000,
-   "modality": "text+file->text",
-   "created": 1738351721,
-   "description": "OpenAI o3-mini is a cost-efficient language model optimized for STEM reasoning tasks, particularly excelling in science, mathematics, and coding. This model supports the `reasoning_effort` parameter, "
   },
   {
    "id": "openai/o3-mini:batch",
@@ -4632,17 +4577,6 @@
    "modality": "text->text",
    "created": 1735241320,
    "description": "DeepSeek-V3 is the latest model from the DeepSeek team, building upon the instruction following and coding abilities of the previous versions. Pre-trained on nearly 15 trillion tokens, the reported ev"
-  },
-  {
-   "id": "openai/o1",
-   "name": "o1",
-   "vendor": "openai",
-   "prompt_price": 1.5e-05,
-   "completion_price": 6e-05,
-   "context": 200000,
-   "modality": "text+image+file->text",
-   "created": 1734459999,
-   "description": "The latest and strongest model family from OpenAI, o1 is designed to spend more time thinking before responding. The o1 model series is trained with large-scale reinforcement learning to reason..."
   },
   {
    "id": "cohere/command-r7b-12-2024",
@@ -4890,8 +4824,8 @@
    "id": "meta-llama/llama-3.1-8b-instruct",
    "name": "llama-3.1-8b-instruct",
    "vendor": "meta-llama",
-   "prompt_price": 2e-08,
-   "completion_price": 4e-08,
+   "prompt_price": 5e-08,
+   "completion_price": 8e-08,
    "context": 131072,
    "modality": "text->text",
    "created": 1721692800,
@@ -4995,17 +4929,6 @@
    "modality": "text+file->text",
    "created": 1713312000,
    "description": "Mistral's official instruct fine-tuned version of [Mixtral 8x22B](/models/mistralai/mixtral-8x22b). It uses 39B active parameters out of 141B, offering unparalleled cost efficiency for its size. Its s"
-  },
-  {
-   "id": "openai/gpt-4-turbo",
-   "name": "gpt-4-turbo",
-   "vendor": "openai",
-   "prompt_price": 1e-05,
-   "completion_price": 3e-05,
-   "context": 128000,
-   "modality": "text+image->text",
-   "created": 1712620800,
-   "description": "The latest GPT-4 Turbo model with vision capabilities. Vision requests can now use JSON mode and function calling.\n\nTraining data: up to December 2023."
   },
   {
    "id": "openai/gpt-4-turbo:batch",
