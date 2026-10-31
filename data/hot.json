@@ -1,75 +1,75 @@
 {
- "fetched_at": "2026-10-30T07:53:28.548Z",
+ "fetched_at": "2026-10-31T07:42:45.007Z",
  "items": [
   {
    "name": "DeepSeek: DeepSeek V4.1 Flash 1017",
-   "tokens7d": 45200000000000,
-   "display": "45.2T tokens"
+   "tokens7d": 47700000000000,
+   "display": "47.7T tokens"
   },
   {
    "name": "Z.ai: GLM 5.3 Flash",
-   "tokens7d": 16600000000000.002,
-   "display": "16.6T tokens"
+   "tokens7d": 16700000000000,
+   "display": "16.7T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4.1 Flash",
-   "tokens7d": 16399999999999.998,
-   "display": "16.4T tokens"
+   "tokens7d": 15700000000000,
+   "display": "15.7T tokens"
   },
   {
    "name": "OpenAI: GPT-6 Luna",
-   "tokens7d": 11800000000000,
-   "display": "11.8T tokens"
+   "tokens7d": 11200000000000,
+   "display": "11.2T tokens"
   },
   {
    "name": "Tencent: Hy4 preview",
-   "tokens7d": 9880000000000,
-   "display": "9.88T tokens"
+   "tokens7d": 9660000000000,
+   "display": "9.66T tokens"
   },
   {
    "name": "Anthropic: Claude Opus 5.5",
-   "tokens7d": 8140000000000.001,
-   "display": "8.14T tokens"
+   "tokens7d": 7510000000000,
+   "display": "7.51T tokens"
   },
   {
    "name": "StepFun: Step 5 Preview",
-   "tokens7d": 6270000000000,
-   "display": "6.27T tokens"
+   "tokens7d": 6570000000000,
+   "display": "6.57T tokens"
+  },
+  {
+   "name": "MiniMax: MiniMax M3.1 Flash",
+   "tokens7d": 5310000000000,
+   "display": "5.31T tokens"
   },
   {
    "name": "Z.ai: GLM 5.3",
-   "tokens7d": 5070000000000,
-   "display": "5.07T tokens"
-  },
-  {
-   "name": "80% off",
-   "tokens7d": 4420000000000,
-   "display": "4.42T tokens"
+   "tokens7d": 4760000000000,
+   "display": "4.76T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4 Flash 0731",
-   "tokens7d": 4130000000000,
-   "display": "4.13T tokens"
-  },
-  {
-   "name": "NVIDIA: Nemotron 3 Ultra (free)",
-   "tokens7d": 4030000000000.0005,
-   "display": "4.03T tokens"
+   "tokens7d": 4070000000000.0005,
+   "display": "4.07T tokens"
   },
   {
    "name": "OpenAI: GPT-6.1 Sol",
-   "tokens7d": 3960000000000,
-   "display": "3.96T tokens"
+   "tokens7d": 3840000000000,
+   "display": "3.84T tokens"
   },
   {
-   "name": "Xiaomi: MiMo-V2.6-Flash",
-   "tokens7d": 3690000000000,
-   "display": "3.69T tokens"
+   "name": "NVIDIA: Nemotron 3 Ultra (free)",
+   "tokens7d": 3580000000000,
+   "display": "3.58T tokens"
+  },
+  {
+   "name": "OpenAI: GPT-5.6 Luna",
+   "tokens7d": 3490000000000,
+   "display": "3.49T tokens"
   },
   {
    "name": "TypeSafe: Jev 1.13",
-   "tokens7d": 3320000000000,
-   "display": "3.32T tokens"
+   "tokens7d": 3270000000000,
+   "display": "3.27T tokens"
   }
  ]
 }
