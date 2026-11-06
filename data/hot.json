@@ -1,75 +1,75 @@
 {
- "fetched_at": "2026-11-05T08:42:41.283Z",
+ "fetched_at": "2026-11-06T08:44:26.009Z",
  "items": [
   {
    "name": "DeepSeek: DeepSeek V4.1 Flash 1017",
-   "tokens7d": 59800000000000,
-   "display": "59.8T tokens"
+   "tokens7d": 58800000000000,
+   "display": "58.8T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4.1 Flash",
-   "tokens7d": 17000000000000,
-   "display": "17T tokens"
+   "tokens7d": 17300000000000,
+   "display": "17.3T tokens"
   },
   {
    "name": "Z.ai: GLM 5.3 Flash",
-   "tokens7d": 16399999999999.998,
-   "display": "16.4T tokens"
+   "tokens7d": 15600000000000,
+   "display": "15.6T tokens"
   },
   {
    "name": "OpenAI: GPT-6 Luna",
-   "tokens7d": 9270000000000,
-   "display": "9.27T tokens"
-  },
-  {
-   "name": "Tencent: Hy4 preview",
-   "tokens7d": 8170000000000,
-   "display": "8.17T tokens"
-  },
-  {
-   "name": "Anthropic: Claude Opus 5.5",
-   "tokens7d": 7150000000000,
-   "display": "7.15T tokens"
+   "tokens7d": 7600000000000,
+   "display": "7.6T tokens"
   },
   {
    "name": "StepFun: Step 5 Preview",
-   "tokens7d": 7080000000000,
-   "display": "7.08T tokens"
+   "tokens7d": 7110000000000,
+   "display": "7.11T tokens"
   },
   {
-   "name": "25% off",
+   "name": "Anthropic: Claude Opus 5.5",
+   "tokens7d": 6880000000000,
+   "display": "6.88T tokens"
+  },
+  {
+   "name": "Tencent: Hy4 preview",
    "tokens7d": 6590000000000,
    "display": "6.59T tokens"
   },
   {
+   "name": "25% off",
+   "tokens7d": 6290000000000,
+   "display": "6.29T tokens"
+  },
+  {
+   "name": "50% off",
+   "tokens7d": 5650000000000,
+   "display": "5.65T tokens"
+  },
+  {
    "name": "OpenAI: GPT-5.6 Luna",
-   "tokens7d": 5310000000000,
-   "display": "5.31T tokens"
+   "tokens7d": 5060000000000,
+   "display": "5.06T tokens"
   },
   {
    "name": "OpenAI: GPT-6.1 Sol",
-   "tokens7d": 4360000000000.0005,
-   "display": "4.36T tokens"
+   "tokens7d": 3850000000000,
+   "display": "3.85T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4 Flash 0731",
-   "tokens7d": 3860000000000,
-   "display": "3.86T tokens"
+   "tokens7d": 3820000000000,
+   "display": "3.82T tokens"
   },
   {
    "name": "Z.ai: GLM 5.3",
-   "tokens7d": 3790000000000,
-   "display": "3.79T tokens"
+   "tokens7d": 3750000000000,
+   "display": "3.75T tokens"
   },
   {
    "name": "MoonshotAI: Kimi K3.1 Pro",
-   "tokens7d": 3510000000000,
-   "display": "3.51T tokens"
-  },
-  {
-   "name": "TypeSafe: Jev 1.13",
-   "tokens7d": 3180000000000,
-   "display": "3.18T tokens"
+   "tokens7d": 3720000000000,
+   "display": "3.72T tokens"
   }
  ]
 }

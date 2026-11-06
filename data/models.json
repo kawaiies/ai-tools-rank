@@ -1,7 +1,29 @@
 {
- "fetched_at": "2026-11-05 08:42:29",
- "count": 455,
+ "fetched_at": "2026-11-06 08:44:16",
+ "count": 453,
  "models": [
+  {
+   "id": "google/gemini-omni-1.2-flash",
+   "name": "gemini-omni-1.2-flash",
+   "vendor": "google",
+   "prompt_price": 1.5e-06,
+   "completion_price": 9e-06,
+   "context": 131072,
+   "modality": "text+image+video->text+video",
+   "created": 1793898961,
+   "description": "Gemini Omni 1.2 Flash is Google's native multimodal video generation and editing model, the successor to Gemini Omni 1.1 Flash. It generates clips up to 15 seconds long with native..."
+  },
+  {
+   "id": "google/gemini-omni-1.1-flash",
+   "name": "gemini-omni-1.1-flash",
+   "vendor": "google",
+   "prompt_price": 1.5e-06,
+   "completion_price": 9e-06,
+   "context": 131072,
+   "modality": "text+image+video->text+video",
+   "created": 1793825668,
+   "description": "Gemini Omni 1.1 Flash is Google's native multimodal video generation and editing model, the generally available successor to Gemini Omni Flash Preview. It is suited for text-to-video, image-to-video, "
+  },
   {
    "id": "ricursiveai/ripple-65b-preview",
    "name": "ripple-65b-preview",
@@ -171,7 +193,7 @@
    "id": "reflection/beam-1.0-501b-a23b",
    "name": "beam-1.0-501b-a23b",
    "vendor": "reflection",
-   "prompt_price": 2.5e-07,
+   "prompt_price": 3e-07,
    "completion_price": 1e-06,
    "context": 1048576,
    "modality": "text->text",
@@ -776,7 +798,7 @@
    "id": "~deepseek/deepseek-pro-latest",
    "name": "deepseek-pro-latest",
    "vendor": "~deepseek",
-   "prompt_price": 9.27e-08,
+   "prompt_price": 9.99e-08,
    "completion_price": 8e-06,
    "context": 1048576,
    "modality": "text->text",
@@ -897,8 +919,8 @@
    "id": "deepseek/deepseek-v4.1-flash",
    "name": "deepseek-v4.1-flash",
    "vendor": "deepseek",
-   "prompt_price": 4.5e-08,
-   "completion_price": 5e-07,
+   "prompt_price": 5.1e-08,
+   "completion_price": 5.67e-07,
    "context": 1048576,
    "modality": "text+image->text",
    "created": 1789021285,
@@ -1095,7 +1117,7 @@
    "id": "~z-ai/glm-flash-latest",
    "name": "glm-flash-latest",
    "vendor": "~z-ai",
-   "prompt_price": 2.85e-08,
+   "prompt_price": 2.84e-08,
    "completion_price": 9.23e-08,
    "context": 1048576,
    "modality": "text+image+video->text",
@@ -1150,8 +1172,8 @@
    "id": "deepseek/deepseek-v4-flash-vision-exp",
    "name": "deepseek-v4-flash-vision-exp",
    "vendor": "deepseek",
-   "prompt_price": 2.156e-07,
-   "completion_price": 6.468e-07,
+   "prompt_price": 4.4e-07,
+   "completion_price": 1.32e-06,
    "context": 1048576,
    "modality": "text+image->text",
    "created": 1787311563,
@@ -1304,8 +1326,8 @@
    "id": "deepseek/deepseek-v4-pro-0813",
    "name": "deepseek-v4-pro-0813",
    "vendor": "deepseek",
-   "prompt_price": 1.03e-07,
-   "completion_price": 4.11e-06,
+   "prompt_price": 1.165e-07,
+   "completion_price": 4.66e-06,
    "context": 1048576,
    "modality": "text->text",
    "created": 1786549364,
@@ -1939,17 +1961,6 @@
    "description": "NVIDIA Nemotron 3.5 Content Safety is a compact 4B-parameter multimodal guardrail model from NVIDIA, fine-tuned from Google Gemma-3-4B. It moderates both inputs to and responses from LLMs and VLMs, ac"
   },
   {
-   "id": "nvidia/nemotron-3.5-content-safety:free",
-   "name": "nemotron-3.5-content-safety:free",
-   "vendor": "nvidia",
-   "prompt_price": 0.0,
-   "completion_price": 0.0,
-   "context": 128000,
-   "modality": "text+image->text",
-   "created": 1780581864,
-   "description": "NVIDIA Nemotron 3.5 Content Safety is a compact 4B-parameter multimodal guardrail model from NVIDIA, fine-tuned from Google Gemma-3-4B. It moderates both inputs to and responses from LLMs and VLMs, ac"
-  },
-  {
    "id": "nvidia/nemotron-3-ultra-550b-a55b",
    "name": "nemotron-3-ultra-550b-a55b",
    "vendor": "nvidia",
@@ -2218,7 +2229,7 @@
    "name": "kimi-latest",
    "vendor": "~moonshotai",
    "prompt_price": 1.824e-07,
-   "completion_price": 1.05539e-05,
+   "completion_price": 9.3388e-06,
    "context": 1048576,
    "modality": "text+image+video->text",
    "created": 1777318428,
@@ -2459,8 +2470,8 @@
    "id": "google/gemma-4-26b-a4b-it",
    "name": "gemma-4-26b-a4b-it",
    "vendor": "google",
-   "prompt_price": 4.7e-08,
-   "completion_price": 1.42e-07,
+   "prompt_price": 9e-08,
+   "completion_price": 3e-07,
    "context": 262144,
    "modality": "text+image+video->text",
    "created": 1775227989,
@@ -2580,8 +2591,8 @@
    "id": "minimax/minimax-m2.7",
    "name": "minimax-m2.7",
    "vendor": "minimax",
-   "prompt_price": 3e-07,
-   "completion_price": 1.2e-06,
+   "prompt_price": 2.1e-07,
+   "completion_price": 8.4e-07,
    "context": 204800,
    "modality": "text->text",
    "created": 1773836697,
@@ -2995,17 +3006,6 @@
    "description": "Kimi K2.5 is Moonshot AI's native multimodal model, delivering state-of-the-art visual coding capability and a self-directed agent swarm paradigm. Built on Kimi K2 with continued pretraining over appr"
   },
   {
-   "id": "minimax/minimax-m2-her",
-   "name": "minimax-m2-her",
-   "vendor": "minimax",
-   "prompt_price": 3e-07,
-   "completion_price": 1.2e-06,
-   "context": 65536,
-   "modality": "text->text",
-   "created": 1769177239,
-   "description": "MiniMax M2-her is a dialogue-first large language model built for immersive roleplay, character-driven chat, and expressive multi-turn conversations. Designed to stay consistent in tone and personalit"
-  },
-  {
    "id": "writer/palmyra-x5",
    "name": "palmyra-x5",
    "vendor": "writer",
@@ -3081,17 +3081,6 @@
    "modality": "text+image+video->text",
    "created": 1766504997,
    "description": "Seed 1.6 is a general-purpose model released by the ByteDance Seed team. It incorporates multimodal capabilities and adaptive deep thinking with a 256K context window."
-  },
-  {
-   "id": "minimax/minimax-m2.1",
-   "name": "minimax-m2.1",
-   "vendor": "minimax",
-   "prompt_price": 3e-07,
-   "completion_price": 1.2e-06,
-   "context": 204800,
-   "modality": "text->text",
-   "created": 1766454997,
-   "description": "MiniMax-M2.1 is a lightweight, state-of-the-art large language model optimized for coding, agentic workflows, and modern application development. With only 10 billion activated parameters, it delivers"
   },
   {
    "id": "z-ai/glm-4.7",
@@ -3435,17 +3424,6 @@
    "description": "gpt-oss-safeguard-20b is a safety reasoning model from OpenAI built upon gpt-oss-20b. This open-weight, 21B-parameter Mixture-of-Experts (MoE) model offers lower latency for safety tasks like content "
   },
   {
-   "id": "minimax/minimax-m2",
-   "name": "minimax-m2",
-   "vendor": "minimax",
-   "prompt_price": 2.55e-07,
-   "completion_price": 1.02e-06,
-   "context": 204800,
-   "modality": "text->text",
-   "created": 1761252093,
-   "description": "MiniMax-M2 is a compact, high-efficiency large language model optimized for end-to-end coding and agentic workflows. With 10 billion activated parameters (230 billion total), it delivers near-frontier"
-  },
-  {
    "id": "openai/gpt-5-image-mini",
    "name": "gpt-5-image-mini",
    "vendor": "openai",
@@ -3658,7 +3636,7 @@
    "id": "qwen/qwen3-next-80b-a3b-instruct",
    "name": "qwen3-next-80b-a3b-instruct",
    "vendor": "qwen",
-   "prompt_price": 1e-07,
+   "prompt_price": 9e-08,
    "completion_price": 1.1e-06,
    "context": 262144,
    "modality": "text->text",
@@ -3790,8 +3768,8 @@
    "id": "openai/gpt-oss-120b",
    "name": "gpt-oss-120b",
    "vendor": "openai",
-   "prompt_price": 1.9e-08,
-   "completion_price": 6.9e-08,
+   "prompt_price": 1.4e-08,
+   "completion_price": 5.1e-08,
    "context": 131072,
    "modality": "text->text",
    "created": 1754414231,
@@ -4469,17 +4447,6 @@
    "description": "Sonar is lightweight, affordable, fast, and simple to use — now featuring citations and the ability to customize sources. It is designed for companies seeking to integrate lightweight question-and-ans"
   },
   {
-   "id": "minimax/minimax-01",
-   "name": "minimax-01",
-   "vendor": "minimax",
-   "prompt_price": 2e-07,
-   "completion_price": 1.1e-06,
-   "context": 1000192,
-   "modality": "text+image->text",
-   "created": 1736915462,
-   "description": "MiniMax-01 is a combines MiniMax-Text-01 for text generation and MiniMax-VL-01 for image understanding. It has 456 billion parameters, with 45.9 billion parameters activated per inference, and can han"
-  },
-  {
    "id": "microsoft/phi-4",
    "name": "phi-4",
    "vendor": "microsoft",
@@ -4494,8 +4461,8 @@
    "id": "deepseek/deepseek-chat",
    "name": "deepseek-chat",
    "vendor": "deepseek",
-   "prompt_price": 2.574e-07,
-   "completion_price": 1.0287e-06,
+   "prompt_price": 3.2e-07,
+   "completion_price": 8.9e-07,
    "context": 163840,
    "modality": "text->text",
    "created": 1735241320,
@@ -4516,8 +4483,8 @@
    "id": "meta-llama/llama-3.3-70b-instruct",
    "name": "llama-3.3-70b-instruct",
    "vendor": "meta-llama",
-   "prompt_price": 2e-07,
-   "completion_price": 5.2e-07,
+   "prompt_price": 5.9e-07,
+   "completion_price": 7.9e-07,
    "context": 131072,
    "modality": "text->text",
    "created": 1733506137,
@@ -4920,6 +4887,28 @@
    "description": "OpenAI's flagship model, GPT-4 is a large-scale multimodal language model capable of solving difficult problems with greater accuracy than previous models due to its broader general knowledge and adva"
   },
   {
+   "id": "openrouter/auto",
+   "name": "auto",
+   "vendor": "openrouter",
+   "prompt_price": -1.0,
+   "completion_price": -1.0,
+   "context": 2000000,
+   "modality": "text+image+file+audio+video->text+image",
+   "created": 1793885889,
+   "description": "Auto is OpenRouter’s flagship model router, built for general-purpose usage. It adapts to each request, choosing cost-optimal models and adjusting reasoning effort. It balances task difficulty, benchm"
+  },
+  {
+   "id": "openrouter/auto-code",
+   "name": "auto-code",
+   "vendor": "openrouter",
+   "prompt_price": -1.0,
+   "completion_price": -1.0,
+   "context": 2000000,
+   "modality": "text+image+file+audio+video->text+image",
+   "created": 1793884321,
+   "description": "Auto Code is OpenRouter’s router built specifically for coding agents and harnesses. It uses the same routing engine as the [Auto Router](https://openrouter.ai/openrouter/auto), with every request tre"
+  },
+  {
    "id": "typesafe/jev-router",
    "name": "jev-router",
    "vendor": "typesafe",
@@ -4995,17 +4984,6 @@
    "modality": "text->text",
    "created": 1764903653,
    "description": "Transform your natural language requests into structured OpenRouter API request objects. Describe what you want to accomplish with AI models, and Body Builder will construct the appropriate API calls."
-  },
-  {
-   "id": "openrouter/auto",
-   "name": "auto",
-   "vendor": "openrouter",
-   "prompt_price": -1.0,
-   "completion_price": -1.0,
-   "context": 2000000,
-   "modality": "text+image+file+audio+video->text+image",
-   "created": 1699401600,
-   "description": "Auto is OpenRouter’s general-purpose router, now powered by [Jev Router](https://openrouter.ai/typesafe/jev-router). It replaces market-spend rankings with request-aware selection of both the model an"
   }
  ]
 }
