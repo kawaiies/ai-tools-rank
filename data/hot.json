@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T08:44:26.009Z",
+ "fetched_at": "2026-11-07T07:58:49.537Z",
  "items": [
   {
    "name": "DeepSeek: DeepSeek V4.1 Flash 1017",
@@ -8,68 +8,68 @@
   },
   {
    "name": "DeepSeek: DeepSeek V4.1 Flash",
-   "tokens7d": 17300000000000,
-   "display": "17.3T tokens"
+   "tokens7d": 17900000000000,
+   "display": "17.9T tokens"
   },
   {
    "name": "Z.ai: GLM 5.3 Flash",
-   "tokens7d": 15600000000000,
-   "display": "15.6T tokens"
-  },
-  {
-   "name": "OpenAI: GPT-6 Luna",
-   "tokens7d": 7600000000000,
-   "display": "7.6T tokens"
-  },
-  {
-   "name": "StepFun: Step 5 Preview",
-   "tokens7d": 7110000000000,
-   "display": "7.11T tokens"
-  },
-  {
-   "name": "Anthropic: Claude Opus 5.5",
-   "tokens7d": 6880000000000,
-   "display": "6.88T tokens"
-  },
-  {
-   "name": "Tencent: Hy4 preview",
-   "tokens7d": 6590000000000,
-   "display": "6.59T tokens"
-  },
-  {
-   "name": "25% off",
-   "tokens7d": 6290000000000,
-   "display": "6.29T tokens"
+   "tokens7d": 14500000000000,
+   "display": "14.5T tokens"
   },
   {
    "name": "50% off",
-   "tokens7d": 5650000000000,
-   "display": "5.65T tokens"
+   "tokens7d": 8270000000000,
+   "display": "8.27T tokens"
+  },
+  {
+   "name": "OpenAI: GPT-6 Luna",
+   "tokens7d": 7490000000000,
+   "display": "7.49T tokens"
+  },
+  {
+   "name": "StepFun: Step 5 Preview",
+   "tokens7d": 7210000000000,
+   "display": "7.21T tokens"
+  },
+  {
+   "name": "Anthropic: Claude Opus 5.5",
+   "tokens7d": 6800000000000,
+   "display": "6.8T tokens"
+  },
+  {
+   "name": "25% off",
+   "tokens7d": 5880000000000,
+   "display": "5.88T tokens"
+  },
+  {
+   "name": "Tencent: Hy4 preview",
+   "tokens7d": 5110000000000,
+   "display": "5.11T tokens"
   },
   {
    "name": "OpenAI: GPT-5.6 Luna",
-   "tokens7d": 5060000000000,
-   "display": "5.06T tokens"
+   "tokens7d": 4130000000000,
+   "display": "4.13T tokens"
   },
   {
    "name": "OpenAI: GPT-6.1 Sol",
-   "tokens7d": 3850000000000,
-   "display": "3.85T tokens"
-  },
-  {
-   "name": "DeepSeek: DeepSeek V4 Flash 0731",
-   "tokens7d": 3820000000000,
-   "display": "3.82T tokens"
+   "tokens7d": 3940000000000,
+   "display": "3.94T tokens"
   },
   {
    "name": "Z.ai: GLM 5.3",
-   "tokens7d": 3750000000000,
-   "display": "3.75T tokens"
+   "tokens7d": 3790000000000,
+   "display": "3.79T tokens"
   },
   {
    "name": "MoonshotAI: Kimi K3.1 Pro",
-   "tokens7d": 3720000000000,
-   "display": "3.72T tokens"
+   "tokens7d": 3730000000000,
+   "display": "3.73T tokens"
+  },
+  {
+   "name": "DeepSeek: DeepSeek V4 Flash 0731",
+   "tokens7d": 3670000000000,
+   "display": "3.67T tokens"
   }
  ]
 }
