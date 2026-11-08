@@ -1,75 +1,75 @@
 {
- "fetched_at": "2026-11-07T07:58:49.537Z",
+ "fetched_at": "2026-11-08T08:16:36.945Z",
  "items": [
   {
    "name": "DeepSeek: DeepSeek V4.1 Flash 1017",
-   "tokens7d": 58800000000000,
-   "display": "58.8T tokens"
+   "tokens7d": 57800000000000,
+   "display": "57.8T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4.1 Flash",
-   "tokens7d": 17900000000000,
-   "display": "17.9T tokens"
+   "tokens7d": 18300000000000,
+   "display": "18.3T tokens"
   },
   {
    "name": "Z.ai: GLM 5.3 Flash",
-   "tokens7d": 14500000000000,
-   "display": "14.5T tokens"
+   "tokens7d": 13900000000000,
+   "display": "13.9T tokens"
   },
   {
    "name": "50% off",
-   "tokens7d": 8270000000000,
-   "display": "8.27T tokens"
+   "tokens7d": 11200000000000,
+   "display": "11.2T tokens"
   },
   {
    "name": "OpenAI: GPT-6 Luna",
-   "tokens7d": 7490000000000,
-   "display": "7.49T tokens"
+   "tokens7d": 7500000000000,
+   "display": "7.5T tokens"
   },
   {
    "name": "StepFun: Step 5 Preview",
-   "tokens7d": 7210000000000,
-   "display": "7.21T tokens"
+   "tokens7d": 7340000000000,
+   "display": "7.34T tokens"
   },
   {
    "name": "Anthropic: Claude Opus 5.5",
-   "tokens7d": 6800000000000,
-   "display": "6.8T tokens"
+   "tokens7d": 6980000000000,
+   "display": "6.98T tokens"
   },
   {
    "name": "25% off",
-   "tokens7d": 5880000000000,
-   "display": "5.88T tokens"
-  },
-  {
-   "name": "Tencent: Hy4 preview",
-   "tokens7d": 5110000000000,
-   "display": "5.11T tokens"
-  },
-  {
-   "name": "OpenAI: GPT-5.6 Luna",
-   "tokens7d": 4130000000000,
-   "display": "4.13T tokens"
-  },
-  {
-   "name": "OpenAI: GPT-6.1 Sol",
-   "tokens7d": 3940000000000,
-   "display": "3.94T tokens"
-  },
-  {
-   "name": "Z.ai: GLM 5.3",
-   "tokens7d": 3790000000000,
-   "display": "3.79T tokens"
+   "tokens7d": 5550000000000,
+   "display": "5.55T tokens"
   },
   {
    "name": "MoonshotAI: Kimi K3.1 Pro",
-   "tokens7d": 3730000000000,
-   "display": "3.73T tokens"
+   "tokens7d": 4410000000000,
+   "display": "4.41T tokens"
+  },
+  {
+   "name": "Tencent: Hy4 preview",
+   "tokens7d": 4210000000000,
+   "display": "4.21T tokens"
+  },
+  {
+   "name": "OpenAI: GPT-6.1 Sol",
+   "tokens7d": 4110000000000.0005,
+   "display": "4.11T tokens"
+  },
+  {
+   "name": "Z.ai: GLM 5.3",
+   "tokens7d": 3770000000000,
+   "display": "3.77T tokens"
+  },
+  {
+   "name": "Crouton Alpha",
+   "tokens7d": 3650000000000,
+   "display": "3.65T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4 Flash 0731",
-   "tokens7d": 3670000000000,
-   "display": "3.67T tokens"
+   "tokens7d": 3530000000000,
+   "display": "3.53T tokens"
   }
  ]
 }
