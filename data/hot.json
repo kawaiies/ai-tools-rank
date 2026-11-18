@@ -1,75 +1,75 @@
 {
- "fetched_at": "2026-11-17T09:53:27.594Z",
+ "fetched_at": "2026-11-18T09:27:46.730Z",
  "items": [
   {
    "name": "DeepSeek: DeepSeek V4.1 Flash 1017",
-   "tokens7d": 64599999999999.99,
-   "display": "64.6T tokens"
+   "tokens7d": 65400000000000.01,
+   "display": "65.4T tokens"
   },
   {
    "name": "50% off",
-   "tokens7d": 16700000000000,
-   "display": "16.7T tokens"
+   "tokens7d": 37300000000000,
+   "display": "37.3T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4.1 Flash",
-   "tokens7d": 16500000000000,
-   "display": "16.5T tokens"
-  },
-  {
-   "name": "Z.ai: GLM 5.3 Flash",
-   "tokens7d": 12500000000000,
-   "display": "12.5T tokens"
+   "tokens7d": 16800000000000,
+   "display": "16.8T tokens"
   },
   {
    "name": "50% off",
-   "tokens7d": 9320000000000,
-   "display": "9.32T tokens"
+   "tokens7d": 15200000000000,
+   "display": "15.2T tokens"
+  },
+  {
+   "name": "Z.ai: GLM 5.3 Flash",
+   "tokens7d": 12400000000000,
+   "display": "12.4T tokens"
   },
   {
    "name": "OpenAI: GPT-6 Luna",
-   "tokens7d": 8529999999999.999,
-   "display": "8.53T tokens"
+   "tokens7d": 8960000000000,
+   "display": "8.96T tokens"
   },
   {
    "name": "Anthropic: Claude Opus 5.5",
-   "tokens7d": 7860000000000,
-   "display": "7.86T tokens"
+   "tokens7d": 7940000000000,
+   "display": "7.94T tokens"
   },
   {
    "name": "StepFun: Step 5 Preview",
-   "tokens7d": 7020000000000,
-   "display": "7.02T tokens"
+   "tokens7d": 7300000000000,
+   "display": "7.3T tokens"
   },
   {
    "name": "Xiaomi: MiMo-V2.6-Flash",
-   "tokens7d": 4400000000000,
-   "display": "4.4T tokens"
+   "tokens7d": 4340000000000,
+   "display": "4.34T tokens"
   },
   {
    "name": "Z.ai: GLM 5.3",
-   "tokens7d": 3900000000000,
-   "display": "3.9T tokens"
-  },
-  {
-   "name": "OpenAI: GPT-6.1 Sol",
-   "tokens7d": 3880000000000,
-   "display": "3.88T tokens"
-  },
-  {
-   "name": "MiniMax: MiniMax M3.1 Flash",
-   "tokens7d": 3570000000000,
-   "display": "3.57T tokens"
+   "tokens7d": 3780000000000,
+   "display": "3.78T tokens"
   },
   {
    "name": "MoonshotAI: Kimi K3.1 Pro",
-   "tokens7d": 3460000000000,
-   "display": "3.46T tokens"
+   "tokens7d": 3690000000000,
+   "display": "3.69T tokens"
+  },
+  {
+   "name": "OpenAI: GPT-6.1 Sol",
+   "tokens7d": 3690000000000,
+   "display": "3.69T tokens"
+  },
+  {
+   "name": "10% off",
+   "tokens7d": 3590000000000,
+   "display": "3.59T tokens"
   },
   {
    "name": "NVIDIA: Nemotron 3 Ultra (free)",
-   "tokens7d": 3410000000000,
-   "display": "3.41T tokens"
+   "tokens7d": 3320000000000,
+   "display": "3.32T tokens"
   }
  ]
 }
