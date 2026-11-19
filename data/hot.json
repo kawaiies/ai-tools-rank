@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-11-18T09:27:46.730Z",
+ "fetched_at": "2026-11-19T09:43:57.581Z",
  "items": [
   {
    "name": "DeepSeek: DeepSeek V4.1 Flash 1017",
-   "tokens7d": 65400000000000.01,
-   "display": "65.4T tokens"
+   "tokens7d": 65500000000000,
+   "display": "65.5T tokens"
   },
   {
    "name": "50% off",
-   "tokens7d": 37300000000000,
-   "display": "37.3T tokens"
+   "tokens7d": 60100000000000,
+   "display": "60.1T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4.1 Flash",
@@ -18,58 +18,58 @@
   },
   {
    "name": "50% off",
-   "tokens7d": 15200000000000,
-   "display": "15.2T tokens"
+   "tokens7d": 13900000000000,
+   "display": "13.9T tokens"
   },
   {
    "name": "Z.ai: GLM 5.3 Flash",
-   "tokens7d": 12400000000000,
-   "display": "12.4T tokens"
+   "tokens7d": 11400000000000,
+   "display": "11.4T tokens"
   },
   {
    "name": "OpenAI: GPT-6 Luna",
-   "tokens7d": 8960000000000,
-   "display": "8.96T tokens"
+   "tokens7d": 9160000000000,
+   "display": "9.16T tokens"
   },
   {
    "name": "Anthropic: Claude Opus 5.5",
-   "tokens7d": 7940000000000,
-   "display": "7.94T tokens"
+   "tokens7d": 8000000000000,
+   "display": "8T tokens"
   },
   {
    "name": "StepFun: Step 5 Preview",
-   "tokens7d": 7300000000000,
-   "display": "7.3T tokens"
+   "tokens7d": 6710000000000,
+   "display": "6.71T tokens"
   },
   {
    "name": "Xiaomi: MiMo-V2.6-Flash",
-   "tokens7d": 4340000000000,
-   "display": "4.34T tokens"
-  },
-  {
-   "name": "Z.ai: GLM 5.3",
-   "tokens7d": 3780000000000,
-   "display": "3.78T tokens"
-  },
-  {
-   "name": "MoonshotAI: Kimi K3.1 Pro",
-   "tokens7d": 3690000000000,
-   "display": "3.69T tokens"
-  },
-  {
-   "name": "OpenAI: GPT-6.1 Sol",
-   "tokens7d": 3690000000000,
-   "display": "3.69T tokens"
+   "tokens7d": 4290000000000,
+   "display": "4.29T tokens"
   },
   {
    "name": "10% off",
-   "tokens7d": 3590000000000,
-   "display": "3.59T tokens"
+   "tokens7d": 3910000000000,
+   "display": "3.91T tokens"
+  },
+  {
+   "name": "MoonshotAI: Kimi K3.1 Pro",
+   "tokens7d": 3730000000000,
+   "display": "3.73T tokens"
+  },
+  {
+   "name": "Z.ai: GLM 5.3",
+   "tokens7d": 3630000000000,
+   "display": "3.63T tokens"
+  },
+  {
+   "name": "Baidu: ERNIE-5.5-Flash-Preview (free)",
+   "tokens7d": 3560000000000,
+   "display": "3.56T tokens"
   },
   {
    "name": "NVIDIA: Nemotron 3 Ultra (free)",
-   "tokens7d": 3320000000000,
-   "display": "3.32T tokens"
+   "tokens7d": 3540000000000,
+   "display": "3.54T tokens"
   }
  ]
 }
