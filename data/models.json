@@ -1,7 +1,18 @@
 {
- "fetched_at": "2026-11-19 09:43:48",
- "count": 480,
+ "fetched_at": "2026-11-20 09:23:25",
+ "count": 477,
  "models": [
+  {
+   "id": "mistralai/pixtral-large-2502",
+   "name": "pixtral-large-2502",
+   "vendor": "mistralai",
+   "prompt_price": 2e-06,
+   "completion_price": 6e-06,
+   "context": 128000,
+   "modality": "text+image->text",
+   "created": 1795135865,
+   "description": "Pixtral Large 2502 is the February 2025 version of Mistral AI's large multimodal model, following [Pixtral Large 2411](https://openrouter.ai/mistralai/pixtral-large-2411). It accepts text and image in"
+  },
   {
    "id": "google/gemini-4-neon",
    "name": "gemini-4-neon",
@@ -234,17 +245,6 @@
    "description": "Inkling 2 Small is an open-weight multimodal mixture-of-experts reasoning model from Thinking Machines Lab, with 17B active parameters out of 594B total. It is the first model in the second..."
   },
   {
-   "id": "thinkingmachines/inkling-2-small:free",
-   "name": "inkling-2-small:free",
-   "vendor": "thinkingmachines",
-   "prompt_price": 0.0,
-   "completion_price": 0.0,
-   "context": 1048576,
-   "modality": "text+image->text",
-   "created": 1794261847,
-   "description": "Inkling 2 Small is an open-weight multimodal mixture-of-experts reasoning model from Thinking Machines Lab, with 17B active parameters out of 594B total. It is the first model in the second..."
-  },
-  {
    "id": "anthropic/claude-fable-5.2",
    "name": "claude-fable-5.2",
    "vendor": "anthropic",
@@ -380,7 +380,7 @@
    "id": "particle-ai/particle-1",
    "name": "particle-1",
    "vendor": "particle-ai",
-   "prompt_price": 6e-08,
+   "prompt_price": 7e-08,
    "completion_price": 5e-07,
    "context": 1048576,
    "modality": "text+image->text",
@@ -501,8 +501,8 @@
    "id": "deepseek/deepseek-v4.1-flash-1017:batch",
    "name": "deepseek-v4.1-flash-1017:batch",
    "vendor": "deepseek",
-   "prompt_price": 3.6e-08,
-   "completion_price": 1.5e-07,
+   "prompt_price": 3.5e-08,
+   "completion_price": 1.49e-07,
    "context": 1048576,
    "modality": "text+image->text",
    "created": 1792225624,
@@ -754,8 +754,8 @@
    "id": "inclusionai/ling-3.1-flash",
    "name": "ling-3.1-flash",
    "vendor": "inclusionai",
-   "prompt_price": 4.5e-08,
-   "completion_price": 1.35e-07,
+   "prompt_price": 6e-08,
+   "completion_price": 1.8e-07,
    "context": 1000000,
    "modality": "text->text",
    "created": 1790950024,
@@ -1078,7 +1078,7 @@
    "context": 500000,
    "modality": "text+image+file->text",
    "created": 1790007541,
-   "description": "Grok 4.7 is SpaceXAI's flagship model for coding, agentic tasks, and knowledge work, succeeding Grok 4.6. It is particularly strong at long-running software engineering tasks, verifying its own work, "
+   "description": "Grok 4.7 is SpaceXSI's flagship model for coding, agentic tasks, and knowledge work, succeeding Grok 4.6. It is particularly strong at long-running software engineering tasks, verifying its own work, "
   },
   {
    "id": "x-ai/grok-4.7:batch",
@@ -1089,7 +1089,7 @@
    "context": 500000,
    "modality": "text+image+file->text",
    "created": 1790007541,
-   "description": "Grok 4.7 is SpaceXAI's flagship model for coding, agentic tasks, and knowledge work, succeeding Grok 4.6. It is particularly strong at long-running software engineering tasks, verifying its own work, "
+   "description": "Grok 4.7 is SpaceXSI's flagship model for coding, agentic tasks, and knowledge work, succeeding Grok 4.6. It is particularly strong at long-running software engineering tasks, verifying its own work, "
   },
   {
    "id": "qwen/qwen3.8-omni-flash",
@@ -1128,7 +1128,7 @@
    "id": "~deepseek/deepseek-pro-latest",
    "name": "deepseek-pro-latest",
    "vendor": "~deepseek",
-   "prompt_price": 9.99e-08,
+   "prompt_price": 2.565e-07,
    "completion_price": 8e-06,
    "context": 1048576,
    "modality": "text->text",
@@ -1139,8 +1139,8 @@
    "id": "~deepseek/deepseek-flash-latest",
    "name": "deepseek-flash-latest",
    "vendor": "~deepseek",
-   "prompt_price": 3.5e-08,
-   "completion_price": 1.5e-07,
+   "prompt_price": 3.6e-08,
+   "completion_price": 5e-07,
    "context": 1048576,
    "modality": "text+image->text",
    "created": 1789399150,
@@ -1260,8 +1260,8 @@
    "id": "deepseek/deepseek-v4.1-flash:batch",
    "name": "deepseek-v4.1-flash:batch",
    "vendor": "deepseek",
-   "prompt_price": 1.12e-07,
-   "completion_price": 3.36e-07,
+   "prompt_price": 5e-08,
+   "completion_price": 1.5e-07,
    "context": 1048576,
    "modality": "text+image->text",
    "created": 1789021285,
@@ -1469,8 +1469,8 @@
    "id": "z-ai/glm-5.3-flash",
    "name": "glm-5.3-flash",
    "vendor": "z-ai",
-   "prompt_price": 1.5e-07,
-   "completion_price": 5e-07,
+   "prompt_price": 3.99e-08,
+   "completion_price": 7.84e-08,
    "context": 1048576,
    "modality": "text+image+video->text",
    "created": 1787752741,
@@ -1480,8 +1480,8 @@
    "id": "z-ai/glm-5.3-flash:batch",
    "name": "glm-5.3-flash:batch",
    "vendor": "z-ai",
-   "prompt_price": 2.4e-08,
-   "completion_price": 6.9e-08,
+   "prompt_price": 2.3e-08,
+   "completion_price": 6.8e-08,
    "context": 1048576,
    "modality": "text+image+video->text",
    "created": 1787752741,
@@ -1568,8 +1568,8 @@
    "id": "z-ai/glm-5.3:batch",
    "name": "glm-5.3:batch",
    "vendor": "z-ai",
-   "prompt_price": 2.81e-07,
-   "completion_price": 1.25e-06,
+   "prompt_price": 2.8e-07,
+   "completion_price": 1.249e-06,
    "context": 1048576,
    "modality": "text->text",
    "created": 1787086655,
@@ -1656,8 +1656,8 @@
    "id": "deepseek/deepseek-v4-pro-0813",
    "name": "deepseek-v4-pro-0813",
    "vendor": "deepseek",
-   "prompt_price": 1.11e-07,
-   "completion_price": 4.44e-06,
+   "prompt_price": 1.32e-06,
+   "completion_price": 3.96e-06,
    "context": 1048576,
    "modality": "text->text",
    "created": 1786549364,
@@ -1672,7 +1672,7 @@
    "context": 500000,
    "modality": "text+image+file->text",
    "created": 1786548957,
-   "description": "Grok 4.6 is a model from SpaceXAI with frontier performance on coding, knowledge work, and STEM. It is succeeded by [Grok 4.7](/x-ai/grok-4.7)."
+   "description": "Grok 4.6 is a model from SpaceXSI with frontier performance on coding, knowledge work, and STEM. It is succeeded by [Grok 4.7](/x-ai/grok-4.7)."
   },
   {
    "id": "x-ai/grok-4.6:batch",
@@ -1683,7 +1683,7 @@
    "context": 500000,
    "modality": "text+image+file->text",
    "created": 1786548957,
-   "description": "Grok 4.6 is a model from SpaceXAI with frontier performance on coding, knowledge work, and STEM. It is succeeded by [Grok 4.7](/x-ai/grok-4.7)."
+   "description": "Grok 4.6 is a model from SpaceXSI with frontier performance on coding, knowledge work, and STEM. It is succeeded by [Grok 4.7](/x-ai/grok-4.7)."
   },
   {
    "id": "nvidia/nemotron-3.5-lightning",
@@ -1777,7 +1777,7 @@
    "id": "~deepseek/deepseek-v4-flash-latest",
    "name": "deepseek-v4-flash-latest",
    "vendor": "~deepseek",
-   "prompt_price": 5.5e-08,
+   "prompt_price": 4.7e-08,
    "completion_price": 3e-07,
    "context": 1048576,
    "modality": "text->text",
@@ -1788,7 +1788,7 @@
    "id": "deepseek/deepseek-v4-flash-0731",
    "name": "deepseek-v4-flash-0731",
    "vendor": "deepseek",
-   "prompt_price": 5.5e-08,
+   "prompt_price": 4.7e-08,
    "completion_price": 3e-07,
    "context": 1048576,
    "modality": "text->text",
@@ -2112,7 +2112,7 @@
    "context": 500000,
    "modality": "text+image+file->text",
    "created": 1783523154,
-   "description": "Grok 4.5 is a model from SpaceXAI with frontier performance on coding, knowledge work, and STEM."
+   "description": "Grok 4.5 is a model from SpaceXSI with frontier performance on coding, knowledge work, and STEM."
   },
   {
    "id": "~x-ai/grok-latest",
@@ -2225,17 +2225,6 @@
    "description": "Nano Banana Pro is Google’s most advanced image-generation and editing model, built on Gemini 3 Pro. It extends the original Nano Banana with significantly improved multimodal reasoning, real-world gr"
   },
   {
-   "id": "cohere/north-mini-code:free",
-   "name": "north-mini-code:free",
-   "vendor": "cohere",
-   "prompt_price": 0.0,
-   "completion_price": 0.0,
-   "context": 256000,
-   "modality": "text->text",
-   "created": 1781723748,
-   "description": "North Mini Code is Cohere's first agentic coding model and the debut of its North family. A sparse mixture-of-experts model with 30B total parameters and 3B active, it is optimized..."
-  },
-  {
    "id": "z-ai/glm-5.2",
    "name": "glm-5.2",
    "vendor": "z-ai",
@@ -2262,7 +2251,7 @@
    "name": "kimi-k2.7-code",
    "vendor": "moonshotai",
    "prompt_price": 6e-07,
-   "completion_price": 3.5e-06,
+   "completion_price": 3e-06,
    "context": 262144,
    "modality": "text+image->text",
    "created": 1781266361,
@@ -2423,17 +2412,6 @@
    "description": "Qwen3.7-Max is the flagship model in Alibaba's Qwen3.7 series. It supports text input and output and is designed for agent-centric workloads, with particular strengths in coding, office and productivi"
   },
   {
-   "id": "x-ai/grok-build-0.1",
-   "name": "grok-build-0.1",
-   "vendor": "x-ai",
-   "prompt_price": 1e-06,
-   "completion_price": 2e-06,
-   "context": 256000,
-   "modality": "text+image+file->text",
-   "created": 1779298123,
-   "description": "Grok Build 0.1 is SpaceXAI’s fast coding model trained specifically for agentic software engineering workflows. It supports text and image inputs with text output, and is optimized for interactive cod"
-  },
-  {
    "id": "google/gemini-3.5-flash",
    "name": "gemini-3.5-flash",
    "vendor": "google",
@@ -2508,7 +2486,7 @@
    "context": 1000000,
    "modality": "text+image+file->text",
    "created": 1777591821,
-   "description": "Grok 4.3 is a reasoning model from SpaceXAI. It accepts text and image inputs with text output, and is suited for agentic workflows, instruction-following tasks, and applications requiring high factua"
+   "description": "Grok 4.3 is a reasoning model from SpaceXSI. It accepts text and image inputs with text output, and is suited for agentic workflows, instruction-following tasks, and applications requiring high factua"
   },
   {
    "id": "x-ai/grok-4.3:batch",
@@ -2519,7 +2497,7 @@
    "context": 1000000,
    "modality": "text+image+file->text",
    "created": 1777591821,
-   "description": "Grok 4.3 is a reasoning model from SpaceXAI. It accepts text and image inputs with text output, and is suited for agentic workflows, instruction-following tasks, and applications requiring high factua"
+   "description": "Grok 4.3 is a reasoning model from SpaceXSI. It accepts text and image inputs with text output, and is suited for agentic workflows, instruction-following tasks, and applications requiring high factua"
   },
   {
    "id": "mistralai/mistral-medium-3-5",
@@ -2591,7 +2569,7 @@
    "id": "~moonshotai/kimi-latest",
    "name": "kimi-latest",
    "vendor": "~moonshotai",
-   "prompt_price": 1.824e-07,
+   "prompt_price": 1.805e-07,
    "completion_price": 1.10055e-05,
    "context": 1048576,
    "modality": "text+image+video->text",
@@ -2904,7 +2882,7 @@
    "context": 2000000,
    "modality": "text+image+file->text",
    "created": 1774979158,
-   "description": "Grok 4.20 Multi-Agent is a variant of SpaceXAI’s Grok 4.20 designed for collaborative, agent-based workflows. Multiple agents operate in parallel to conduct deep research, coordinate tool use, and syn"
+   "description": "Grok 4.20 Multi-Agent is a variant of SpaceXSI’s Grok 4.20 designed for collaborative, agent-based workflows. Multiple agents operate in parallel to conduct deep research, coordinate tool use, and syn"
   },
   {
    "id": "x-ai/grok-4.20",
@@ -2915,7 +2893,7 @@
    "context": 2000000,
    "modality": "text+image+file->text",
    "created": 1774979019,
-   "description": "Grok 4.20 is a reasoning model from SpaceXAI with industry-leading speed and agentic tool calling capabilities. It combines the lowest hallucination rate on the market with strict prompt adherance, de"
+   "description": "Grok 4.20 is a reasoning model from SpaceXSI with industry-leading speed and agentic tool calling capabilities. It combines the lowest hallucination rate on the market with strict prompt adherance, de"
   },
   {
    "id": "google/lyria-3-pro-preview",
@@ -3152,8 +3130,8 @@
    "id": "qwen/qwen3.5-27b",
    "name": "qwen3.5-27b",
    "vendor": "qwen",
-   "prompt_price": 1.95e-07,
-   "completion_price": 1.56e-06,
+   "prompt_price": 2.6e-07,
+   "completion_price": 2.6e-06,
    "context": 262144,
    "modality": "text+image+video->text",
    "created": 1772053810,
@@ -4076,8 +4054,8 @@
    "id": "openai/gpt-oss-120b",
    "name": "gpt-oss-120b",
    "vendor": "openai",
-   "prompt_price": 1.5e-07,
-   "completion_price": 6e-07,
+   "prompt_price": 9e-08,
+   "completion_price": 3.6e-07,
    "context": 131072,
    "modality": "text->text",
    "created": 1754414231,
@@ -4887,22 +4865,11 @@
    "description": "This is a series of models designed to replicate the prose quality of the Claude 3 models, specifically Sonnet(https://openrouter.ai/anthropic/claude-3.5-sonnet) and Opus(https://openrouter.ai/anthrop"
   },
   {
-   "id": "meta-llama/llama-3.2-1b-instruct",
-   "name": "llama-3.2-1b-instruct",
-   "vendor": "meta-llama",
-   "prompt_price": 2.7e-08,
-   "completion_price": 2.01e-07,
-   "context": 60000,
-   "modality": "text->text",
-   "created": 1727222400,
-   "description": "Llama 3.2 1B is a 1-billion-parameter language model focused on efficiently performing natural language tasks, such as summarization, dialogue, and multilingual text analysis. Its smaller size allows "
-  },
-  {
    "id": "meta-llama/llama-3.2-3b-instruct",
    "name": "llama-3.2-3b-instruct",
    "vendor": "meta-llama",
-   "prompt_price": 5.09e-08,
-   "completion_price": 3.35e-07,
+   "prompt_price": 5e-08,
+   "completion_price": 3.3e-07,
    "context": 131072,
    "modality": "text->text",
    "created": 1727222400,
