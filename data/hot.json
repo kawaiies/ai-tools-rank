@@ -1,65 +1,65 @@
 {
- "fetched_at": "2026-11-21T08:57:57.564Z",
+ "fetched_at": "2026-11-22T09:00:56.079Z",
  "items": [
   {
    "name": "50% off",
-   "tokens7d": 97000000000000,
-   "display": "97T tokens"
+   "tokens7d": 106000000000000,
+   "display": "106T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4.1 Flash 1017",
-   "tokens7d": 65599999999999.99,
-   "display": "65.6T tokens"
+   "tokens7d": 66599999999999.99,
+   "display": "66.6T tokens"
   },
   {
    "name": "83% off",
-   "tokens7d": 16200000000000,
-   "display": "16.2T tokens"
+   "tokens7d": 15900000000000,
+   "display": "15.9T tokens"
   },
   {
    "name": "Z.ai: GLM 5.3 Flash",
-   "tokens7d": 11500000000000,
-   "display": "11.5T tokens"
-  },
-  {
-   "name": "50% off",
-   "tokens7d": 9900000000000,
-   "display": "9.9T tokens"
+   "tokens7d": 12300000000000,
+   "display": "12.3T tokens"
   },
   {
    "name": "OpenAI: GPT-6 Luna",
-   "tokens7d": 9040000000000,
-   "display": "9.04T tokens"
+   "tokens7d": 8720000000000.001,
+   "display": "8.72T tokens"
+  },
+  {
+   "name": "50% off",
+   "tokens7d": 7930000000000,
+   "display": "7.93T tokens"
   },
   {
    "name": "Anthropic: Claude Opus 5.5",
-   "tokens7d": 7480000000000,
-   "display": "7.48T tokens"
-  },
-  {
-   "name": "StepFun: Step 5 Preview",
-   "tokens7d": 4800000000000,
-   "display": "4.8T tokens"
+   "tokens7d": 7260000000000,
+   "display": "7.26T tokens"
   },
   {
    "name": "10% off",
-   "tokens7d": 4320000000000.0005,
-   "display": "4.32T tokens"
-  },
-  {
-   "name": "Xiaomi: MiMo-V2.6-Flash",
-   "tokens7d": 4059999999999.9995,
-   "display": "4.06T tokens"
+   "tokens7d": 4420000000000,
+   "display": "4.42T tokens"
   },
   {
    "name": "MoonshotAI: Kimi K3.1 Pro",
-   "tokens7d": 3800000000000,
-   "display": "3.8T tokens"
+   "tokens7d": 4139999999999.9995,
+   "display": "4.14T tokens"
+  },
+  {
+   "name": "Xiaomi: MiMo-V2.6-Flash",
+   "tokens7d": 3970000000000,
+   "display": "3.97T tokens"
   },
   {
    "name": "NVIDIA: Nemotron 3 Ultra (free)",
-   "tokens7d": 3760000000000,
-   "display": "3.76T tokens"
+   "tokens7d": 3940000000000,
+   "display": "3.94T tokens"
+  },
+  {
+   "name": "StepFun: Step 5 Preview",
+   "tokens7d": 3840000000000,
+   "display": "3.84T tokens"
   },
   {
    "name": "Baidu: ERNIE-5.5-Flash-Preview (free)",
@@ -68,8 +68,8 @@
   },
   {
    "name": "Z.ai: GLM 5.3",
-   "tokens7d": 3540000000000,
-   "display": "3.54T tokens"
+   "tokens7d": 3600000000000,
+   "display": "3.6T tokens"
   }
  ]
 }
