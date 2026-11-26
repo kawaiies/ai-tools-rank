@@ -1,20 +1,20 @@
 {
- "fetched_at": "2026-11-25T10:41:28.018Z",
+ "fetched_at": "2026-11-26T10:14:09.585Z",
  "items": [
   {
    "name": "50% off",
-   "tokens7d": 99500000000000,
-   "display": "99.5T tokens"
+   "tokens7d": 79400000000000,
+   "display": "79.4T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4.1 Flash 1017",
-   "tokens7d": 75800000000000,
-   "display": "75.8T tokens"
+   "tokens7d": 78900000000000,
+   "display": "78.9T tokens"
   },
   {
    "name": "DeepSeek: DeepSeek V4.1 Flash",
-   "tokens7d": 15700000000000,
-   "display": "15.7T tokens"
+   "tokens7d": 15200000000000,
+   "display": "15.2T tokens"
   },
   {
    "name": "Z.ai: GLM 5.3 Flash",
@@ -23,53 +23,53 @@
   },
   {
    "name": "OpenAI: GPT-6 Luna",
-   "tokens7d": 8580000000000,
-   "display": "8.58T tokens"
+   "tokens7d": 8310000000000.001,
+   "display": "8.31T tokens"
   },
   {
    "name": "Anthropic: Claude Opus 5.5",
-   "tokens7d": 6890000000000,
-   "display": "6.89T tokens"
+   "tokens7d": 6920000000000,
+   "display": "6.92T tokens"
   },
   {
    "name": "MiniMax: MiniMax M3.1 Flash",
-   "tokens7d": 4880000000000,
-   "display": "4.88T tokens"
-  },
-  {
-   "name": "50% off",
-   "tokens7d": 4710000000000,
-   "display": "4.71T tokens"
+   "tokens7d": 5030000000000,
+   "display": "5.03T tokens"
   },
   {
    "name": "MoonshotAI: Kimi K3.1 Pro",
-   "tokens7d": 4690000000000,
-   "display": "4.69T tokens"
+   "tokens7d": 4700000000000,
+   "display": "4.7T tokens"
   },
   {
    "name": "NVIDIA: Nemotron 3 Ultra (free)",
-   "tokens7d": 4440000000000,
-   "display": "4.44T tokens"
+   "tokens7d": 4470000000000,
+   "display": "4.47T tokens"
   },
   {
    "name": "Z.ai: GLM 5.3",
-   "tokens7d": 4030000000000.0005,
-   "display": "4.03T tokens"
+   "tokens7d": 4150000000000.0005,
+   "display": "4.15T tokens"
   },
   {
-   "name": "Xiaomi: MiMo-V2.6-Flash",
-   "tokens7d": 3600000000000,
-   "display": "3.6T tokens"
-  },
-  {
-   "name": "Baidu: ERNIE-5.5-Flash-Preview (free)",
-   "tokens7d": 3540000000000,
-   "display": "3.54T tokens"
+   "name": "50% off",
+   "tokens7d": 3590000000000,
+   "display": "3.59T tokens"
   },
   {
    "name": "Meta: Muse Spark 1.3 Contributor",
-   "tokens7d": 3420000000000,
-   "display": "3.42T tokens"
+   "tokens7d": 3510000000000,
+   "display": "3.51T tokens"
+  },
+  {
+   "name": "TypeSafe: Jev 1.13",
+   "tokens7d": 3500000000000,
+   "display": "3.5T tokens"
+  },
+  {
+   "name": "Baidu: ERNIE-5.5-Flash-Preview (free)",
+   "tokens7d": 3460000000000,
+   "display": "3.46T tokens"
   }
  ]
 }
